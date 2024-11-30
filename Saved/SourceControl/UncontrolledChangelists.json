@@ -5,7 +5,23 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
-				"C:/Users/Lev/Documents/Unreal Projects/UnnamedFallingGame/Content/StarterContent/Architecture/Floor_400x400.uasset"
+				"C:/Users/Lev/Documents/Unreal Projects/UnnamedFallingGame/Content/StarterContent/Architecture/Floor_400x400.uasset",
+				"C:/Users/Lev/Documents/Unreal Projects/UnnamedFallingGame/Content/Tiles/Test_tiles/Tile1/Tile1.uasset",
+				"C:/Users/Lev/Documents/Unreal Projects/UnnamedFallingGame/Content/__ExternalActors__/Maps/TestMap1/5/38/0GV3OXWEYWDBLUMM8IF54B.uasset",
+				"C:/Users/Lev/Documents/Unreal Projects/UnnamedFallingGame/Content/__ExternalActors__/Maps/TestMap1/4/4H/632BE2CC3AXMSQ4MGSF85S.uasset",
+				"C:/Users/Lev/Documents/Unreal Projects/UnnamedFallingGame/Content/Tiles/GameJam_assets_Tile_00_joint.uasset",
+				"C:/Users/Lev/Documents/Unreal Projects/UnnamedFallingGame/Content/Tiles/Tile_Base.uasset",
+				"C:/Users/Lev/Documents/Unreal Projects/UnnamedFallingGame/Content/Tiles/Test_tiles/Tile2/Tile2.uasset",
+				"C:/Users/Lev/Documents/Unreal Projects/UnnamedFallingGame/Content/Tiles/Material_022.uasset",
+				"C:/Users/Lev/Documents/Unreal Projects/UnnamedFallingGame/Content/Player/BirdPawn.uasset",
+				"C:/Users/Lev/Documents/Unreal Projects/UnnamedFallingGame/Content/Obstacles/Birds/Bird.uasset",
+				"C:/Users/Lev/Documents/Unreal Projects/UnnamedFallingGame/Content/Obstacles/Clouds/Cloud.uasset",
+				"C:/Users/Lev/Documents/Unreal Projects/UnnamedFallingGame/Content/Sounds/Obstacles/Electricity.uasset",
+				"C:/Users/Lev/Documents/Unreal Projects/UnnamedFallingGame/Content/Sounds/Quacks/Quack_2_normal.uasset",
+				"C:/Users/Lev/Documents/Unreal Projects/UnnamedFallingGame/Content/Sounds/Quacks/Quack_1_normal.uasset",
+				"C:/Users/Lev/Documents/Unreal Projects/UnnamedFallingGame/Content/Tiles/Test_tiles/Tunnel_Solid.uasset",
+				"C:/Users/Lev/Documents/Unreal Projects/UnnamedFallingGame/Content/Tiles/Test_tiles/TunnelSolid.uasset",
+				"C:/Users/Lev/Documents/Unreal Projects/UnnamedFallingGame/Content/Tiles/Test_tiles/Noise.uasset"
 			]
 		}
 	]
