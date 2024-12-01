@@ -25669,3 +25669,304 @@ Tile_Manager
 [2024.12.01-08.15.00:012][379]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=67
 [2024.12.01-08.15.00:030][379]LogUObjectHash: Compacting FUObjectHashTables data took   1.34ms
 [2024.12.01-08.15.00:066][380]LogPlayLevel: Display: Destroying online subsystem :Context_123
+[2024.12.01-08.18.28:666][ 64]BlueprintLog: New page: Compile Magnet
+[2024.12.01-08.18.28:706][ 64]LogUObjectHash: Compacting FUObjectHashTables data took   1.50ms
+[2024.12.01-08.18.28:733][ 64]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_115:PersistentLevel.DESTROYED_Gasoline_C_CHILDACTOR_826.DefaultSceneRoot) Trying to register component with IsValid() == false. Aborting.
+[2024.12.01-08.18.28:733][ 64]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_115:PersistentLevel.DESTROYED_Gasoline_C_CHILDACTOR_825.DefaultSceneRoot) Trying to register component with IsValid() == false. Aborting.
+[2024.12.01-08.18.28:744][ 64]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_4:PersistentLevel.DESTROYED_Gasoline_C_CHILDACTOR_953.DefaultSceneRoot) Trying to register component with IsValid() == false. Aborting.
+[2024.12.01-08.18.28:744][ 64]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_4:PersistentLevel.DESTROYED_Gasoline_C_CHILDACTOR_952.DefaultSceneRoot) Trying to register component with IsValid() == false. Aborting.
+[2024.12.01-08.18.28:744][ 64]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_4:PersistentLevel.DESTROYED_Gasoline_C_CHILDACTOR_951.DefaultSceneRoot) Trying to register component with IsValid() == false. Aborting.
+[2024.12.01-08.18.28:760][ 64]LogActorComponent: RegisterComponentWithWorld: (/Game/Maps/TestMap1.TestMap1:PersistentLevel.DESTROYED_Gasoline_C_CHILDACTOR_1499090589.DefaultSceneRoot) Trying to register component with IsValid() == false. Aborting.
+[2024.12.01-08.18.28:760][ 64]LogActorComponent: RegisterComponentWithWorld: (/Game/Maps/TestMap1.TestMap1:PersistentLevel.DESTROYED_Gasoline_C_CHILDACTOR_1499090588.DefaultSceneRoot) Trying to register component with IsValid() == false. Aborting.
+[2024.12.01-08.18.28:760][ 64]LogActorComponent: RegisterComponentWithWorld: (/Game/Maps/TestMap1.TestMap1:PersistentLevel.DESTROYED_Gasoline_C_CHILDACTOR_1499090587.DefaultSceneRoot) Trying to register component with IsValid() == false. Aborting.
+[2024.12.01-08.18.28:768][ 64]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_110:PersistentLevel.DESTROYED_Gasoline_C_CHILDACTOR_245.DefaultSceneRoot) Trying to register component with IsValid() == false. Aborting.
+[2024.12.01-08.18.28:768][ 64]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_110:PersistentLevel.DESTROYED_Gasoline_C_CHILDACTOR_244.DefaultSceneRoot) Trying to register component with IsValid() == false. Aborting.
+[2024.12.01-08.18.28:768][ 64]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_110:PersistentLevel.DESTROYED_Gasoline_C_CHILDACTOR_243.DefaultSceneRoot) Trying to register component with IsValid() == false. Aborting.
+[2024.12.01-08.18.28:779][ 64]LogActorComponent: RegisterComponentWithWorld: (/Game/Maps/TestMap1.TestMap1:PersistentLevel.DESTROYED_Gasoline_C_CHILDACTOR_1499090592.DefaultSceneRoot) Trying to register component with IsValid() == false. Aborting.
+[2024.12.01-08.18.28:779][ 64]LogActorComponent: RegisterComponentWithWorld: (/Game/Maps/TestMap1.TestMap1:PersistentLevel.DESTROYED_Gasoline_C_CHILDACTOR_1499090591.DefaultSceneRoot) Trying to register component with IsValid() == false. Aborting.
+[2024.12.01-08.18.28:779][ 64]LogActorComponent: RegisterComponentWithWorld: (/Game/Maps/TestMap1.TestMap1:PersistentLevel.DESTROYED_Gasoline_C_CHILDACTOR_1499090590.DefaultSceneRoot) Trying to register component with IsValid() == false. Aborting.
+[2024.12.01-08.18.28:779][ 64]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_115:PersistentLevel.DESTROYED_Gasoline_C_CHILDACTOR_827.DefaultSceneRoot) Trying to register component with IsValid() == false. Aborting.
+[2024.12.01-08.18.28:830][ 64]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_115:PersistentLevel.DESTROYED_Gasoline_C_CHILDACTOR_831.DefaultSceneRoot) Trying to register component with IsValid() == false. Aborting.
+[2024.12.01-08.18.28:830][ 64]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_115:PersistentLevel.DESTROYED_Gasoline_C_CHILDACTOR_832.DefaultSceneRoot) Trying to register component with IsValid() == false. Aborting.
+[2024.12.01-08.18.28:830][ 64]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_115:PersistentLevel.DESTROYED_Gasoline_C_CHILDACTOR_833.DefaultSceneRoot) Trying to register component with IsValid() == false. Aborting.
+[2024.12.01-08.18.28:841][ 64]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_4:PersistentLevel.DESTROYED_Gasoline_C_CHILDACTOR_957.DefaultSceneRoot) Trying to register component with IsValid() == false. Aborting.
+[2024.12.01-08.18.28:841][ 64]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_4:PersistentLevel.DESTROYED_Gasoline_C_CHILDACTOR_958.DefaultSceneRoot) Trying to register component with IsValid() == false. Aborting.
+[2024.12.01-08.18.28:841][ 64]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_4:PersistentLevel.DESTROYED_Gasoline_C_CHILDACTOR_959.DefaultSceneRoot) Trying to register component with IsValid() == false. Aborting.
+[2024.12.01-08.18.28:858][ 64]LogActorComponent: RegisterComponentWithWorld: (/Game/Maps/TestMap1.TestMap1:PersistentLevel.DESTROYED_Gasoline_C_CHILDACTOR_1499090593.DefaultSceneRoot) Trying to register component with IsValid() == false. Aborting.
+[2024.12.01-08.18.28:858][ 64]LogActorComponent: RegisterComponentWithWorld: (/Game/Maps/TestMap1.TestMap1:PersistentLevel.DESTROYED_Gasoline_C_CHILDACTOR_1499090594.DefaultSceneRoot) Trying to register component with IsValid() == false. Aborting.
+[2024.12.01-08.18.28:858][ 64]LogActorComponent: RegisterComponentWithWorld: (/Game/Maps/TestMap1.TestMap1:PersistentLevel.DESTROYED_Gasoline_C_CHILDACTOR_1499090595.DefaultSceneRoot) Trying to register component with IsValid() == false. Aborting.
+[2024.12.01-08.18.28:865][ 64]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_110:PersistentLevel.DESTROYED_Gasoline_C_CHILDACTOR_249.DefaultSceneRoot) Trying to register component with IsValid() == false. Aborting.
+[2024.12.01-08.18.28:865][ 64]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_110:PersistentLevel.DESTROYED_Gasoline_C_CHILDACTOR_250.DefaultSceneRoot) Trying to register component with IsValid() == false. Aborting.
+[2024.12.01-08.18.28:865][ 64]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_110:PersistentLevel.DESTROYED_Gasoline_C_CHILDACTOR_251.DefaultSceneRoot) Trying to register component with IsValid() == false. Aborting.
+[2024.12.01-08.18.28:876][ 64]LogActorComponent: RegisterComponentWithWorld: (/Game/Maps/TestMap1.TestMap1:PersistentLevel.DESTROYED_Gasoline_C_CHILDACTOR_1499090596.DefaultSceneRoot) Trying to register component with IsValid() == false. Aborting.
+[2024.12.01-08.18.28:876][ 64]LogActorComponent: RegisterComponentWithWorld: (/Game/Maps/TestMap1.TestMap1:PersistentLevel.DESTROYED_Gasoline_C_CHILDACTOR_1499090597.DefaultSceneRoot) Trying to register component with IsValid() == false. Aborting.
+[2024.12.01-08.18.28:876][ 64]LogActorComponent: RegisterComponentWithWorld: (/Game/Maps/TestMap1.TestMap1:PersistentLevel.DESTROYED_Gasoline_C_CHILDACTOR_1499090598.DefaultSceneRoot) Trying to register component with IsValid() == false. Aborting.
+[2024.12.01-08.18.29:269][ 81]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.12.01-08.18.29:359][ 81]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Pickups/Magnet/Magnet" FILE="../../../../../../Users/Lev/Documents/Unreal Projects/UnnamedFallingGame/Content/Pickups/Magnet/Magnet.uasset" SILENT=true
+[2024.12.01-08.18.29:370][ 81]LogSavePackage: Moving output files for package: /Game/Pickups/Magnet/Magnet
+[2024.12.01-08.18.29:371][ 81]LogSavePackage: Moving '../../../../../../Users/Lev/Documents/Unreal Projects/UnnamedFallingGame/Saved/MagnetDCDC4387476B7B27ECEA07B99A424241.tmp' to '../../../../../../Users/Lev/Documents/Unreal Projects/UnnamedFallingGame/Content/Pickups/Magnet/Magnet.uasset'
+[2024.12.01-08.18.29:378][ 81]LogFileHelpers: InternalPromptForCheckoutAndSave took 108 ms (total: 25.1 sec)
+[2024.12.01-08.18.29:380][ 81]AssetCheck: New page: Asset Save: Magnet
+[2024.12.01-08.18.29:380][ 81]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Pickups/Magnet/Magnet.Magnet
+[2024.12.01-08.18.31:778][218]LogUObjectHash: Compacting FUObjectHashTables data took   1.42ms
+[2024.12.01-08.18.31:787][218]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.12.01-08.18.31:891][218]LogUObjectHash: Compacting FUObjectHashTables data took   0.54ms
+[2024.12.01-08.18.31:906][218]LogUObjectHash: Compacting FUObjectHashTables data took   0.67ms
+[2024.12.01-08.18.31:923][218]LogUObjectHash: Compacting FUObjectHashTables data took   0.67ms
+[2024.12.01-08.18.31:934][218]LogFileHelpers: InternalPromptForCheckoutAndSave took 147 ms (total: 25.3 sec)
+[2024.12.01-08.18.32:319][241]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.12.01-08.18.32:418][241]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Pickups/Gasoline/Gasoline" FILE="../../../../../../Users/Lev/Documents/Unreal Projects/UnnamedFallingGame/Content/Pickups/Gasoline/Gasoline.uasset" SILENT=true
+[2024.12.01-08.18.32:425][241]LogSavePackage: Moving output files for package: /Game/Pickups/Gasoline/Gasoline
+[2024.12.01-08.18.32:426][241]LogSavePackage: Moving '../../../../../../Users/Lev/Documents/Unreal Projects/UnnamedFallingGame/Saved/Gasoline17D851284735C8FC99A216B1AFF80C04.tmp' to '../../../../../../Users/Lev/Documents/Unreal Projects/UnnamedFallingGame/Content/Pickups/Gasoline/Gasoline.uasset'
+[2024.12.01-08.18.32:434][241]LogFileHelpers: InternalPromptForCheckoutAndSave took 116 ms (total: 25.4 sec)
+[2024.12.01-08.18.32:435][241]AssetCheck: New page: Asset Save: Gasoline
+[2024.12.01-08.18.32:435][241]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Pickups/Gasoline/Gasoline.Gasoline
+[2024.12.01-08.19.19:172][521]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.12.01-08.19.19:234][521]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Pickups/Gasoline/Gasoline" FILE="../../../../../../Users/Lev/Documents/Unreal Projects/UnnamedFallingGame/Content/Pickups/Gasoline/Gasoline.uasset" SILENT=true
+[2024.12.01-08.19.19:241][521]LogSavePackage: Moving output files for package: /Game/Pickups/Gasoline/Gasoline
+[2024.12.01-08.19.19:242][521]LogSavePackage: Moving '../../../../../../Users/Lev/Documents/Unreal Projects/UnnamedFallingGame/Saved/Gasoline8A9B1FEB4A630AF3C4C696972F77A3B8.tmp' to '../../../../../../Users/Lev/Documents/Unreal Projects/UnnamedFallingGame/Content/Pickups/Gasoline/Gasoline.uasset'
+[2024.12.01-08.19.19:250][521]LogFileHelpers: InternalPromptForCheckoutAndSave took 78 ms (total: 25.5 sec)
+[2024.12.01-08.19.19:251][521]AssetCheck: New page: Asset Save: Gasoline
+[2024.12.01-08.19.19:251][521]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Pickups/Gasoline/Gasoline.Gasoline
+[2024.12.01-08.20.02:209][987]BlueprintLog: New page: Compile Gasoline
+[2024.12.01-08.20.02:259][987]LogUObjectHash: Compacting FUObjectHashTables data took   1.33ms
+[2024.12.01-08.20.02:282][987]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_4:PersistentLevel.DESTROYED_Gasoline_C_CHILDACTOR_964.DefaultSceneRoot) Trying to register component with IsValid() == false. Aborting.
+[2024.12.01-08.20.02:282][987]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_4:PersistentLevel.DESTROYED_Gasoline_C_CHILDACTOR_965.DefaultSceneRoot) Trying to register component with IsValid() == false. Aborting.
+[2024.12.01-08.20.02:297][987]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_115:PersistentLevel.DESTROYED_Gasoline_C_CHILDACTOR_837.DefaultSceneRoot) Trying to register component with IsValid() == false. Aborting.
+[2024.12.01-08.20.02:297][987]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_115:PersistentLevel.DESTROYED_Gasoline_C_CHILDACTOR_838.DefaultSceneRoot) Trying to register component with IsValid() == false. Aborting.
+[2024.12.01-08.20.02:297][987]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_115:PersistentLevel.DESTROYED_Gasoline_C_CHILDACTOR_839.DefaultSceneRoot) Trying to register component with IsValid() == false. Aborting.
+[2024.12.01-08.20.02:313][987]LogActorComponent: RegisterComponentWithWorld: (/Game/Maps/TestMap1.TestMap1:PersistentLevel.DESTROYED_Gasoline_C_CHILDACTOR_1499090599.DefaultSceneRoot) Trying to register component with IsValid() == false. Aborting.
+[2024.12.01-08.20.02:313][987]LogActorComponent: RegisterComponentWithWorld: (/Game/Maps/TestMap1.TestMap1:PersistentLevel.DESTROYED_Gasoline_C_CHILDACTOR_1499090600.DefaultSceneRoot) Trying to register component with IsValid() == false. Aborting.
+[2024.12.01-08.20.02:313][987]LogActorComponent: RegisterComponentWithWorld: (/Game/Maps/TestMap1.TestMap1:PersistentLevel.DESTROYED_Gasoline_C_CHILDACTOR_1499090601.DefaultSceneRoot) Trying to register component with IsValid() == false. Aborting.
+[2024.12.01-08.20.02:314][987]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_4:PersistentLevel.DESTROYED_Gasoline_C_CHILDACTOR_963.DefaultSceneRoot) Trying to register component with IsValid() == false. Aborting.
+[2024.12.01-08.20.02:325][987]LogActorComponent: RegisterComponentWithWorld: (/Game/Maps/TestMap1.TestMap1:PersistentLevel.DESTROYED_Gasoline_C_CHILDACTOR_1499090604.DefaultSceneRoot) Trying to register component with IsValid() == false. Aborting.
+[2024.12.01-08.20.02:325][987]LogActorComponent: RegisterComponentWithWorld: (/Game/Maps/TestMap1.TestMap1:PersistentLevel.DESTROYED_Gasoline_C_CHILDACTOR_1499090603.DefaultSceneRoot) Trying to register component with IsValid() == false. Aborting.
+[2024.12.01-08.20.02:325][987]LogActorComponent: RegisterComponentWithWorld: (/Game/Maps/TestMap1.TestMap1:PersistentLevel.DESTROYED_Gasoline_C_CHILDACTOR_1499090602.DefaultSceneRoot) Trying to register component with IsValid() == false. Aborting.
+[2024.12.01-08.20.02:332][987]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_110:PersistentLevel.DESTROYED_Gasoline_C_CHILDACTOR_257.DefaultSceneRoot) Trying to register component with IsValid() == false. Aborting.
+[2024.12.01-08.20.02:332][987]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_110:PersistentLevel.DESTROYED_Gasoline_C_CHILDACTOR_256.DefaultSceneRoot) Trying to register component with IsValid() == false. Aborting.
+[2024.12.01-08.20.02:332][987]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_110:PersistentLevel.DESTROYED_Gasoline_C_CHILDACTOR_255.DefaultSceneRoot) Trying to register component with IsValid() == false. Aborting.
+[2024.12.01-08.20.02:387][987]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_4:PersistentLevel.DESTROYED_Gasoline_C_CHILDACTOR_969.DefaultSceneRoot) Trying to register component with IsValid() == false. Aborting.
+[2024.12.01-08.20.02:387][987]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_4:PersistentLevel.DESTROYED_Gasoline_C_CHILDACTOR_970.DefaultSceneRoot) Trying to register component with IsValid() == false. Aborting.
+[2024.12.01-08.20.02:387][987]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_4:PersistentLevel.DESTROYED_Gasoline_C_CHILDACTOR_971.DefaultSceneRoot) Trying to register component with IsValid() == false. Aborting.
+[2024.12.01-08.20.02:402][987]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_115:PersistentLevel.DESTROYED_Gasoline_C_CHILDACTOR_843.DefaultSceneRoot) Trying to register component with IsValid() == false. Aborting.
+[2024.12.01-08.20.02:402][987]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_115:PersistentLevel.DESTROYED_Gasoline_C_CHILDACTOR_844.DefaultSceneRoot) Trying to register component with IsValid() == false. Aborting.
+[2024.12.01-08.20.02:402][987]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_115:PersistentLevel.DESTROYED_Gasoline_C_CHILDACTOR_845.DefaultSceneRoot) Trying to register component with IsValid() == false. Aborting.
+[2024.12.01-08.20.02:418][987]LogActorComponent: RegisterComponentWithWorld: (/Game/Maps/TestMap1.TestMap1:PersistentLevel.DESTROYED_Gasoline_C_CHILDACTOR_1499090605.DefaultSceneRoot) Trying to register component with IsValid() == false. Aborting.
+[2024.12.01-08.20.02:418][987]LogActorComponent: RegisterComponentWithWorld: (/Game/Maps/TestMap1.TestMap1:PersistentLevel.DESTROYED_Gasoline_C_CHILDACTOR_1499090606.DefaultSceneRoot) Trying to register component with IsValid() == false. Aborting.
+[2024.12.01-08.20.02:418][987]LogActorComponent: RegisterComponentWithWorld: (/Game/Maps/TestMap1.TestMap1:PersistentLevel.DESTROYED_Gasoline_C_CHILDACTOR_1499090607.DefaultSceneRoot) Trying to register component with IsValid() == false. Aborting.
+[2024.12.01-08.20.02:429][987]LogActorComponent: RegisterComponentWithWorld: (/Game/Maps/TestMap1.TestMap1:PersistentLevel.DESTROYED_Gasoline_C_CHILDACTOR_1499090608.DefaultSceneRoot) Trying to register component with IsValid() == false. Aborting.
+[2024.12.01-08.20.02:429][987]LogActorComponent: RegisterComponentWithWorld: (/Game/Maps/TestMap1.TestMap1:PersistentLevel.DESTROYED_Gasoline_C_CHILDACTOR_1499090609.DefaultSceneRoot) Trying to register component with IsValid() == false. Aborting.
+[2024.12.01-08.20.02:429][987]LogActorComponent: RegisterComponentWithWorld: (/Game/Maps/TestMap1.TestMap1:PersistentLevel.DESTROYED_Gasoline_C_CHILDACTOR_1499090610.DefaultSceneRoot) Trying to register component with IsValid() == false. Aborting.
+[2024.12.01-08.20.02:436][987]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_110:PersistentLevel.DESTROYED_Gasoline_C_CHILDACTOR_261.DefaultSceneRoot) Trying to register component with IsValid() == false. Aborting.
+[2024.12.01-08.20.02:436][987]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_110:PersistentLevel.DESTROYED_Gasoline_C_CHILDACTOR_262.DefaultSceneRoot) Trying to register component with IsValid() == false. Aborting.
+[2024.12.01-08.20.02:437][987]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_110:PersistentLevel.DESTROYED_Gasoline_C_CHILDACTOR_263.DefaultSceneRoot) Trying to register component with IsValid() == false. Aborting.
+[2024.12.01-08.20.02:788][  4]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.12.01-08.20.02:873][  4]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Pickups/Gasoline/Gasoline" FILE="../../../../../../Users/Lev/Documents/Unreal Projects/UnnamedFallingGame/Content/Pickups/Gasoline/Gasoline.uasset" SILENT=true
+[2024.12.01-08.20.02:881][  4]LogSavePackage: Moving output files for package: /Game/Pickups/Gasoline/Gasoline
+[2024.12.01-08.20.02:882][  4]LogSavePackage: Moving '../../../../../../Users/Lev/Documents/Unreal Projects/UnnamedFallingGame/Saved/GasolineA8C625EC44E43A4E0C200E8A07D662B2.tmp' to '../../../../../../Users/Lev/Documents/Unreal Projects/UnnamedFallingGame/Content/Pickups/Gasoline/Gasoline.uasset'
+[2024.12.01-08.20.02:890][  4]LogFileHelpers: InternalPromptForCheckoutAndSave took 101 ms (total: 25.6 sec)
+[2024.12.01-08.20.02:891][  4]AssetCheck: New page: Asset Save: Gasoline
+[2024.12.01-08.20.02:891][  4]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Pickups/Gasoline/Gasoline.Gasoline
+[2024.12.01-08.20.04:075][ 71]LogUObjectHash: Compacting FUObjectHashTables data took   1.47ms
+[2024.12.01-08.21.41:484][717]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.12.01-08.21.41:556][717]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Pickups/Gasoline/Gasoline" FILE="../../../../../../Users/Lev/Documents/Unreal Projects/UnnamedFallingGame/Content/Pickups/Gasoline/Gasoline.uasset" SILENT=true
+[2024.12.01-08.21.41:564][717]LogSavePackage: Moving output files for package: /Game/Pickups/Gasoline/Gasoline
+[2024.12.01-08.21.41:565][717]LogSavePackage: Moving '../../../../../../Users/Lev/Documents/Unreal Projects/UnnamedFallingGame/Saved/Gasoline4E655D94417228A0CE76B9B1246BCA97.tmp' to '../../../../../../Users/Lev/Documents/Unreal Projects/UnnamedFallingGame/Content/Pickups/Gasoline/Gasoline.uasset'
+[2024.12.01-08.21.41:572][717]LogFileHelpers: InternalPromptForCheckoutAndSave took 87 ms (total: 25.7 sec)
+[2024.12.01-08.21.41:573][717]AssetCheck: New page: Asset Save: Gasoline
+[2024.12.01-08.21.41:573][717]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Pickups/Gasoline/Gasoline.Gasoline
+[2024.12.01-08.22.57:266][844]LogUObjectHash: Compacting FUObjectHashTables data took   1.84ms
+[2024.12.01-08.22.57:802][876]BlueprintLog: New page: Compile Gasoline
+[2024.12.01-08.22.57:848][876]LogUObjectHash: Compacting FUObjectHashTables data took   1.34ms
+[2024.12.01-08.22.57:866][876]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_110:PersistentLevel.DESTROYED_Gasoline_C_CHILDACTOR_269.DefaultSceneRoot) Trying to register component with IsValid() == false. Aborting.
+[2024.12.01-08.22.57:866][876]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_110:PersistentLevel.DESTROYED_Gasoline_C_CHILDACTOR_268.DefaultSceneRoot) Trying to register component with IsValid() == false. Aborting.
+[2024.12.01-08.22.57:866][876]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_110:PersistentLevel.DESTROYED_Gasoline_C_CHILDACTOR_267.DefaultSceneRoot) Trying to register component with IsValid() == false. Aborting.
+[2024.12.01-08.22.57:877][876]LogActorComponent: RegisterComponentWithWorld: (/Game/Maps/TestMap1.TestMap1:PersistentLevel.DESTROYED_Gasoline_C_CHILDACTOR_1499090613.DefaultSceneRoot) Trying to register component with IsValid() == false. Aborting.
+[2024.12.01-08.22.57:877][876]LogActorComponent: RegisterComponentWithWorld: (/Game/Maps/TestMap1.TestMap1:PersistentLevel.DESTROYED_Gasoline_C_CHILDACTOR_1499090612.DefaultSceneRoot) Trying to register component with IsValid() == false. Aborting.
+[2024.12.01-08.22.57:877][876]LogActorComponent: RegisterComponentWithWorld: (/Game/Maps/TestMap1.TestMap1:PersistentLevel.DESTROYED_Gasoline_C_CHILDACTOR_1499090611.DefaultSceneRoot) Trying to register component with IsValid() == false. Aborting.
+[2024.12.01-08.22.57:894][876]LogActorComponent: RegisterComponentWithWorld: (/Game/Maps/TestMap1.TestMap1:PersistentLevel.DESTROYED_Gasoline_C_CHILDACTOR_1499090616.DefaultSceneRoot) Trying to register component with IsValid() == false. Aborting.
+[2024.12.01-08.22.57:894][876]LogActorComponent: RegisterComponentWithWorld: (/Game/Maps/TestMap1.TestMap1:PersistentLevel.DESTROYED_Gasoline_C_CHILDACTOR_1499090615.DefaultSceneRoot) Trying to register component with IsValid() == false. Aborting.
+[2024.12.01-08.22.57:894][876]LogActorComponent: RegisterComponentWithWorld: (/Game/Maps/TestMap1.TestMap1:PersistentLevel.DESTROYED_Gasoline_C_CHILDACTOR_1499090614.DefaultSceneRoot) Trying to register component with IsValid() == false. Aborting.
+[2024.12.01-08.22.57:908][876]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_115:PersistentLevel.DESTROYED_Gasoline_C_CHILDACTOR_851.DefaultSceneRoot) Trying to register component with IsValid() == false. Aborting.
+[2024.12.01-08.22.57:908][876]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_115:PersistentLevel.DESTROYED_Gasoline_C_CHILDACTOR_850.DefaultSceneRoot) Trying to register component with IsValid() == false. Aborting.
+[2024.12.01-08.22.57:908][876]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_115:PersistentLevel.DESTROYED_Gasoline_C_CHILDACTOR_849.DefaultSceneRoot) Trying to register component with IsValid() == false. Aborting.
+[2024.12.01-08.22.57:919][876]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_4:PersistentLevel.DESTROYED_Gasoline_C_CHILDACTOR_977.DefaultSceneRoot) Trying to register component with IsValid() == false. Aborting.
+[2024.12.01-08.22.57:919][876]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_4:PersistentLevel.DESTROYED_Gasoline_C_CHILDACTOR_976.DefaultSceneRoot) Trying to register component with IsValid() == false. Aborting.
+[2024.12.01-08.22.57:919][876]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_4:PersistentLevel.DESTROYED_Gasoline_C_CHILDACTOR_975.DefaultSceneRoot) Trying to register component with IsValid() == false. Aborting.
+[2024.12.01-08.22.57:950][876]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_110:PersistentLevel.DESTROYED_Gasoline_C_CHILDACTOR_273.DefaultSceneRoot) Trying to register component with IsValid() == false. Aborting.
+[2024.12.01-08.22.57:950][876]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_110:PersistentLevel.DESTROYED_Gasoline_C_CHILDACTOR_274.DefaultSceneRoot) Trying to register component with IsValid() == false. Aborting.
+[2024.12.01-08.22.57:950][876]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_110:PersistentLevel.DESTROYED_Gasoline_C_CHILDACTOR_275.DefaultSceneRoot) Trying to register component with IsValid() == false. Aborting.
+[2024.12.01-08.22.57:961][876]LogActorComponent: RegisterComponentWithWorld: (/Game/Maps/TestMap1.TestMap1:PersistentLevel.DESTROYED_Gasoline_C_CHILDACTOR_1499090617.DefaultSceneRoot) Trying to register component with IsValid() == false. Aborting.
+[2024.12.01-08.22.57:961][876]LogActorComponent: RegisterComponentWithWorld: (/Game/Maps/TestMap1.TestMap1:PersistentLevel.DESTROYED_Gasoline_C_CHILDACTOR_1499090618.DefaultSceneRoot) Trying to register component with IsValid() == false. Aborting.
+[2024.12.01-08.22.57:961][876]LogActorComponent: RegisterComponentWithWorld: (/Game/Maps/TestMap1.TestMap1:PersistentLevel.DESTROYED_Gasoline_C_CHILDACTOR_1499090619.DefaultSceneRoot) Trying to register component with IsValid() == false. Aborting.
+[2024.12.01-08.22.57:978][876]LogActorComponent: RegisterComponentWithWorld: (/Game/Maps/TestMap1.TestMap1:PersistentLevel.DESTROYED_Gasoline_C_CHILDACTOR_1499090620.DefaultSceneRoot) Trying to register component with IsValid() == false. Aborting.
+[2024.12.01-08.22.57:978][876]LogActorComponent: RegisterComponentWithWorld: (/Game/Maps/TestMap1.TestMap1:PersistentLevel.DESTROYED_Gasoline_C_CHILDACTOR_1499090621.DefaultSceneRoot) Trying to register component with IsValid() == false. Aborting.
+[2024.12.01-08.22.57:978][876]LogActorComponent: RegisterComponentWithWorld: (/Game/Maps/TestMap1.TestMap1:PersistentLevel.DESTROYED_Gasoline_C_CHILDACTOR_1499090622.DefaultSceneRoot) Trying to register component with IsValid() == false. Aborting.
+[2024.12.01-08.22.57:992][876]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_115:PersistentLevel.DESTROYED_Gasoline_C_CHILDACTOR_855.DefaultSceneRoot) Trying to register component with IsValid() == false. Aborting.
+[2024.12.01-08.22.57:992][876]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_115:PersistentLevel.DESTROYED_Gasoline_C_CHILDACTOR_856.DefaultSceneRoot) Trying to register component with IsValid() == false. Aborting.
+[2024.12.01-08.22.57:992][876]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_115:PersistentLevel.DESTROYED_Gasoline_C_CHILDACTOR_857.DefaultSceneRoot) Trying to register component with IsValid() == false. Aborting.
+[2024.12.01-08.22.58:003][876]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_4:PersistentLevel.DESTROYED_Gasoline_C_CHILDACTOR_981.DefaultSceneRoot) Trying to register component with IsValid() == false. Aborting.
+[2024.12.01-08.22.58:003][876]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_4:PersistentLevel.DESTROYED_Gasoline_C_CHILDACTOR_982.DefaultSceneRoot) Trying to register component with IsValid() == false. Aborting.
+[2024.12.01-08.22.58:003][876]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_4:PersistentLevel.DESTROYED_Gasoline_C_CHILDACTOR_983.DefaultSceneRoot) Trying to register component with IsValid() == false. Aborting.
+[2024.12.01-08.22.58:405][898]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.12.01-08.22.58:493][898]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Pickups/Gasoline/Gasoline" FILE="../../../../../../Users/Lev/Documents/Unreal Projects/UnnamedFallingGame/Content/Pickups/Gasoline/Gasoline.uasset" SILENT=true
+[2024.12.01-08.22.58:501][898]LogSavePackage: Moving output files for package: /Game/Pickups/Gasoline/Gasoline
+[2024.12.01-08.22.58:502][898]LogSavePackage: Moving '../../../../../../Users/Lev/Documents/Unreal Projects/UnnamedFallingGame/Saved/Gasoline69E3C7264E5EAD6B95A78DBB654D3BCC.tmp' to '../../../../../../Users/Lev/Documents/Unreal Projects/UnnamedFallingGame/Content/Pickups/Gasoline/Gasoline.uasset'
+[2024.12.01-08.22.58:509][898]LogFileHelpers: InternalPromptForCheckoutAndSave took 103 ms (total: 25.8 sec)
+[2024.12.01-08.22.58:510][898]AssetCheck: New page: Asset Save: Gasoline
+[2024.12.01-08.22.58:510][898]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Pickups/Gasoline/Gasoline.Gasoline
+[2024.12.01-08.32.57:836][310]LogAudioMixer: Warning: FMixerPlatformXAudio2: Changing default audio render device to new device: Role=Console, DeviceName=Speakers (Realtek(R) Audio), InstanceID=1
+[2024.12.01-08.32.58:127][310]LogAudioMixer: Display: FMixerNullCallback: Simulating a h/w device callback at [21ms], ThreadID=9692
+[2024.12.01-08.32.58:462][311]LogAudioMixer: Display: Successful Swap new Device is (NumChannels=2, SampleRate=48000, DeviceID={0.0.0.00000000}.{7afa09b4-5f5a-44ad-9260-ed65710dbbc6}, Name=Speakers (Realtek(R) Audio)), Reason=FMixerPlatformXAudio2::OnDefaultRenderDeviceChanged, InstanceID=1, DurationMS=31.89
+[2024.12.01-08.32.58:462][311]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=1
+[2024.12.01-08.32.58:463][311]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=1
+[2024.12.01-08.41.46:106][894]LogDerivedDataCache: C:/Users/Lev/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:45.200 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 23986 files in 25178 folders with total size 612 MiB.
+[2024.12.01-09.17.43:264][364]LogAudioMixer: Warning: FMixerPlatformXAudio2: Changing default audio render device to new device: Role=Console, DeviceName=Headphones (Realtek(R) Audio), InstanceID=1
+[2024.12.01-09.17.43:357][364]LogAudioMixer: Display: FMixerNullCallback: Simulating a h/w device callback at [21ms], ThreadID=9692
+[2024.12.01-09.17.43:691][365]LogAudioMixer: Display: Successful Swap new Device is (NumChannels=2, SampleRate=48000, DeviceID={0.0.0.00000000}.{7004e31a-354e-43c2-83f0-2ceb205dc5d4}, Name=Headphones (Realtek(R) Audio)), Reason=FMixerPlatformXAudio2::OnDefaultRenderDeviceChanged, InstanceID=1, DurationMS=30.50
+[2024.12.01-09.17.43:691][365]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=1
+[2024.12.01-09.17.43:693][365]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=1
+[2024.12.01-09.23.26:649][394]LogAudioMixer: Warning: FMixerPlatformXAudio2: Changing default audio render device to new device: Role=Console, DeviceName=Speakers (Realtek(R) Audio), InstanceID=1
+[2024.12.01-09.23.26:768][394]LogAudioMixer: Display: FMixerNullCallback: Simulating a h/w device callback at [21ms], ThreadID=9692
+[2024.12.01-09.23.27:103][395]LogAudioMixer: Display: Successful Swap new Device is (NumChannels=2, SampleRate=48000, DeviceID={0.0.0.00000000}.{7afa09b4-5f5a-44ad-9260-ed65710dbbc6}, Name=Speakers (Realtek(R) Audio)), Reason=FMixerPlatformXAudio2::OnDefaultRenderDeviceChanged, InstanceID=1, DurationMS=36.84
+[2024.12.01-09.23.27:103][395]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=1
+[2024.12.01-09.23.27:104][395]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=1
+[2024.12.01-09.41.46:932][360]LogDerivedDataCache: C:/Users/Lev/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:46.025 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 23986 files in 25178 folders with total size 612 MiB.
+[2024.12.01-10.41.49:753][159]LogDerivedDataCache: C:/Users/Lev/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:46.157 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 23986 files in 25178 folders with total size 612 MiB.
+[2024.12.01-11.41.48:762][954]LogDerivedDataCache: C:/Users/Lev/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:45.165 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 23986 files in 25178 folders with total size 612 MiB.
+[2024.12.01-12.20.51:172][ 54]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2024.12.01-12.20.51:186][ 54]LogContentBundle: [TestMap1(Standalone)] Generating Streaming for 0 Content Bundles.
+[2024.12.01-12.20.51:186][ 54]LogWorldPartition: Display: GenerateStreaming for 'TestMap1' started...
+[2024.12.01-12.20.51:630][ 54]LogWorldPartition: Display: GenerateStreaming for 'TestMap1' took 443 ms (total: 6.45 sec)
+[2024.12.01-12.20.51:635][ 54]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.12.01-12.20.51:636][ 54]PIE: New page: PIE session: TestMap1 (Nov 30, 2024, 8:20:51 PM)
+[2024.12.01-12.20.51:637][ 54]LogPlayLevel: Display: Creating online subsystem for client :Context_124
+[2024.12.01-12.20.51:639][ 54]LogOnline: OSS: Created online subsystem instance for: :Context_124
+[2024.12.01-12.20.51:676][ 55]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_TestMap1
+[2024.12.01-12.20.51:703][ 55]LogPlayLevel: PIE: StaticDuplicateObject took: (0.026722s)
+[2024.12.01-12.20.51:703][ 55]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/TestMap1.TestMap1 to /Game/Maps/UEDPIE_0_TestMap1.TestMap1 (0.026820s)
+[2024.12.01-12.20.51:820][ 55]LogUObjectHash: Compacting FUObjectHashTables data took   4.66ms
+[2024.12.01-12.20.51:829][ 55]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.12.01-12.20.51:829][ 55]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.12.01-12.20.51:830][ 55]LogAIModule: Creating AISystem for world TestMap1
+[2024.12.01-12.20.51:831][ 55]LogWorldPartition: ULevel::OnLevelLoaded(TestMap1)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2024.12.01-12.20.51:831][ 55]LogWorldPartition: Display: WorldPartition initialize started...
+[2024.12.01-12.20.51:831][ 55]LogWorldPartition: UWorldPartition::Initialize : World = TestMap1, World Type = PIE, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 0, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2024.12.01-12.20.51:831][ 55]LogWorldPartition: UWorldPartition::Initialize Context : World NetMode = Standalone, IsServer = 0, IsDedicatedServer = 0, IsServerStreamingEnabled = 0, IsServerStreamingOutEnabled = 0, IsUsingMakingVisibleTransaction = 0, IsUsingMakingInvisibleTransaction = 0
+[2024.12.01-12.20.51:833][ 55]LogContentBundle: [TestMap1(Standalone)] Creating new contrainer.
+[2024.12.01-12.20.51:834][ 55]LogWorldPartition: Display: WorldPartition initialize took 2 ms (total: 505 ms)
+[2024.12.01-12.20.51:834][ 55]LogPlayLevel: PIE: World Init took: (0.005247s)
+[2024.12.01-12.20.51:834][ 55]LogAudio: Display: Creating Audio Device:                 Id: 68, Scope: Unique, Realtime: True
+[2024.12.01-12.20.51:834][ 55]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.12.01-12.20.51:834][ 55]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.12.01-12.20.51:834][ 55]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.12.01-12.20.51:834][ 55]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.12.01-12.20.51:834][ 55]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.12.01-12.20.51:834][ 55]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.12.01-12.20.51:834][ 55]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.12.01-12.20.51:834][ 55]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.12.01-12.20.51:834][ 55]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.12.01-12.20.51:834][ 55]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.12.01-12.20.51:834][ 55]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.12.01-12.20.51:836][ 55]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.12.01-12.20.51:872][ 55]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Realtek(R) Audio)
+[2024.12.01-12.20.51:874][ 55]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.12.01-12.20.51:874][ 55]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.12.01-12.20.51:874][ 55]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.12.01-12.20.51:876][ 55]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=68
+[2024.12.01-12.20.51:876][ 55]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=68
+[2024.12.01-12.20.51:878][ 55]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=68
+[2024.12.01-12.20.51:878][ 55]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=68
+[2024.12.01-12.20.51:880][ 55]LogInit: FAudioDevice initialized with ID 68.
+[2024.12.01-12.20.51:880][ 55]LogAudio: Display: Audio Device (ID: 68) registered with world 'TestMap1'.
+[2024.12.01-12.20.51:880][ 55]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 68
+[2024.12.01-12.20.51:886][ 55]LogLoad: Game class is 'BirdGameMode_C'
+[2024.12.01-12.20.51:887][ 55]LogWorld: Bringing World /Game/Maps/UEDPIE_0_TestMap1.TestMap1 up for play (max tick rate 60) at 2024.12.01-04.20.51
+[2024.12.01-12.20.51:888][ 55]LogWorld: Bringing up level for play took: 0.001737
+[2024.12.01-12.20.51:890][ 55]LogWorldPartition: UWorldPartitionStreamingPolicy: CellsToActivate(46), CellsToLoad(0), CellsToUnload(0)
+[2024.12.01-12.20.51:890][ 55]LogWorldPartition: UWorldPartitionStreamingPolicy: Sources[0] = X=0.000 Y=0.000 Z=1342.000,P=0.000000 Y=180.000000 R=-0.000000
+[2024.12.01-12.20.51:895][ 55]LogStreaming: Display: FlushAsyncLoading(): 48 QueuedPackages, 0 AsyncPackages
+[2024.12.01-12.20.52:180][ 55]PIE: Server logged in
+[2024.12.01-12.20.52:181][ 55]PIE: Play in editor total start time 0.995 seconds.
+[2024.12.01-12.20.54:409][182]LogBlueprintUserMessages: [Tile1_C_UAID_E4A8DFC8C64E513402_2000338663] Hello
+[2024.12.01-12.20.57:185][348]LogBlueprintUserMessages: [Magnet_C_0] Detected
+[2024.12.01-12.20.57:187][348]LogBlueprintUserMessages: [Tile2_C_UAID_E4A8DFC8C64E7E3402_1440849313] Hello
+[2024.12.01-12.20.59:964][514]LogBlueprintUserMessages: [Tile2_C_0] Hello
+[2024.12.01-12.21.03:311][714]LogBlueprintUserMessages: [Magnet_C_1] Detected
+[2024.12.01-12.21.03:313][714]LogBlueprintUserMessages: [Tile1_C_0] Hello
+[2024.12.01-12.21.03:341][716]LogBlueprintUserMessages: [Magnet_C_1] Detected
+[2024.12.01-12.21.04:658][795]LogBlueprintUserMessages: [Magnet_C_1] Detected
+[2024.12.01-12.21.05:641][854]LogBlueprintUserMessages: [Magnet_C_1] Detected
+[2024.12.01-12.21.05:983][874]LogBlueprintUserMessages: [Magnet_C_2] Detected
+[2024.12.01-12.21.05:985][874]LogBlueprintUserMessages: [Tile1_C_1] Hello
+[2024.12.01-12.21.06:547][908]LogBlueprintUserMessages: [Magnet_C_1] Detected
+[2024.12.01-12.21.06:947][932]LogBlueprintUserMessages: [Magnet_C_1] Detected
+[2024.12.01-12.21.08:272][ 11]LogBlueprintUserMessages: [Magnet_C_3] Detected
+[2024.12.01-12.21.08:273][ 11]LogBlueprintUserMessages: [Tile2_C_1] Hello
+[2024.12.01-12.21.08:401][ 19]LogBlueprintUserMessages: [Magnet_C_3] Detected
+[2024.12.01-12.21.08:868][ 47]LogBlueprintUserMessages: [Magnet_C_3] Detected
+[2024.12.01-12.21.09:918][110]LogBlueprintUserMessages: [Magnet_C_3] Detected
+[2024.12.01-12.21.10:701][157]LogBlueprintUserMessages: [Magnet_C_3] Detected
+[2024.12.01-12.21.10:765][160]LogBlueprintUserMessages: [Magnet_C_4] Detected
+[2024.12.01-12.21.10:766][160]LogBlueprintUserMessages: [Tile2_C_2] Hello
+[2024.12.01-12.21.11:645][213]LogBlueprintUserMessages: [Magnet_C_2] Detected
+[2024.12.01-12.21.11:645][213]LogBlueprintUserMessages: [Magnet_C_3] Detected
+[2024.12.01-12.21.11:828][224]LogBlueprintUserMessages: [Magnet_C_2] Detected
+[2024.12.01-12.21.12:841][284]LogBlueprintUserMessages: [Tile2_C_3] Hello
+[2024.12.01-12.21.13:136][302]LogBlueprintUserMessages: [Magnet_C_2] Detected
+[2024.12.01-12.21.13:136][302]LogBlueprintUserMessages: [Magnet_C_4] Detected
+[2024.12.01-12.21.13:819][343]LogBlueprintUserMessages: [Magnet_C_2] Detected
+[2024.12.01-12.21.14:336][374]LogBlueprintUserMessages: [Magnet_C_2] Detected
+[2024.12.01-12.21.15:133][421]LogBlueprintUserMessages: [Magnet_C_5] Detected
+[2024.12.01-12.21.15:134][421]LogBlueprintUserMessages: [Tile1_C_2] Hello
+[2024.12.01-12.21.17:155][542]LogBlueprintUserMessages: [Magnet_C_6] Detected
+[2024.12.01-12.21.17:156][542]LogBlueprintUserMessages: [Tile1_C_3] Hello
+[2024.12.01-12.21.17:201][545]LogBlueprintUserMessages: [Magnet_C_6] Detected
+[2024.12.01-12.21.18:469][621]LogBlueprintUserMessages: [Magnet_C_6] Detected
+[2024.12.01-12.21.18:965][650]LogBlueprintUserMessages: [Magnet_C_7] Detected
+[2024.12.01-12.21.18:967][650]LogBlueprintUserMessages: [Tile1_C_4] Hello
+[2024.12.01-12.21.20:047][715]LogBlueprintUserMessages: [Magnet_C_6] Detected
+[2024.12.01-12.21.20:797][760]LogBlueprintUserMessages: [Magnet_C_6] Detected
+[2024.12.01-12.21.21:038][774]LogBlueprintUserMessages: [Magnet_C_8] Detected
+[2024.12.01-12.21.21:039][774]LogBlueprintUserMessages: [Tile2_C_4] Hello
+[2024.12.01-12.21.21:067][776]LogBlueprintUserMessages: [Magnet_C_8] Detected
+[2024.12.01-12.21.22:901][886]LogBlueprintUserMessages: [Magnet_C_8] Detected
+[2024.12.01-12.21.23:776][938]LogBlueprintUserMessages: [Tile1_C_5] Hello
+[2024.12.01-12.21.24:125][959]LogBlueprintUserMessages: [Magnet_C_8] Detected
+[2024.12.01-12.21.24:573][986]LogBlueprintUserMessages: [Magnet_C_7] Detected
+[2024.12.01-12.21.24:573][986]LogBlueprintUserMessages: [Magnet_C_8] Detected
+[2024.12.01-12.21.24:673][992]LogBlueprintUserMessages: [Magnet_C_8] Detected
+[2024.12.01-12.21.25:506][ 42]LogBlueprintUserMessages: [Magnet_C_7] Detected
+[2024.12.01-12.21.25:522][ 43]LogBlueprintUserMessages: [Magnet_C_8] Detected
+[2024.12.01-12.21.27:221][144]LogBlueprintUserMessages: [Tile2_C_5] Hello
+[2024.12.01-12.21.30:113][317]LogBlueprintUserMessages: [Tile2_C_6] Hello
+[2024.12.01-12.21.33:067][494]LogBlueprintUserMessages: [Tile1_C_6] Hello
+[2024.12.01-12.21.35:409][634]LogBlueprintUserMessages: [Magnet_C_9] Detected
+[2024.12.01-12.21.35:410][634]LogBlueprintUserMessages: [Tile1_C_7] Hello
+[2024.12.01-12.21.35:686][649]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.12.01-12.21.35:686][649]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_TestMap1
+[2024.12.01-12.21.35:688][649]LogWorld: UWorld::CleanupWorld for TestMap1, bSessionEnded=true, bCleanupResources=true
+[2024.12.01-12.21.35:691][649]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.12.01-12.21.35:692][649]LogContentBundle: [TestMap1(Standalone)] Deleting container.
+[2024.12.01-12.21.35:696][649]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.12.01-12.21.35:702][649]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.12.01-12.21.35:719][649]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.12.01-12.21.35:723][649]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 68
+[2024.12.01-12.21.35:723][649]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=68
+[2024.12.01-12.21.35:725][649]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=68
+[2024.12.01-12.21.35:730][649]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.12.01-12.21.35:741][649]LogUObjectHash: Compacting FUObjectHashTables data took   1.36ms
+[2024.12.01-12.21.35:775][650]LogPlayLevel: Display: Destroying online subsystem :Context_124
+[2024.12.01-12.25.43:338][714]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.12.01-12.25.43:427][714]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Pickups/Gasoline/Gasoline" FILE="../../../../../../Users/Lev/Documents/Unreal Projects/UnnamedFallingGame/Content/Pickups/Gasoline/Gasoline.uasset" SILENT=true
+[2024.12.01-12.25.43:438][714]LogSavePackage: Moving output files for package: /Game/Pickups/Gasoline/Gasoline
+[2024.12.01-12.25.43:438][714]LogSavePackage: Moving '../../../../../../Users/Lev/Documents/Unreal Projects/UnnamedFallingGame/Saved/Gasoline54B800B84F2DC888D0CA07BF27BFE896.tmp' to '../../../../../../Users/Lev/Documents/Unreal Projects/UnnamedFallingGame/Content/Pickups/Gasoline/Gasoline.uasset'
+[2024.12.01-12.25.43:446][714]LogFileHelpers: InternalPromptForCheckoutAndSave took 108 ms (total: 25.9 sec)
+[2024.12.01-12.25.43:449][714]AssetCheck: New page: Asset Save: Gasoline
+[2024.12.01-12.25.43:449][714]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Pickups/Gasoline/Gasoline.Gasoline
+[2024.12.01-12.25.57:445][507]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Obstacles/Birds/Bird1/Bird1.Bird1
+[2024.12.01-12.25.57:446][507]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.12.01-12.25.57:446][507]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.12.01-12.26.00:896][678]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Obstacles/Birds/Bird.Bird
+[2024.12.01-12.26.00:896][678]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.12.01-12.26.00:897][678]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
