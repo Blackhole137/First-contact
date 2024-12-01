@@ -25,10 +25,6 @@
 				"C:/Users/Lev/Documents/Unreal Projects/UnnamedFallingGame/Content/UI/WB_ProgressBar.uasset",
 				"C:/Users/Lev/Documents/Unreal Projects/UnnamedFallingGame/Content/UI/UI_Height01.uasset",
 				"C:/Users/Lev/Documents/Unreal Projects/UnnamedFallingGame/Content/Tiles/Tile_Manager.uasset",
-				"C:/Users/Lev/Documents/Unreal Projects/UnnamedFallingGame/Content/Tiles/TrampolineTIle.uasset",
-				"C:/Users/Lev/Documents/Unreal Projects/UnnamedFallingGame/Content/Tiles/Test_tiles/Tile1/TrampolineTIle.uasset",
-				"C:/Users/Lev/Documents/Unreal Projects/UnnamedFallingGame/Content/Tiles/BlueExampleTIle.uasset",
-				"C:/Users/Lev/Documents/Unreal Projects/UnnamedFallingGame/Content/Tiles/RedExampleTile.uasset",
 				"C:/Users/Lev/Documents/Unreal Projects/UnnamedFallingGame/Content/Tiles/Trampoline/TrampolineTIle.uasset",
 				"C:/Users/Lev/Documents/Unreal Projects/UnnamedFallingGame/Content/Tiles/Trampoline/M_Trampoline.uasset",
 				"C:/Users/Lev/Documents/Unreal Projects/UnnamedFallingGame/Content/Tiles/Trampoline/Trampoline.uasset",
@@ -40,7 +36,17 @@
 				"C:/Users/Lev/Documents/Unreal Projects/UnnamedFallingGame/Content/Pickups/Gasoline/Gasoline.uasset",
 				"C:/Users/Lev/Documents/Unreal Projects/UnnamedFallingGame/Content/Pickups/Gasoline/Fuel_Low_Fuel_Mat_OcclusionRoughnessMetallic.uasset",
 				"C:/Users/Lev/Documents/Unreal Projects/UnnamedFallingGame/Content/Pickups/Gasoline/Fuel_Low_Fuel_Mat_BaseColor.uasset",
-				"C:/Users/Lev/Documents/Unreal Projects/UnnamedFallingGame/Content/Pickups/Gasoline/Fuel_Low_Fuel_Mat_Normal.uasset"
+				"C:/Users/Lev/Documents/Unreal Projects/UnnamedFallingGame/Content/Pickups/Gasoline/Fuel_Low_Fuel_Mat_Normal.uasset",
+				"C:/Users/Lev/Documents/Unreal Projects/UnnamedFallingGame/Content/Tiles/WindTunnel.uasset",
+				"C:/Users/Lev/Documents/Unreal Projects/UnnamedFallingGame/Content/Sounds/Music/Fast_1.uasset",
+				"C:/Users/Lev/Documents/Unreal Projects/UnnamedFallingGame/Content/Sounds/Music/Fast__no_lead__1.uasset",
+				"C:/Users/Lev/Documents/Unreal Projects/UnnamedFallingGame/Content/Player/E_SpeedPhases.uasset",
+				"C:/Users/Lev/Documents/Unreal Projects/UnnamedFallingGame/Content/Sounds/Music/Fast_2.uasset",
+				"C:/Users/Lev/Documents/Unreal Projects/UnnamedFallingGame/Content/Sounds/Music/Fast__no_lead__2.uasset",
+				"C:/Users/Lev/Documents/Unreal Projects/UnnamedFallingGame/Content/Tiles/TrampolineTIle.uasset",
+				"C:/Users/Lev/Documents/Unreal Projects/UnnamedFallingGame/Content/Tiles/Test_tiles/Tile1/TrampolineTIle.uasset",
+				"C:/Users/Lev/Documents/Unreal Projects/UnnamedFallingGame/Content/Tiles/BlueExampleTIle.uasset",
+				"C:/Users/Lev/Documents/Unreal Projects/UnnamedFallingGame/Content/Tiles/RedExampleTile.uasset"
 			]
 		}
 	]
