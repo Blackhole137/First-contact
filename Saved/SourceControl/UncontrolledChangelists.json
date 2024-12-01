@@ -35,7 +35,12 @@
 				"C:/Users/Lev/Documents/Unreal Projects/UnnamedFallingGame/Content/Tiles/Trampoline/Trampoline_Trampoline_Mat_BaseColor.uasset",
 				"C:/Users/Lev/Documents/Unreal Projects/UnnamedFallingGame/Content/Tiles/Trampoline/Trampoline_Trampoline_Mat_Emissive.uasset",
 				"C:/Users/Lev/Documents/Unreal Projects/UnnamedFallingGame/Content/Tiles/Trampoline/Trampoline_Trampoline_Mat_Normal.uasset",
-				"C:/Users/Lev/Documents/Unreal Projects/UnnamedFallingGame/Content/Tiles/Trampoline/Trampoline_Trampoline_Mat_OcclusionRoughnessMetallic.uasset"
+				"C:/Users/Lev/Documents/Unreal Projects/UnnamedFallingGame/Content/Tiles/Trampoline/Trampoline_Trampoline_Mat_OcclusionRoughnessMetallic.uasset",
+				"C:/Users/Lev/Documents/Unreal Projects/UnnamedFallingGame/Content/Pickups/Gasoline/M_Fuel.uasset",
+				"C:/Users/Lev/Documents/Unreal Projects/UnnamedFallingGame/Content/Pickups/Gasoline/Gasoline.uasset",
+				"C:/Users/Lev/Documents/Unreal Projects/UnnamedFallingGame/Content/Pickups/Gasoline/Fuel_Low_Fuel_Mat_OcclusionRoughnessMetallic.uasset",
+				"C:/Users/Lev/Documents/Unreal Projects/UnnamedFallingGame/Content/Pickups/Gasoline/Fuel_Low_Fuel_Mat_BaseColor.uasset",
+				"C:/Users/Lev/Documents/Unreal Projects/UnnamedFallingGame/Content/Pickups/Gasoline/Fuel_Low_Fuel_Mat_Normal.uasset"
 			]
 		}
 	]
