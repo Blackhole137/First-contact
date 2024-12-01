@@ -6,7 +6,19 @@
 			"description": "Default Uncontrolled Changelist",
 			"files": [
 				"C:/Users/Lev/Documents/Unreal Projects/UnnamedFallingGame/Content/StarterContent/Architecture/Floor_400x400.uasset",
-				"C:/Users/Lev/Documents/Unreal Projects/UnnamedFallingGame/Content/Obstacles/Clouds/InstaCloud.uasset"
+				"C:/Users/Lev/Documents/Unreal Projects/UnnamedFallingGame/Content/Obstacles/Clouds/InstaCloud.uasset",
+				"C:/Users/Lev/Documents/Unreal Projects/UnnamedFallingGame/Content/Obstacles/Clouds/M_Cloud.uasset",
+				"C:/Users/Lev/Documents/Unreal Projects/UnnamedFallingGame/Content/Tiles/Tile_01/Tile_01.uasset",
+				"C:/Users/Lev/Documents/Unreal Projects/UnnamedFallingGame/Content/Tiles/Tile_Base.uasset",
+				"C:/Users/Lev/Documents/Unreal Projects/UnnamedFallingGame/Content/Tiles/Tile_Manager.uasset",
+				"C:/Users/Lev/Documents/Unreal Projects/UnnamedFallingGame/Content/__ExternalActors__/Maps/TestMap1/0/LE/25CMUYB0E8ZEDUPJ2NA8BI.uasset",
+				"C:/Users/Lev/Documents/Unreal Projects/UnnamedFallingGame/Content/__ExternalActors__/Maps/TestMap1/5/38/0GV3OXWEYWDBLUMM8IF54B.uasset",
+				"C:/Users/Lev/Documents/Unreal Projects/UnnamedFallingGame/Content/Tiles/Test_tiles/Tile2/Tile2.uasset",
+				"C:/Users/Lev/Documents/Unreal Projects/UnnamedFallingGame/Content/Tiles/Trampoline/TrampolineTIle.uasset",
+				"C:/Users/Lev/Documents/Unreal Projects/UnnamedFallingGame/Content/Tiles/Test_tiles/Tile1/Tile1.uasset",
+				"C:/Users/Lev/Documents/Unreal Projects/UnnamedFallingGame/Content/__ExternalActors__/Maps/TestMap1/C/5T/1CKN6DA4TMSDN74MP640S8.uasset",
+				"C:/Users/Lev/Documents/Unreal Projects/UnnamedFallingGame/Content/__ExternalActors__/Maps/TestMap1/C/II/TMUK69NJELLGQ112RAY4FR.uasset",
+				"C:/Users/Lev/Documents/Unreal Projects/UnnamedFallingGame/Content/__ExternalActors__/Maps/TestMap1/E/3W/A000K99XITIO9KFQNIOXHB.uasset"
 			]
 		}
 	]
