@@ -14914,3 +14914,1213 @@ LogConfig: Set CVar [[r.Shadow.DetectVertexShaderLayerAtRuntime:1]]
 [2024.12.01-03.33.05:283][111]BlueprintLog: New page: Compile BirdPawn
 [2024.12.01-03.33.05:331][111]LogUObjectHash: Compacting FUObjectHashTables data took   1.29ms
 [2024.12.01-03.33.06:807][186]LogUObjectHash: Compacting FUObjectHashTables data took   1.19ms
+[2024.12.01-03.33.58:050][472]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.12.01-03.33.58:125][472]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Player/BirdPawn" FILE="../../../../../../Users/Lev/Documents/Unreal Projects/UnnamedFallingGame/Content/Player/BirdPawn.uasset" SILENT=true
+[2024.12.01-03.33.58:164][472]LogSavePackage: Moving output files for package: /Game/Player/BirdPawn
+[2024.12.01-03.33.58:164][472]LogSavePackage: Moving '../../../../../../Users/Lev/Documents/Unreal Projects/UnnamedFallingGame/Saved/BirdPawn3DCFA84240954AE7E2AE149ECD91CEB7.tmp' to '../../../../../../Users/Lev/Documents/Unreal Projects/UnnamedFallingGame/Content/Player/BirdPawn.uasset'
+[2024.12.01-03.33.58:172][472]LogFileHelpers: InternalPromptForCheckoutAndSave took 122 ms (total: 4.34 sec)
+[2024.12.01-03.33.58:174][472]AssetCheck: New page: Asset Save: BirdPawn
+[2024.12.01-03.33.58:174][472]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Player/BirdPawn.BirdPawn
+[2024.12.01-03.34.16:132][216]BlueprintLog: New page: Compile WB_FuelCounter
+[2024.12.01-03.34.16:155][216]LogUObjectHash: Compacting FUObjectHashTables data took   1.18ms
+[2024.12.01-03.34.16:669][236]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.12.01-03.34.16:743][236]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/WB_FuelCounter" FILE="../../../../../../Users/Lev/Documents/Unreal Projects/UnnamedFallingGame/Content/UI/WB_FuelCounter.uasset" SILENT=true
+[2024.12.01-03.34.16:746][236]LogSavePackage: Moving output files for package: /Game/UI/WB_FuelCounter
+[2024.12.01-03.34.16:747][236]LogSavePackage: Moving '../../../../../../Users/Lev/Documents/Unreal Projects/UnnamedFallingGame/Saved/WB_FuelCounter34CDDFA746425814B6F977B0FBA47836.tmp' to '../../../../../../Users/Lev/Documents/Unreal Projects/UnnamedFallingGame/Content/UI/WB_FuelCounter.uasset'
+[2024.12.01-03.34.16:753][236]LogFileHelpers: InternalPromptForCheckoutAndSave took 84 ms (total: 4.42 sec)
+[2024.12.01-03.34.16:754][236]AssetCheck: New page: Asset Save: WB_FuelCounter
+[2024.12.01-03.34.16:754][236]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/UI/WB_FuelCounter.WB_FuelCounter
+[2024.12.01-03.34.54:351][409]BlueprintLog: New page: Compile BirdPawn
+[2024.12.01-03.34.54:402][409]LogUObjectHash: Compacting FUObjectHashTables data took   1.41ms
+[2024.12.01-03.34.54:911][430]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.12.01-03.34.54:972][430]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Player/BirdPawn" FILE="../../../../../../Users/Lev/Documents/Unreal Projects/UnnamedFallingGame/Content/Player/BirdPawn.uasset" SILENT=true
+[2024.12.01-03.34.55:011][430]LogSavePackage: Moving output files for package: /Game/Player/BirdPawn
+[2024.12.01-03.34.55:011][430]LogSavePackage: Moving '../../../../../../Users/Lev/Documents/Unreal Projects/UnnamedFallingGame/Saved/BirdPawnC275719F4F913FE275CB9E9A101F90F3.tmp' to '../../../../../../Users/Lev/Documents/Unreal Projects/UnnamedFallingGame/Content/Player/BirdPawn.uasset'
+[2024.12.01-03.34.55:018][430]LogFileHelpers: InternalPromptForCheckoutAndSave took 107 ms (total: 4.53 sec)
+[2024.12.01-03.34.55:021][430]AssetCheck: New page: Asset Save: BirdPawn
+[2024.12.01-03.34.55:021][430]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Player/BirdPawn.BirdPawn
+[2024.12.01-03.37.05:479][136]BlueprintLog: New page: Compile BirdPawn
+[2024.12.01-03.37.05:532][136]LogUObjectHash: Compacting FUObjectHashTables data took   1.68ms
+[2024.12.01-03.37.06:112][161]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.12.01-03.37.06:177][161]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Player/BirdPawn" FILE="../../../../../../Users/Lev/Documents/Unreal Projects/UnnamedFallingGame/Content/Player/BirdPawn.uasset" SILENT=true
+[2024.12.01-03.37.06:218][161]LogSavePackage: Moving output files for package: /Game/Player/BirdPawn
+[2024.12.01-03.37.06:218][161]LogSavePackage: Moving '../../../../../../Users/Lev/Documents/Unreal Projects/UnnamedFallingGame/Saved/BirdPawn7C05DB4349F16465E9E4388A6AE5C224.tmp' to '../../../../../../Users/Lev/Documents/Unreal Projects/UnnamedFallingGame/Content/Player/BirdPawn.uasset'
+[2024.12.01-03.37.06:225][161]LogFileHelpers: InternalPromptForCheckoutAndSave took 113 ms (total: 4.64 sec)
+[2024.12.01-03.37.06:227][161]AssetCheck: New page: Asset Save: BirdPawn
+[2024.12.01-03.37.06:227][161]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Player/BirdPawn.BirdPawn
+[2024.12.01-03.37.07:081][212]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.12.01-03.37.07:142][212]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Player/BirdPawn" FILE="../../../../../../Users/Lev/Documents/Unreal Projects/UnnamedFallingGame/Content/Player/BirdPawn.uasset" SILENT=true
+[2024.12.01-03.37.07:181][212]LogSavePackage: Moving output files for package: /Game/Player/BirdPawn
+[2024.12.01-03.37.07:182][212]LogSavePackage: Moving '../../../../../../Users/Lev/Documents/Unreal Projects/UnnamedFallingGame/Saved/BirdPawnBC8CB5854393DFDFAE15B6BBCA8A40AA.tmp' to '../../../../../../Users/Lev/Documents/Unreal Projects/UnnamedFallingGame/Content/Player/BirdPawn.uasset'
+[2024.12.01-03.37.07:189][212]LogFileHelpers: InternalPromptForCheckoutAndSave took 108 ms (total: 4.75 sec)
+[2024.12.01-03.37.07:191][212]AssetCheck: New page: Asset Save: BirdPawn
+[2024.12.01-03.37.07:191][212]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Player/BirdPawn.BirdPawn
+[2024.12.01-03.37.34:740][824]BlueprintLog: New page: Compile WB_FuelCounter
+[2024.12.01-03.37.34:769][824]LogUObjectHash: Compacting FUObjectHashTables data took   1.38ms
+[2024.12.01-03.37.35:165][835]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.12.01-03.37.35:238][835]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/WB_FuelCounter" FILE="../../../../../../Users/Lev/Documents/Unreal Projects/UnnamedFallingGame/Content/UI/WB_FuelCounter.uasset" SILENT=true
+[2024.12.01-03.37.35:241][835]LogSavePackage: Moving output files for package: /Game/UI/WB_FuelCounter
+[2024.12.01-03.37.35:242][835]LogSavePackage: Moving '../../../../../../Users/Lev/Documents/Unreal Projects/UnnamedFallingGame/Saved/WB_FuelCounter60E8733F49ABEED860A75CB218A2E296.tmp' to '../../../../../../Users/Lev/Documents/Unreal Projects/UnnamedFallingGame/Content/UI/WB_FuelCounter.uasset'
+[2024.12.01-03.37.35:249][835]LogFileHelpers: InternalPromptForCheckoutAndSave took 83 ms (total: 4.83 sec)
+[2024.12.01-03.37.35:250][835]AssetCheck: New page: Asset Save: WB_FuelCounter
+[2024.12.01-03.37.35:250][835]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/UI/WB_FuelCounter.WB_FuelCounter
+[2024.12.01-03.37.36:573][908]BlueprintLog: New page: Compile BirdPawn
+[2024.12.01-03.37.36:622][908]LogUObjectHash: Compacting FUObjectHashTables data took   1.26ms
+[2024.12.01-03.37.36:991][922]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.12.01-03.37.37:060][922]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Player/BirdPawn" FILE="../../../../../../Users/Lev/Documents/Unreal Projects/UnnamedFallingGame/Content/Player/BirdPawn.uasset" SILENT=true
+[2024.12.01-03.37.37:099][922]LogSavePackage: Moving output files for package: /Game/Player/BirdPawn
+[2024.12.01-03.37.37:100][922]LogSavePackage: Moving '../../../../../../Users/Lev/Documents/Unreal Projects/UnnamedFallingGame/Saved/BirdPawn64057F4447F7E7B93F4FEEA82C2900E1.tmp' to '../../../../../../Users/Lev/Documents/Unreal Projects/UnnamedFallingGame/Content/Player/BirdPawn.uasset'
+[2024.12.01-03.37.37:106][922]LogFileHelpers: InternalPromptForCheckoutAndSave took 115 ms (total: 4.95 sec)
+[2024.12.01-03.37.37:108][922]AssetCheck: New page: Asset Save: BirdPawn
+[2024.12.01-03.37.37:108][922]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Player/BirdPawn.BirdPawn
+[2024.12.01-03.37.53:960][888]BlueprintLog: New page: Compile BirdPawn
+[2024.12.01-03.37.54:011][888]LogUObjectHash: Compacting FUObjectHashTables data took   1.24ms
+[2024.12.01-03.37.54:272][895]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.12.01-03.37.54:344][895]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Player/BirdPawn" FILE="../../../../../../Users/Lev/Documents/Unreal Projects/UnnamedFallingGame/Content/Player/BirdPawn.uasset" SILENT=true
+[2024.12.01-03.37.54:383][895]LogSavePackage: Moving output files for package: /Game/Player/BirdPawn
+[2024.12.01-03.37.54:384][895]LogSavePackage: Moving '../../../../../../Users/Lev/Documents/Unreal Projects/UnnamedFallingGame/Saved/BirdPawnF01E6BCA4F5C0163986283A938115C46.tmp' to '../../../../../../Users/Lev/Documents/Unreal Projects/UnnamedFallingGame/Content/Player/BirdPawn.uasset'
+[2024.12.01-03.37.54:391][895]LogFileHelpers: InternalPromptForCheckoutAndSave took 119 ms (total: 5.07 sec)
+[2024.12.01-03.37.54:393][895]AssetCheck: New page: Asset Save: BirdPawn
+[2024.12.01-03.37.54:393][895]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Player/BirdPawn.BirdPawn
+[2024.12.01-03.37.55:658][967]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.12.01-03.37.55:725][967]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Player/BirdPawn" FILE="../../../../../../Users/Lev/Documents/Unreal Projects/UnnamedFallingGame/Content/Player/BirdPawn.uasset" SILENT=true
+[2024.12.01-03.37.55:765][967]LogSavePackage: Moving output files for package: /Game/Player/BirdPawn
+[2024.12.01-03.37.55:766][967]LogSavePackage: Moving '../../../../../../Users/Lev/Documents/Unreal Projects/UnnamedFallingGame/Saved/BirdPawn27E5C8694324F93B524AFBB70EA271C7.tmp' to '../../../../../../Users/Lev/Documents/Unreal Projects/UnnamedFallingGame/Content/Player/BirdPawn.uasset'
+[2024.12.01-03.37.55:773][967]LogFileHelpers: InternalPromptForCheckoutAndSave took 114 ms (total: 5.18 sec)
+[2024.12.01-03.37.55:775][967]AssetCheck: New page: Asset Save: BirdPawn
+[2024.12.01-03.37.55:775][967]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Player/BirdPawn.BirdPawn
+[2024.12.01-03.37.57:426][ 61]LogUObjectHash: Compacting FUObjectHashTables data took   1.46ms
+[2024.12.01-03.37.58:652][123]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2024.12.01-03.37.58:658][123]LogContentBundle: [TestMap1(Standalone)] Generating Streaming for 0 Content Bundles.
+[2024.12.01-03.37.58:658][123]LogWorldPartition: Display: GenerateStreaming for 'TestMap1' started...
+[2024.12.01-03.37.58:786][123]LogWorldPartition: Display: GenerateStreaming for 'TestMap1' took 128 ms (total: 1.03 sec)
+[2024.12.01-03.37.58:787][123]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.12.01-03.37.58:787][123]PIE: New page: PIE session: TestMap1 (Nov 30, 2024, 11:37:58 AM)
+[2024.12.01-03.37.58:787][123]LogPlayLevel: Display: Creating online subsystem for client :Context_25
+[2024.12.01-03.37.58:790][123]LogOnline: OSS: Created online subsystem instance for: :Context_25
+[2024.12.01-03.37.58:832][124]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_TestMap1
+[2024.12.01-03.37.58:848][124]LogPlayLevel: PIE: StaticDuplicateObject took: (0.015892s)
+[2024.12.01-03.37.58:848][124]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/TestMap1.TestMap1 to /Game/Maps/UEDPIE_0_TestMap1.TestMap1 (0.015949s)
+[2024.12.01-03.37.58:874][124]LogUObjectHash: Compacting FUObjectHashTables data took   1.76ms
+[2024.12.01-03.37.58:876][124]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.12.01-03.37.58:876][124]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.12.01-03.37.58:876][124]LogAIModule: Creating AISystem for world TestMap1
+[2024.12.01-03.37.58:877][124]LogWorldPartition: ULevel::OnLevelLoaded(TestMap1)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2024.12.01-03.37.58:877][124]LogWorldPartition: Display: WorldPartition initialize started...
+[2024.12.01-03.37.58:877][124]LogWorldPartition: UWorldPartition::Initialize : World = TestMap1, World Type = PIE, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 0, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2024.12.01-03.37.58:877][124]LogWorldPartition: UWorldPartition::Initialize Context : World NetMode = Standalone, IsServer = 0, IsDedicatedServer = 0, IsServerStreamingEnabled = 0, IsServerStreamingOutEnabled = 0, IsUsingMakingVisibleTransaction = 0, IsUsingMakingInvisibleTransaction = 0
+[2024.12.01-03.37.58:880][124]LogContentBundle: [TestMap1(Standalone)] Creating new contrainer.
+[2024.12.01-03.37.58:880][124]LogWorldPartition: Display: WorldPartition initialize took 3 ms (total: 328 ms)
+[2024.12.01-03.37.58:880][124]LogPlayLevel: PIE: World Init took: (0.004352s)
+[2024.12.01-03.37.58:880][124]LogAudio: Display: Creating Audio Device:                 Id: 12, Scope: Unique, Realtime: True
+[2024.12.01-03.37.58:880][124]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.12.01-03.37.58:880][124]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.12.01-03.37.58:880][124]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.12.01-03.37.58:880][124]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.12.01-03.37.58:880][124]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.12.01-03.37.58:880][124]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.12.01-03.37.58:880][124]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.12.01-03.37.58:880][124]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.12.01-03.37.58:880][124]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.12.01-03.37.58:880][124]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.12.01-03.37.58:880][124]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.12.01-03.37.58:882][124]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.12.01-03.37.58:913][124]LogAudioMixer: Display: Using Audio Hardware Device Headphones (Realtek(R) Audio)
+[2024.12.01-03.37.58:913][124]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.12.01-03.37.58:913][124]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.12.01-03.37.58:913][124]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.12.01-03.37.58:914][124]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=12
+[2024.12.01-03.37.58:914][124]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=12
+[2024.12.01-03.37.58:915][124]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=12
+[2024.12.01-03.37.58:915][124]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=12
+[2024.12.01-03.37.58:915][124]LogInit: FAudioDevice initialized with ID 12.
+[2024.12.01-03.37.58:915][124]LogAudio: Display: Audio Device (ID: 12) registered with world 'TestMap1'.
+[2024.12.01-03.37.58:915][124]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 12
+[2024.12.01-03.37.58:917][124]LogLoad: Game class is 'BirdGameMode_C'
+[2024.12.01-03.37.58:919][124]LogWorld: Bringing World /Game/Maps/UEDPIE_0_TestMap1.TestMap1 up for play (max tick rate 60) at 2024.11.30-19.37.58
+[2024.12.01-03.37.58:919][124]LogWorld: Bringing up level for play took: 0.001398
+[2024.12.01-03.37.58:920][124]LogWorldPartition: UWorldPartitionStreamingPolicy: CellsToActivate(45), CellsToLoad(0), CellsToUnload(0)
+[2024.12.01-03.37.58:920][124]LogWorldPartition: UWorldPartitionStreamingPolicy: Sources[0] = X=0.000 Y=0.000 Z=1342.000,P=0.000000 Y=180.000000 R=-0.000000
+[2024.12.01-03.37.58:924][124]LogStreaming: Display: FlushAsyncLoading(): 48 QueuedPackages, 0 AsyncPackages
+[2024.12.01-03.37.58:998][124]PIE: Server logged in
+[2024.12.01-03.37.58:998][124]PIE: Play in editor total start time 0.341 seconds.
+[2024.12.01-03.37.59:033][125]LogShaderCompilers: Display: ================================================
+[2024.12.01-03.37.59:033][125]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2024.12.01-03.37.59:033][125]LogShaderCompilers: Display: Total job queries 3,821, among them cache hits 93 (2.43%)
+[2024.12.01-03.37.59:033][125]LogShaderCompilers: Display: Tracking 3,722 distinct input hashes that result in 2,672 distinct outputs (71.79%)
+[2024.12.01-03.37.59:033][125]LogShaderCompilers: Display: RAM used: 69.10 MiB of 716.80 MiB budget. Usage: 9.64%
+[2024.12.01-03.37.59:033][125]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2024.12.01-03.37.59:033][125]LogShaderCompilers: Display: Shaders Compiled: 3,722
+[2024.12.01-03.37.59:033][125]LogShaderCompilers: Display: Jobs assigned 3,722, completed 3,722 (100%)
+[2024.12.01-03.37.59:033][125]LogShaderCompilers: Display: Average time worker was idle: 2.31 s
+[2024.12.01-03.37.59:033][125]LogShaderCompilers: Display: Time job spent in pending queue: average 63.60 s, longest 143.67 s
+[2024.12.01-03.37.59:033][125]LogShaderCompilers: Display: Job execution time: average 3.54 s, max 12.84 s
+[2024.12.01-03.37.59:033][125]LogShaderCompilers: Display: Job life time (pending + execution): average 67.14 s, max 149.02
+[2024.12.01-03.37.59:033][125]LogShaderCompilers: Display: Shader code size: average 38.49 KiB, min 2.086 KiB, max 162.84 KiB
+[2024.12.01-03.37.59:033][125]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 166.72 s
+[2024.12.01-03.37.59:033][125]LogShaderCompilers: Display: Jobs were issued in 489 batches (only local compilation was used), average 7.61 jobs/batch
+[2024.12.01-03.37.59:033][125]LogShaderCompilers: Display: Average processing rate: 22.32 jobs/sec
+[2024.12.01-03.37.59:033][125]LogShaderCompilers: Display: Total thread time: 1,372.816 s
+[2024.12.01-03.37.59:033][125]LogShaderCompilers: Display: Total thread preprocess time: 90.633 s
+[2024.12.01-03.37.59:033][125]LogShaderCompilers: Display: Percentage time preprocessing: 6.60%
+[2024.12.01-03.37.59:033][125]LogShaderCompilers: Display: Effective parallelization: 8.23 (times faster than compiling all shaders on one thread). Compare with number of workers: 8
+[2024.12.01-03.37.59:033][125]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2024.12.01-03.37.59:033][125]LogShaderCompilers: Display:                                          FClusteredShadingPS (compiled    4 times, average 5.01 sec, max 8.55 sec, min 1.54 sec)
+[2024.12.01-03.37.59:033][125]LogShaderCompilers: Display:                                   FSSDTemporalAccumulationCS (compiled   10 times, average 4.57 sec, max 5.88 sec, min 3.24 sec)
+[2024.12.01-03.37.59:033][125]LogShaderCompilers: Display:                                    FSSDSpatialAccumulationCS (compiled   33 times, average 1.74 sec, max 3.04 sec, min 0.83 sec)
+[2024.12.01-03.37.59:033][125]LogShaderCompilers: Display:                                    FShadingFurnaceTestPassPS (compiled    1 times, average 1.45 sec, max 1.45 sec, min 1.45 sec)
+[2024.12.01-03.37.59:033][125]LogShaderCompilers: Display:                                        FCloudRenderViewPS111 (compiled    1 times, average 1.36 sec, max 1.36 sec, min 1.36 sec)
+[2024.12.01-03.37.59:033][125]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2024.12.01-03.37.59:033][125]LogShaderCompilers: Display:                                             FDeferredLightPS - 12.50% of total time (compiled  134 times, average 1.28 sec, max 2.92 sec, min 1.05 sec)
+[2024.12.01-03.37.59:033][125]LogShaderCompilers: Display:                                FVirtualShadowMapProjectionCS - 5.82% of total time (compiled   96 times, average 0.83 sec, max 1.70 sec, min 0.49 sec)
+[2024.12.01-03.37.59:033][125]LogShaderCompilers: Display:                                  FScreenProbeTraceMeshSDFsCS - 5.16% of total time (compiled   96 times, average 0.74 sec, max 1.36 sec, min 0.17 sec)
+[2024.12.01-03.37.59:033][125]LogShaderCompilers: Display:                                      FScreenProbeIntegrateCS - 4.48% of total time (compiled  128 times, average 0.48 sec, max 1.90 sec, min 0.32 sec)
+[2024.12.01-03.37.59:033][125]LogShaderCompilers: Display:                                    FSSDSpatialAccumulationCS - 4.18% of total time (compiled   33 times, average 1.74 sec, max 3.04 sec, min 0.83 sec)
+[2024.12.01-03.37.59:033][125]LogShaderCompilers: Display: ================================================
+[2024.12.01-03.38.01:412][261]LogBlueprintUserMessages: [Tile1_C_UAID_E4A8DFC8C64E513402_2000338663] Hello
+[2024.12.01-03.38.04:272][432]LogBlueprintUserMessages: [Tile1_C_UAID_E4A8DFC8C64E513402_2014635664] Hello
+[2024.12.01-03.38.07:371][617]LogBlueprintUserMessages: [Tile1_C_0] Hello
+[2024.12.01-03.38.09:798][762]LogBlueprintUserMessages: [Tile2_C_0] Hello
+[2024.12.01-03.38.10:237][786]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.12.01-03.38.10:237][786]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_TestMap1
+[2024.12.01-03.38.10:239][786]LogWorld: UWorld::CleanupWorld for TestMap1, bSessionEnded=true, bCleanupResources=true
+[2024.12.01-03.38.10:242][786]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.12.01-03.38.10:242][786]LogContentBundle: [TestMap1(Standalone)] Deleting container.
+[2024.12.01-03.38.10:245][786]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.12.01-03.38.10:250][786]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.12.01-03.38.10:268][786]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.12.01-03.38.10:269][786]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 12
+[2024.12.01-03.38.10:269][786]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=12
+[2024.12.01-03.38.10:270][786]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=12
+[2024.12.01-03.38.10:285][786]LogUObjectHash: Compacting FUObjectHashTables data took   1.19ms
+[2024.12.01-03.38.10:324][787]LogPlayLevel: Display: Destroying online subsystem :Context_25
+[2024.12.01-03.38.17:688][193]BlueprintLog: New page: Compile BirdPawn
+[2024.12.01-03.38.17:735][193]LogUObjectHash: Compacting FUObjectHashTables data took   1.35ms
+[2024.12.01-03.38.18:979][258]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.12.01-03.38.19:054][258]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Player/BirdPawn" FILE="../../../../../../Users/Lev/Documents/Unreal Projects/UnnamedFallingGame/Content/Player/BirdPawn.uasset" SILENT=true
+[2024.12.01-03.38.19:094][258]LogSavePackage: Moving output files for package: /Game/Player/BirdPawn
+[2024.12.01-03.38.19:095][258]LogSavePackage: Moving '../../../../../../Users/Lev/Documents/Unreal Projects/UnnamedFallingGame/Saved/BirdPawn78457A9A4D9279DF1C95C7B4E1EC76EA.tmp' to '../../../../../../Users/Lev/Documents/Unreal Projects/UnnamedFallingGame/Content/Player/BirdPawn.uasset'
+[2024.12.01-03.38.19:102][258]LogFileHelpers: InternalPromptForCheckoutAndSave took 123 ms (total: 5.31 sec)
+[2024.12.01-03.38.19:104][258]AssetCheck: New page: Asset Save: BirdPawn
+[2024.12.01-03.38.19:104][258]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Player/BirdPawn.BirdPawn
+[2024.12.01-03.38.20:067][301]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2024.12.01-03.38.20:073][301]LogContentBundle: [TestMap1(Standalone)] Generating Streaming for 0 Content Bundles.
+[2024.12.01-03.38.20:073][301]LogWorldPartition: Display: GenerateStreaming for 'TestMap1' started...
+[2024.12.01-03.38.20:161][301]LogWorldPartition: Display: GenerateStreaming for 'TestMap1' took 88 ms (total: 1.12 sec)
+[2024.12.01-03.38.20:162][301]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.12.01-03.38.20:162][301]PIE: New page: PIE session: TestMap1 (Nov 30, 2024, 11:38:20 AM)
+[2024.12.01-03.38.20:162][301]LogPlayLevel: Display: Creating online subsystem for client :Context_26
+[2024.12.01-03.38.20:164][301]LogOnline: OSS: Created online subsystem instance for: :Context_26
+[2024.12.01-03.38.20:195][302]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_TestMap1
+[2024.12.01-03.38.20:207][302]LogPlayLevel: PIE: StaticDuplicateObject took: (0.011752s)
+[2024.12.01-03.38.20:207][302]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/TestMap1.TestMap1 to /Game/Maps/UEDPIE_0_TestMap1.TestMap1 (0.011790s)
+[2024.12.01-03.38.20:221][302]LogUObjectHash: Compacting FUObjectHashTables data took   1.20ms
+[2024.12.01-03.38.20:223][302]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.12.01-03.38.20:223][302]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.12.01-03.38.20:223][302]LogAIModule: Creating AISystem for world TestMap1
+[2024.12.01-03.38.20:224][302]LogWorldPartition: ULevel::OnLevelLoaded(TestMap1)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2024.12.01-03.38.20:224][302]LogWorldPartition: Display: WorldPartition initialize started...
+[2024.12.01-03.38.20:224][302]LogWorldPartition: UWorldPartition::Initialize : World = TestMap1, World Type = PIE, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 0, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2024.12.01-03.38.20:224][302]LogWorldPartition: UWorldPartition::Initialize Context : World NetMode = Standalone, IsServer = 0, IsDedicatedServer = 0, IsServerStreamingEnabled = 0, IsServerStreamingOutEnabled = 0, IsUsingMakingVisibleTransaction = 0, IsUsingMakingInvisibleTransaction = 0
+[2024.12.01-03.38.20:226][302]LogContentBundle: [TestMap1(Standalone)] Creating new contrainer.
+[2024.12.01-03.38.20:227][302]LogWorldPartition: Display: WorldPartition initialize took 2 ms (total: 331 ms)
+[2024.12.01-03.38.20:227][302]LogPlayLevel: PIE: World Init took: (0.003891s)
+[2024.12.01-03.38.20:227][302]LogAudio: Display: Creating Audio Device:                 Id: 13, Scope: Unique, Realtime: True
+[2024.12.01-03.38.20:227][302]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.12.01-03.38.20:227][302]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.12.01-03.38.20:227][302]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.12.01-03.38.20:227][302]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.12.01-03.38.20:227][302]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.12.01-03.38.20:227][302]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.12.01-03.38.20:227][302]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.12.01-03.38.20:227][302]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.12.01-03.38.20:227][302]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.12.01-03.38.20:227][302]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.12.01-03.38.20:227][302]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.12.01-03.38.20:229][302]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.12.01-03.38.20:255][302]LogAudioMixer: Display: Using Audio Hardware Device Headphones (Realtek(R) Audio)
+[2024.12.01-03.38.20:256][302]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.12.01-03.38.20:256][302]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.12.01-03.38.20:256][302]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.12.01-03.38.20:257][302]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=13
+[2024.12.01-03.38.20:257][302]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=13
+[2024.12.01-03.38.20:258][302]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=13
+[2024.12.01-03.38.20:258][302]LogInit: FAudioDevice initialized with ID 13.
+[2024.12.01-03.38.20:258][302]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=13
+[2024.12.01-03.38.20:258][302]LogAudio: Display: Audio Device (ID: 13) registered with world 'TestMap1'.
+[2024.12.01-03.38.20:258][302]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 13
+[2024.12.01-03.38.20:261][302]LogLoad: Game class is 'BirdGameMode_C'
+[2024.12.01-03.38.20:262][302]LogWorld: Bringing World /Game/Maps/UEDPIE_0_TestMap1.TestMap1 up for play (max tick rate 60) at 2024.11.30-19.38.20
+[2024.12.01-03.38.20:262][302]LogWorld: Bringing up level for play took: 0.001363
+[2024.12.01-03.38.20:263][302]LogWorldPartition: UWorldPartitionStreamingPolicy: CellsToActivate(45), CellsToLoad(0), CellsToUnload(0)
+[2024.12.01-03.38.20:263][302]LogWorldPartition: UWorldPartitionStreamingPolicy: Sources[0] = X=0.000 Y=0.000 Z=1342.000,P=0.000000 Y=180.000000 R=-0.000000
+[2024.12.01-03.38.20:267][302]LogStreaming: Display: FlushAsyncLoading(): 48 QueuedPackages, 0 AsyncPackages
+[2024.12.01-03.38.20:331][302]PIE: Server logged in
+[2024.12.01-03.38.20:332][302]PIE: Play in editor total start time 0.259 seconds.
+[2024.12.01-03.38.22:643][433]LogBlueprintUserMessages: [Tile1_C_UAID_E4A8DFC8C64E513402_2000338663] Hello
+[2024.12.01-03.38.25:032][575]LogBlueprintUserMessages: [Tile1_C_UAID_E4A8DFC8C64E513402_2014635664] Hello
+[2024.12.01-03.38.27:809][740]LogBlueprintUserMessages: [Tile2_C_0] Hello
+[2024.12.01-03.38.30:188][882]LogBlueprintUserMessages: [Tile1_C_0] Hello
+[2024.12.01-03.38.32:203][  2]LogBlueprintUserMessages: [Tile1_C_1] Hello
+[2024.12.01-03.38.32:357][  9]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.12.01-03.38.32:357][  9]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_TestMap1
+[2024.12.01-03.38.32:359][  9]LogWorld: UWorld::CleanupWorld for TestMap1, bSessionEnded=true, bCleanupResources=true
+[2024.12.01-03.38.32:361][  9]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.12.01-03.38.32:361][  9]LogContentBundle: [TestMap1(Standalone)] Deleting container.
+[2024.12.01-03.38.32:364][  9]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.12.01-03.38.32:369][  9]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.12.01-03.38.32:385][  9]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.12.01-03.38.32:387][  9]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 13
+[2024.12.01-03.38.32:387][  9]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=13
+[2024.12.01-03.38.32:389][  9]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=13
+[2024.12.01-03.38.32:393][  9]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.12.01-03.38.32:401][  9]LogUObjectHash: Compacting FUObjectHashTables data took   1.25ms
+[2024.12.01-03.38.32:441][ 10]LogPlayLevel: Display: Destroying online subsystem :Context_26
+[2024.12.01-03.38.38:547][334]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/UI/WB_ProgressBar.WB_ProgressBar
+[2024.12.01-03.38.38:548][334]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.12.01-03.38.38:548][334]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.12.01-03.38.38:554][334]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.12.01-03.38.38:554][334]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.12.01-03.38.45:927][742]BlueprintLog: New page: Compile WB_ProgressBar
+[2024.12.01-03.38.45:956][742]LogUObjectHash: Compacting FUObjectHashTables data took   1.36ms
+[2024.12.01-03.38.46:370][757]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.12.01-03.38.46:441][757]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/WB_ProgressBar" FILE="../../../../../../Users/Lev/Documents/Unreal Projects/UnnamedFallingGame/Content/UI/WB_ProgressBar.uasset" SILENT=true
+[2024.12.01-03.38.46:444][757]LogSavePackage: Moving output files for package: /Game/UI/WB_ProgressBar
+[2024.12.01-03.38.46:445][757]LogSavePackage: Moving '../../../../../../Users/Lev/Documents/Unreal Projects/UnnamedFallingGame/Saved/WB_ProgressBar50AEC1004CFB0D9D45E8D195133DA41E.tmp' to '../../../../../../Users/Lev/Documents/Unreal Projects/UnnamedFallingGame/Content/UI/WB_ProgressBar.uasset'
+[2024.12.01-03.38.46:452][757]LogFileHelpers: InternalPromptForCheckoutAndSave took 80 ms (total: 5.39 sec)
+[2024.12.01-03.38.46:453][757]AssetCheck: New page: Asset Save: WB_ProgressBar
+[2024.12.01-03.38.46:453][757]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/UI/WB_ProgressBar.WB_ProgressBar
+[2024.12.01-03.38.49:700][943]LogUObjectHash: Compacting FUObjectHashTables data took   1.34ms
+[2024.12.01-03.41.24:021][836]BlueprintLog: New page: Compile WB_ProgressBar
+[2024.12.01-03.41.24:040][836]LogUObjectHash: Compacting FUObjectHashTables data took   1.37ms
+[2024.12.01-03.41.24:479][854]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.12.01-03.41.24:552][854]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/WB_ProgressBar" FILE="../../../../../../Users/Lev/Documents/Unreal Projects/UnnamedFallingGame/Content/UI/WB_ProgressBar.uasset" SILENT=true
+[2024.12.01-03.41.24:555][854]LogSavePackage: Moving output files for package: /Game/UI/WB_ProgressBar
+[2024.12.01-03.41.24:555][854]LogSavePackage: Moving '../../../../../../Users/Lev/Documents/Unreal Projects/UnnamedFallingGame/Saved/WB_ProgressBar578419F34D96099068EA13A911C3EA3F.tmp' to '../../../../../../Users/Lev/Documents/Unreal Projects/UnnamedFallingGame/Content/UI/WB_ProgressBar.uasset'
+[2024.12.01-03.41.24:562][854]LogFileHelpers: InternalPromptForCheckoutAndSave took 83 ms (total: 5.47 sec)
+[2024.12.01-03.41.24:563][854]AssetCheck: New page: Asset Save: WB_ProgressBar
+[2024.12.01-03.41.24:563][854]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/UI/WB_ProgressBar.WB_ProgressBar
+[2024.12.01-03.41.34:001][420]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.12.01-03.41.34:083][420]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/WB_ProgressBar" FILE="../../../../../../Users/Lev/Documents/Unreal Projects/UnnamedFallingGame/Content/UI/WB_ProgressBar.uasset" SILENT=true
+[2024.12.01-03.41.34:086][420]LogSavePackage: Moving output files for package: /Game/UI/WB_ProgressBar
+[2024.12.01-03.41.34:086][420]LogSavePackage: Moving '../../../../../../Users/Lev/Documents/Unreal Projects/UnnamedFallingGame/Saved/WB_ProgressBarE3660BB54D3A7A95791E9A8A7B86C8B9.tmp' to '../../../../../../Users/Lev/Documents/Unreal Projects/UnnamedFallingGame/Content/UI/WB_ProgressBar.uasset'
+[2024.12.01-03.41.34:093][420]LogFileHelpers: InternalPromptForCheckoutAndSave took 91 ms (total: 5.56 sec)
+[2024.12.01-03.41.34:094][420]AssetCheck: New page: Asset Save: WB_ProgressBar
+[2024.12.01-03.41.34:094][420]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/UI/WB_ProgressBar.WB_ProgressBar
+[2024.12.01-03.41.37:084][595]LogUObjectHash: Compacting FUObjectHashTables data took   1.31ms
+[2024.12.01-03.41.47:019][191]LogDerivedDataCache: C:/Users/Lev/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:46.115 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 23883 files in 25073 folders with total size 610 MiB.
+[2024.12.01-03.44.14:884][144]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.12.01-03.44.14:964][144]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/WB_ProgressBar" FILE="../../../../../../Users/Lev/Documents/Unreal Projects/UnnamedFallingGame/Content/UI/WB_ProgressBar.uasset" SILENT=true
+[2024.12.01-03.44.14:968][144]LogSavePackage: Moving output files for package: /Game/UI/WB_ProgressBar
+[2024.12.01-03.44.14:968][144]LogSavePackage: Moving '../../../../../../Users/Lev/Documents/Unreal Projects/UnnamedFallingGame/Saved/WB_ProgressBar4B02B23640A342F83C685BA0F2E04698.tmp' to '../../../../../../Users/Lev/Documents/Unreal Projects/UnnamedFallingGame/Content/UI/WB_ProgressBar.uasset'
+[2024.12.01-03.44.14:975][144]LogFileHelpers: InternalPromptForCheckoutAndSave took 91 ms (total: 5.65 sec)
+[2024.12.01-03.44.14:977][144]AssetCheck: New page: Asset Save: WB_ProgressBar
+[2024.12.01-03.44.14:977][144]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/UI/WB_ProgressBar.WB_ProgressBar
+[2024.12.01-03.47.14:488][ 63]LogContentBrowser: Deferred new asset file creation: Cloud1
+[2024.12.01-03.47.14:497][ 63]LogContentBrowser: Creating deferred item: Cloud1
+[2024.12.01-03.47.14:516][ 64]LogContentBrowser: Renaming the item being created (Deferred Item: Cloud1).
+[2024.12.01-03.47.17:557][247]LogContentBrowser: Attempting asset rename: Cloud1 -> InstaCloud
+[2024.12.01-03.47.17:587][247]LogUObjectHash: Compacting FUObjectHashTables data took   1.77ms
+[2024.12.01-03.47.17:602][247]LogContentBrowser: End creating deferred item Cloud1
+[2024.12.01-03.47.18:629][305]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Obstacles/Clouds/InstaCloud.InstaCloud
+[2024.12.01-03.47.18:629][305]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.12.01-03.47.18:629][305]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.12.01-03.47.28:123][753]LogSlate: Window 'Reparent Blueprint' being destroyed
+[2024.12.01-03.47.28:126][753]LogBlueprint: Warning: Reparenting blueprint Blueprint /Game/Obstacles/Clouds/InstaCloud.InstaCloud from Slow_Obstacle_C to Impact_Obstacle_C...
+[2024.12.01-03.47.28:143][753]BlueprintLog: New page: Compile InstaCloud
+[2024.12.01-03.47.28:174][753]LogUObjectHash: Compacting FUObjectHashTables data took   1.40ms
+[2024.12.01-03.47.29:377][821]BlueprintLog: New page: Compile InstaCloud
+[2024.12.01-03.47.29:406][821]LogUObjectHash: Compacting FUObjectHashTables data took   1.36ms
+[2024.12.01-03.47.29:861][844]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.12.01-03.47.29:935][844]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Obstacles/Clouds/InstaCloud" FILE="../../../../../../Users/Lev/Documents/Unreal Projects/UnnamedFallingGame/Content/Obstacles/Clouds/InstaCloud.uasset" SILENT=true
+[2024.12.01-03.47.29:942][844]LogSavePackage: Moving output files for package: /Game/Obstacles/Clouds/InstaCloud
+[2024.12.01-03.47.29:942][844]LogSavePackage: Moving '../../../../../../Users/Lev/Documents/Unreal Projects/UnnamedFallingGame/Saved/InstaCloud91264E6049EF049E87E77F84439FCF40.tmp' to '../../../../../../Users/Lev/Documents/Unreal Projects/UnnamedFallingGame/Content/Obstacles/Clouds/InstaCloud.uasset'
+[2024.12.01-03.47.29:952][844]LogFileHelpers: InternalPromptForCheckoutAndSave took 90 ms (total: 5.74 sec)
+[2024.12.01-03.47.29:952][844]AssetCheck: New page: Asset Save: InstaCloud
+[2024.12.01-03.47.29:952][844]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Obstacles/Clouds/InstaCloud.InstaCloud
+[2024.12.01-03.47.37:021][266]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.12.01-03.47.37:091][266]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Obstacles/Clouds/InstaCloud" FILE="../../../../../../Users/Lev/Documents/Unreal Projects/UnnamedFallingGame/Content/Obstacles/Clouds/InstaCloud.uasset" SILENT=true
+[2024.12.01-03.47.37:099][266]LogSavePackage: Moving output files for package: /Game/Obstacles/Clouds/InstaCloud
+[2024.12.01-03.47.37:099][266]LogSavePackage: Moving '../../../../../../Users/Lev/Documents/Unreal Projects/UnnamedFallingGame/Saved/InstaCloud1923C9564222C836E7CD9397E0F5DCD5.tmp' to '../../../../../../Users/Lev/Documents/Unreal Projects/UnnamedFallingGame/Content/Obstacles/Clouds/InstaCloud.uasset'
+[2024.12.01-03.47.37:107][266]LogFileHelpers: InternalPromptForCheckoutAndSave took 84 ms (total: 5.83 sec)
+[2024.12.01-03.47.37:108][266]AssetCheck: New page: Asset Save: InstaCloud
+[2024.12.01-03.47.37:108][266]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Obstacles/Clouds/InstaCloud.InstaCloud
+[2024.12.01-03.47.45:132][744]BlueprintLog: New page: Compile InstaCloud
+[2024.12.01-03.47.45:164][744]LogUObjectHash: Compacting FUObjectHashTables data took   1.78ms
+[2024.12.01-03.47.45:534][761]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.12.01-03.47.45:609][761]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Obstacles/Clouds/InstaCloud" FILE="../../../../../../Users/Lev/Documents/Unreal Projects/UnnamedFallingGame/Content/Obstacles/Clouds/InstaCloud.uasset" SILENT=true
+[2024.12.01-03.47.45:616][761]LogSavePackage: Moving output files for package: /Game/Obstacles/Clouds/InstaCloud
+[2024.12.01-03.47.45:617][761]LogSavePackage: Moving '../../../../../../Users/Lev/Documents/Unreal Projects/UnnamedFallingGame/Saved/InstaCloud6E9C6534423DB206A8AB9E9E68560DEC.tmp' to '../../../../../../Users/Lev/Documents/Unreal Projects/UnnamedFallingGame/Content/Obstacles/Clouds/InstaCloud.uasset'
+[2024.12.01-03.47.45:624][761]LogFileHelpers: InternalPromptForCheckoutAndSave took 88 ms (total: 5.92 sec)
+[2024.12.01-03.47.45:625][761]AssetCheck: New page: Asset Save: InstaCloud
+[2024.12.01-03.47.45:625][761]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Obstacles/Clouds/InstaCloud.InstaCloud
+[2024.12.01-03.47.50:876][ 51]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Obstacles/Clouds/Cloud1/Cloud1.Cloud1
+[2024.12.01-03.47.50:876][ 51]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.12.01-03.47.50:876][ 51]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.12.01-03.47.59:727][436]LogSlate: Window 'Reparent Blueprint' being destroyed
+[2024.12.01-03.47.59:730][436]LogBlueprint: Warning: Reparenting blueprint Blueprint /Game/Obstacles/Clouds/Cloud1/Cloud1.Cloud1 from Cloud_C to InstaCloud_C...
+[2024.12.01-03.47.59:747][436]BlueprintLog: New page: Compile Cloud1
+[2024.12.01-03.47.59:781][436]LogUObjectHash: Compacting FUObjectHashTables data took   1.34ms
+[2024.12.01-03.48.00:789][491]BlueprintLog: New page: Compile Cloud1
+[2024.12.01-03.48.00:824][491]LogUObjectHash: Compacting FUObjectHashTables data took   1.36ms
+[2024.12.01-03.48.01:200][509]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.12.01-03.48.01:296][509]LogSavePackage: Moving output files for package: /Game/Obstacles/Clouds/Cloud1/Cloud1
+[2024.12.01-03.48.01:296][509]LogSavePackage: Moving '../../../../../../Users/Lev/Documents/Unreal Projects/UnnamedFallingGame/Saved/Cloud122550F174E7F6669A39890B657605018.tmp' to '../../../../../../Users/Lev/Documents/Unreal Projects/UnnamedFallingGame/Content/Obstacles/Clouds/Cloud1/Cloud1.uasset'
+[2024.12.01-03.48.01:304][509]LogFileHelpers: InternalPromptForCheckoutAndSave took 103 ms (total: 6.02 sec)
+[2024.12.01-03.48.01:305][509]AssetCheck: New page: Asset Save: Cloud1
+[2024.12.01-03.48.01:305][509]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Obstacles/Clouds/Cloud1/Cloud1.Cloud1
+[2024.12.01-03.48.06:104][775]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Obstacles/Clouds/Cloud2/Cloud2.Cloud2
+[2024.12.01-03.48.06:104][775]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.12.01-03.48.06:104][775]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.12.01-03.48.16:213][249]LogSlate: Window 'Reparent Blueprint' being destroyed
+[2024.12.01-03.48.16:218][249]LogBlueprint: Warning: Reparenting blueprint Blueprint /Game/Obstacles/Clouds/Cloud2/Cloud2.Cloud2 from Cloud_C to InstaCloud_C...
+[2024.12.01-03.48.16:236][249]BlueprintLog: New page: Compile Cloud2
+[2024.12.01-03.48.16:267][249]LogUObjectHash: Compacting FUObjectHashTables data took   1.28ms
+[2024.12.01-03.48.17:455][315]BlueprintLog: New page: Compile Cloud2
+[2024.12.01-03.48.17:487][315]LogUObjectHash: Compacting FUObjectHashTables data took   1.16ms
+[2024.12.01-03.48.17:846][332]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.12.01-03.48.17:935][332]LogSavePackage: Moving output files for package: /Game/Obstacles/Clouds/Cloud2/Cloud2
+[2024.12.01-03.48.17:936][332]LogSavePackage: Moving '../../../../../../Users/Lev/Documents/Unreal Projects/UnnamedFallingGame/Saved/Cloud26A0DE5AF43753A373464458D3FBEF71E.tmp' to '../../../../../../Users/Lev/Documents/Unreal Projects/UnnamedFallingGame/Content/Obstacles/Clouds/Cloud2/Cloud2.uasset'
+[2024.12.01-03.48.17:943][332]LogFileHelpers: InternalPromptForCheckoutAndSave took 96 ms (total: 6.12 sec)
+[2024.12.01-03.48.17:944][332]AssetCheck: New page: Asset Save: Cloud2
+[2024.12.01-03.48.17:944][332]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Obstacles/Clouds/Cloud2/Cloud2.Cloud2
+[2024.12.01-03.49.34:410][938]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Obstacles/Clouds/Cloud3/Cloud3.Cloud3
+[2024.12.01-03.49.34:410][938]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.12.01-03.49.34:411][938]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.12.01-03.50.01:129][400]LogSlate: Window 'Reparent Blueprint' being destroyed
+[2024.12.01-03.50.01:134][400]LogBlueprint: Warning: Reparenting blueprint Blueprint /Game/Obstacles/Clouds/Cloud3/Cloud3.Cloud3 from Cloud_C to InstaCloud_C...
+[2024.12.01-03.50.01:152][400]BlueprintLog: New page: Compile Cloud3
+[2024.12.01-03.50.01:182][400]LogUObjectHash: Compacting FUObjectHashTables data took   1.36ms
+[2024.12.01-03.50.02:245][459]BlueprintLog: New page: Compile Cloud3
+[2024.12.01-03.50.02:278][459]LogUObjectHash: Compacting FUObjectHashTables data took   1.37ms
+[2024.12.01-03.50.02:589][473]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.12.01-03.50.02:682][473]LogSavePackage: Moving output files for package: /Game/Obstacles/Clouds/Cloud3/Cloud3
+[2024.12.01-03.50.02:682][473]LogSavePackage: Moving '../../../../../../Users/Lev/Documents/Unreal Projects/UnnamedFallingGame/Saved/Cloud3ECBBD15445C0E08A6167B3BBF9637D21.tmp' to '../../../../../../Users/Lev/Documents/Unreal Projects/UnnamedFallingGame/Content/Obstacles/Clouds/Cloud3/Cloud3.uasset'
+[2024.12.01-03.50.02:690][473]LogFileHelpers: InternalPromptForCheckoutAndSave took 100 ms (total: 6.22 sec)
+[2024.12.01-03.50.02:691][473]AssetCheck: New page: Asset Save: Cloud3
+[2024.12.01-03.50.02:691][473]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Obstacles/Clouds/Cloud3/Cloud3.Cloud3
+[2024.12.01-03.50.08:941][822]LogShaderCompilers: Display: ================================================
+[2024.12.01-03.50.08:942][822]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2024.12.01-03.50.08:942][822]LogShaderCompilers: Display: Total job queries 3,837, among them cache hits 105 (2.74%)
+[2024.12.01-03.50.08:942][822]LogShaderCompilers: Display: Tracking 3,723 distinct input hashes that result in 2,672 distinct outputs (71.77%)
+[2024.12.01-03.50.08:942][822]LogShaderCompilers: Display: RAM used: 69.12 MiB of 716.80 MiB budget. Usage: 9.64%
+[2024.12.01-03.50.08:942][822]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2024.12.01-03.50.08:942][822]LogShaderCompilers: Display: Shaders Compiled: 3,723
+[2024.12.01-03.50.08:942][822]LogShaderCompilers: Display: Jobs assigned 3,726, completed 3,723 (99.92%)
+[2024.12.01-03.50.08:942][822]LogShaderCompilers: Display: Average time worker was idle: 34.51 s
+[2024.12.01-03.50.08:942][822]LogShaderCompilers: Display: Time job spent in pending queue: average 63.53 s, longest 143.67 s
+[2024.12.01-03.50.08:942][822]LogShaderCompilers: Display: Job execution time: average 3.54 s, max 12.84 s
+[2024.12.01-03.50.08:942][822]LogShaderCompilers: Display: Job life time (pending + execution): average 67.12 s, max 149.02
+[2024.12.01-03.50.08:942][822]LogShaderCompilers: Display: Shader code size: average 38.488 KiB, min 2.086 KiB, max 162.84 KiB
+[2024.12.01-03.50.08:942][822]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 167.04 s
+[2024.12.01-03.50.08:942][822]LogShaderCompilers: Display: Jobs were issued in 493 batches (only local compilation was used), average 7.56 jobs/batch
+[2024.12.01-03.50.08:942][822]LogShaderCompilers: Display: Average processing rate: 22.29 jobs/sec
+[2024.12.01-03.50.08:942][822]LogShaderCompilers: Display: Total thread time: 1,372.939 s
+[2024.12.01-03.50.08:942][822]LogShaderCompilers: Display: Total thread preprocess time: 90.66 s
+[2024.12.01-03.50.08:942][822]LogShaderCompilers: Display: Percentage time preprocessing: 6.60%
+[2024.12.01-03.50.08:942][822]LogShaderCompilers: Display: Effective parallelization: 8.22 (times faster than compiling all shaders on one thread). Compare with number of workers: 8
+[2024.12.01-03.50.08:942][822]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2024.12.01-03.50.08:942][822]LogShaderCompilers: Display:                                          FClusteredShadingPS (compiled    4 times, average 5.01 sec, max 8.55 sec, min 1.54 sec)
+[2024.12.01-03.50.08:942][822]LogShaderCompilers: Display:                                   FSSDTemporalAccumulationCS (compiled   10 times, average 4.57 sec, max 5.88 sec, min 3.24 sec)
+[2024.12.01-03.50.08:942][822]LogShaderCompilers: Display:                                    FSSDSpatialAccumulationCS (compiled   33 times, average 1.74 sec, max 3.04 sec, min 0.83 sec)
+[2024.12.01-03.50.08:942][822]LogShaderCompilers: Display:                                    FShadingFurnaceTestPassPS (compiled    1 times, average 1.45 sec, max 1.45 sec, min 1.45 sec)
+[2024.12.01-03.50.08:942][822]LogShaderCompilers: Display:                                        FCloudRenderViewPS111 (compiled    1 times, average 1.36 sec, max 1.36 sec, min 1.36 sec)
+[2024.12.01-03.50.08:942][822]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2024.12.01-03.50.08:942][822]LogShaderCompilers: Display:                                             FDeferredLightPS - 12.50% of total time (compiled  134 times, average 1.28 sec, max 2.92 sec, min 1.05 sec)
+[2024.12.01-03.50.08:942][822]LogShaderCompilers: Display:                                FVirtualShadowMapProjectionCS - 5.82% of total time (compiled   96 times, average 0.83 sec, max 1.70 sec, min 0.49 sec)
+[2024.12.01-03.50.08:942][822]LogShaderCompilers: Display:                                  FScreenProbeTraceMeshSDFsCS - 5.16% of total time (compiled   96 times, average 0.74 sec, max 1.36 sec, min 0.17 sec)
+[2024.12.01-03.50.08:942][822]LogShaderCompilers: Display:                                      FScreenProbeIntegrateCS - 4.48% of total time (compiled  128 times, average 0.48 sec, max 1.90 sec, min 0.32 sec)
+[2024.12.01-03.50.08:942][822]LogShaderCompilers: Display:                                    FSSDSpatialAccumulationCS - 4.18% of total time (compiled   33 times, average 1.74 sec, max 3.04 sec, min 0.83 sec)
+[2024.12.01-03.50.08:942][822]LogShaderCompilers: Display: ================================================
+[2024.12.01-03.50.09:195][836]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.12.01-03.50.09:216][837]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.12.01-03.50.09:244][838]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.12.01-03.50.09:270][839]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.12.01-03.50.09:295][840]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.12.01-03.50.09:345][842]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.12.01-03.50.09:371][843]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.12.01-03.50.10:359][900]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Obstacles/Birds/Bird.Bird
+[2024.12.01-03.50.10:359][900]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.12.01-03.50.10:359][900]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.12.01-03.50.47:182][918]BlueprintLog: New page: Compile InstaCloud
+[2024.12.01-03.50.47:246][918]LogUObjectHash: Compacting FUObjectHashTables data took   1.46ms
+[2024.12.01-03.50.47:887][951]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.12.01-03.50.47:945][951]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Obstacles/Clouds/InstaCloud" FILE="../../../../../../Users/Lev/Documents/Unreal Projects/UnnamedFallingGame/Content/Obstacles/Clouds/InstaCloud.uasset" SILENT=true
+[2024.12.01-03.50.47:953][951]LogSavePackage: Moving output files for package: /Game/Obstacles/Clouds/InstaCloud
+[2024.12.01-03.50.47:953][951]LogSavePackage: Moving '../../../../../../Users/Lev/Documents/Unreal Projects/UnnamedFallingGame/Saved/InstaCloud6BE1B82143AF9C30880E6496EB55CBDF.tmp' to '../../../../../../Users/Lev/Documents/Unreal Projects/UnnamedFallingGame/Content/Obstacles/Clouds/InstaCloud.uasset'
+[2024.12.01-03.50.47:961][951]LogFileHelpers: InternalPromptForCheckoutAndSave took 73 ms (total: 6.29 sec)
+[2024.12.01-03.50.47:963][951]AssetCheck: New page: Asset Save: InstaCloud
+[2024.12.01-03.50.47:963][951]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Obstacles/Clouds/InstaCloud.InstaCloud
+[2024.12.01-03.50.49:010][  2]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2024.12.01-03.50.49:017][  2]LogContentBundle: [TestMap1(Standalone)] Generating Streaming for 0 Content Bundles.
+[2024.12.01-03.50.49:017][  2]LogWorldPartition: Display: GenerateStreaming for 'TestMap1' started...
+[2024.12.01-03.50.49:110][  2]LogWorldPartition: Display: GenerateStreaming for 'TestMap1' took 92 ms (total: 1.21 sec)
+[2024.12.01-03.50.49:110][  2]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.12.01-03.50.49:110][  2]PIE: New page: PIE session: TestMap1 (Nov 30, 2024, 11:50:49 AM)
+[2024.12.01-03.50.49:110][  2]LogPlayLevel: Display: Creating online subsystem for client :Context_41
+[2024.12.01-03.50.49:112][  2]LogOnline: OSS: Created online subsystem instance for: :Context_41
+[2024.12.01-03.50.49:141][  3]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_TestMap1
+[2024.12.01-03.50.49:153][  3]LogPlayLevel: PIE: StaticDuplicateObject took: (0.011736s)
+[2024.12.01-03.50.49:153][  3]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/TestMap1.TestMap1 to /Game/Maps/UEDPIE_0_TestMap1.TestMap1 (0.011773s)
+[2024.12.01-03.50.49:165][  3]LogUObjectHash: Compacting FUObjectHashTables data took   1.20ms
+[2024.12.01-03.50.49:170][  3]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.12.01-03.50.49:171][  3]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.12.01-03.50.49:171][  3]LogAIModule: Creating AISystem for world TestMap1
+[2024.12.01-03.50.49:171][  3]LogWorldPartition: ULevel::OnLevelLoaded(TestMap1)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2024.12.01-03.50.49:171][  3]LogWorldPartition: Display: WorldPartition initialize started...
+[2024.12.01-03.50.49:171][  3]LogWorldPartition: UWorldPartition::Initialize : World = TestMap1, World Type = PIE, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 0, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2024.12.01-03.50.49:171][  3]LogWorldPartition: UWorldPartition::Initialize Context : World NetMode = Standalone, IsServer = 0, IsDedicatedServer = 0, IsServerStreamingEnabled = 0, IsServerStreamingOutEnabled = 0, IsUsingMakingVisibleTransaction = 0, IsUsingMakingInvisibleTransaction = 0
+[2024.12.01-03.50.49:174][  3]LogContentBundle: [TestMap1(Standalone)] Creating new contrainer.
+[2024.12.01-03.50.49:174][  3]LogWorldPartition: Display: WorldPartition initialize took 2 ms (total: 334 ms)
+[2024.12.01-03.50.49:174][  3]LogPlayLevel: PIE: World Init took: (0.003975s)
+[2024.12.01-03.50.49:174][  3]LogAudio: Display: Creating Audio Device:                 Id: 14, Scope: Unique, Realtime: True
+[2024.12.01-03.50.49:174][  3]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.12.01-03.50.49:174][  3]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.12.01-03.50.49:174][  3]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.12.01-03.50.49:174][  3]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.12.01-03.50.49:174][  3]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.12.01-03.50.49:174][  3]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.12.01-03.50.49:174][  3]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.12.01-03.50.49:175][  3]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.12.01-03.50.49:175][  3]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.12.01-03.50.49:175][  3]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.12.01-03.50.49:175][  3]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.12.01-03.50.49:177][  3]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.12.01-03.50.49:205][  3]LogAudioMixer: Display: Using Audio Hardware Device Headphones (Realtek(R) Audio)
+[2024.12.01-03.50.49:206][  3]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.12.01-03.50.49:206][  3]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.12.01-03.50.49:206][  3]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.12.01-03.50.49:207][  3]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=14
+[2024.12.01-03.50.49:207][  3]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=14
+[2024.12.01-03.50.49:208][  3]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=14
+[2024.12.01-03.50.49:208][  3]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=14
+[2024.12.01-03.50.49:208][  3]LogInit: FAudioDevice initialized with ID 14.
+[2024.12.01-03.50.49:208][  3]LogAudio: Display: Audio Device (ID: 14) registered with world 'TestMap1'.
+[2024.12.01-03.50.49:208][  3]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 14
+[2024.12.01-03.50.49:210][  3]LogLoad: Game class is 'BirdGameMode_C'
+[2024.12.01-03.50.49:212][  3]LogWorld: Bringing World /Game/Maps/UEDPIE_0_TestMap1.TestMap1 up for play (max tick rate 60) at 2024.11.30-19.50.49
+[2024.12.01-03.50.49:212][  3]LogWorld: Bringing up level for play took: 0.001427
+[2024.12.01-03.50.49:213][  3]LogWorldPartition: UWorldPartitionStreamingPolicy: CellsToActivate(45), CellsToLoad(0), CellsToUnload(0)
+[2024.12.01-03.50.49:213][  3]LogWorldPartition: UWorldPartitionStreamingPolicy: Sources[0] = X=0.000 Y=0.000 Z=1342.000,P=0.000000 Y=180.000000 R=-0.000000
+[2024.12.01-03.50.49:217][  3]LogStreaming: Display: FlushAsyncLoading(): 48 QueuedPackages, 0 AsyncPackages
+[2024.12.01-03.50.49:285][  3]PIE: Server logged in
+[2024.12.01-03.50.49:286][  3]PIE: Play in editor total start time 0.269 seconds.
+[2024.12.01-03.50.51:770][138]LogBlueprintUserMessages: [Tile1_C_UAID_E4A8DFC8C64E513402_2000338663] Hello
+[2024.12.01-03.50.54:363][293]LogBlueprintUserMessages: [Tile1_C_UAID_E4A8DFC8C64E513402_2014635664] Hello
+[2024.12.01-03.50.54:614][308]LogScript: Warning: Attempted to access DESTROYED_Cloud1_C_CHILDACTOR_8 via property K2Node_DynamicCast_AsIF_Obstacle, but DESTROYED_Cloud1_C_CHILDACTOR_8 is not valid (pending kill or garbage)
+	Cloud1_C /Game/Maps/UEDPIE_0_TestMap1.TestMap1:PersistentLevel.DESTROYED_Cloud1_C_CHILDACTOR_8
+	Function /Game/Obstacles/Impact_Obstacle.Impact_Obstacle_C:ExecuteUbergraph_Impact_Obstacle:007F
+[2024.12.01-03.50.54:614][308]PIE: Error: Blueprint Runtime Error: "Attempted to access DESTROYED_Cloud1_C_CHILDACTOR_8 via property K2Node_DynamicCast_AsIF_Obstacle, but DESTROYED_Cloud1_C_CHILDACTOR_8 is not valid (pending kill or garbage)". Node:  Shake Graph:  EventGraph Function:  Execute Ubergraph Impact Obstacle Blueprint:  Impact_Obstacle
+[2024.12.01-03.50.54:614][308]LogScript: Warning: Attempted to access DESTROYED_Cloud1_C_CHILDACTOR_8 via property K2Node_DynamicCast_AsIF_Obstacle_1, but DESTROYED_Cloud1_C_CHILDACTOR_8 is not valid (pending kill or garbage)
+	Cloud1_C /Game/Maps/UEDPIE_0_TestMap1.TestMap1:PersistentLevel.DESTROYED_Cloud1_C_CHILDACTOR_8
+	Function /Game/Obstacles/Impact_Obstacle.Impact_Obstacle_C:ExecuteUbergraph_Impact_Obstacle:0101
+[2024.12.01-03.50.54:614][308]PIE: Error: Blueprint Runtime Error: "Attempted to access DESTROYED_Cloud1_C_CHILDACTOR_8 via property K2Node_DynamicCast_AsIF_Obstacle_1, but DESTROYED_Cloud1_C_CHILDACTOR_8 is not valid (pending kill or garbage)". Node:  Slow Graph:  EventGraph Function:  Execute Ubergraph Impact Obstacle Blueprint:  Impact_Obstacle
+[2024.12.01-03.50.55:204][343]LogBlueprintUserMessages: [Tile2_C_0] Hello
+[2024.12.01-03.50.56:396][412]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.12.01-03.50.56:396][412]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_TestMap1
+[2024.12.01-03.50.56:398][412]LogWorld: UWorld::CleanupWorld for TestMap1, bSessionEnded=true, bCleanupResources=true
+[2024.12.01-03.50.56:401][412]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.12.01-03.50.56:401][412]LogContentBundle: [TestMap1(Standalone)] Deleting container.
+[2024.12.01-03.50.56:404][412]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.12.01-03.50.56:410][412]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.12.01-03.50.56:426][412]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.12.01-03.50.56:428][412]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 14
+[2024.12.01-03.50.56:428][412]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=14
+[2024.12.01-03.50.56:429][412]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=14
+[2024.12.01-03.50.56:433][412]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.12.01-03.50.56:443][412]LogUObjectHash: Compacting FUObjectHashTables data took   1.26ms
+[2024.12.01-03.50.56:645][413]LogPlayLevel: Display: Destroying online subsystem :Context_41
+[2024.12.01-03.51.07:414][ 17]LogActorComponent: RegisterComponentWithWorld: (/Game/Maps/TestMap1.TestMap1:PersistentLevel.DESTROYED_Bird1_C_CHILDACTOR_1825468761.DefaultSceneRoot) Trying to register component with IsValid() == false. Aborting.
+[2024.12.01-03.51.07:414][ 17]LogActorComponent: RegisterComponentWithWorld: (/Game/Maps/TestMap1.TestMap1:PersistentLevel.DESTROYED_Bird1_C_CHILDACTOR_1825468762.DefaultSceneRoot) Trying to register component with IsValid() == false. Aborting.
+[2024.12.01-03.51.07:415][ 17]LogActorComponent: RegisterComponentWithWorld: (/Game/Maps/TestMap1.TestMap1:PersistentLevel.DESTROYED_Bird1_C_CHILDACTOR_1825468763.DefaultSceneRoot) Trying to register component with IsValid() == false. Aborting.
+[2024.12.01-03.51.07:415][ 17]LogActorComponent: RegisterComponentWithWorld: (/Game/Maps/TestMap1.TestMap1:PersistentLevel.DESTROYED_Bird1_C_CHILDACTOR_1825468764.DefaultSceneRoot) Trying to register component with IsValid() == false. Aborting.
+[2024.12.01-03.51.07:415][ 17]LogActorComponent: RegisterComponentWithWorld: (/Game/Maps/TestMap1.TestMap1:PersistentLevel.DESTROYED_Bird1_C_CHILDACTOR_1825468766.DefaultSceneRoot) Trying to register component with IsValid() == false. Aborting.
+[2024.12.01-03.51.07:415][ 17]LogActorComponent: RegisterComponentWithWorld: (/Game/Maps/TestMap1.TestMap1:PersistentLevel.DESTROYED_Bird1_C_CHILDACTOR_1825468767.DefaultSceneRoot) Trying to register component with IsValid() == false. Aborting.
+[2024.12.01-03.51.07:415][ 17]LogActorComponent: RegisterComponentWithWorld: (/Game/Maps/TestMap1.TestMap1:PersistentLevel.DESTROYED_Bird1_C_CHILDACTOR_1825468768.DefaultSceneRoot) Trying to register component with IsValid() == false. Aborting.
+[2024.12.01-03.51.07:415][ 17]LogActorComponent: RegisterComponentWithWorld: (/Game/Maps/TestMap1.TestMap1:PersistentLevel.DESTROYED_Bird1_C_CHILDACTOR_1825468765.DefaultSceneRoot) Trying to register component with IsValid() == false. Aborting.
+[2024.12.01-03.51.07:415][ 17]LogActorComponent: RegisterComponentWithWorld: (/Game/Maps/TestMap1.TestMap1:PersistentLevel.DESTROYED_Bird1_C_CHILDACTOR_1825468769.DefaultSceneRoot) Trying to register component with IsValid() == false. Aborting.
+[2024.12.01-03.51.07:431][ 17]LogActorComponent: RegisterComponentWithWorld: (/Game/Maps/TestMap1.TestMap1:PersistentLevel.DESTROYED_Bird1_C_CHILDACTOR_1825468770.DefaultSceneRoot) Trying to register component with IsValid() == false. Aborting.
+[2024.12.01-03.51.07:431][ 17]LogActorComponent: RegisterComponentWithWorld: (/Game/Maps/TestMap1.TestMap1:PersistentLevel.DESTROYED_Bird1_C_CHILDACTOR_1825468771.DefaultSceneRoot) Trying to register component with IsValid() == false. Aborting.
+[2024.12.01-03.51.07:431][ 17]LogActorComponent: RegisterComponentWithWorld: (/Game/Maps/TestMap1.TestMap1:PersistentLevel.DESTROYED_Bird1_C_CHILDACTOR_1825468772.DefaultSceneRoot) Trying to register component with IsValid() == false. Aborting.
+[2024.12.01-03.51.07:431][ 17]LogActorComponent: RegisterComponentWithWorld: (/Game/Maps/TestMap1.TestMap1:PersistentLevel.DESTROYED_Bird1_C_CHILDACTOR_1825468773.DefaultSceneRoot) Trying to register component with IsValid() == false. Aborting.
+[2024.12.01-03.51.07:431][ 17]LogActorComponent: RegisterComponentWithWorld: (/Game/Maps/TestMap1.TestMap1:PersistentLevel.DESTROYED_Bird1_C_CHILDACTOR_1825468775.DefaultSceneRoot) Trying to register component with IsValid() == false. Aborting.
+[2024.12.01-03.51.07:431][ 17]LogActorComponent: RegisterComponentWithWorld: (/Game/Maps/TestMap1.TestMap1:PersistentLevel.DESTROYED_Bird1_C_CHILDACTOR_1825468776.DefaultSceneRoot) Trying to register component with IsValid() == false. Aborting.
+[2024.12.01-03.51.07:431][ 17]LogActorComponent: RegisterComponentWithWorld: (/Game/Maps/TestMap1.TestMap1:PersistentLevel.DESTROYED_Bird1_C_CHILDACTOR_1825468777.DefaultSceneRoot) Trying to register component with IsValid() == false. Aborting.
+[2024.12.01-03.51.07:431][ 17]LogActorComponent: RegisterComponentWithWorld: (/Game/Maps/TestMap1.TestMap1:PersistentLevel.DESTROYED_Bird1_C_CHILDACTOR_1825468774.DefaultSceneRoot) Trying to register component with IsValid() == false. Aborting.
+[2024.12.01-03.51.07:431][ 17]LogActorComponent: RegisterComponentWithWorld: (/Game/Maps/TestMap1.TestMap1:PersistentLevel.DESTROYED_Bird1_C_CHILDACTOR_1825468778.DefaultSceneRoot) Trying to register component with IsValid() == false. Aborting.
+[2024.12.01-03.51.07:445][ 17]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_5:PersistentLevel.DESTROYED_Bird1_C_CHILDACTOR_9.DefaultSceneRoot) Trying to register component with IsValid() == false. Aborting.
+[2024.12.01-03.51.07:456][ 17]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_4:PersistentLevel.DESTROYED_Bird1_C_CHILDACTOR_9.DefaultSceneRoot) Trying to register component with IsValid() == false. Aborting.
+[2024.12.01-03.51.07:456][ 17]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_5:PersistentLevel.DESTROYED_Bird1_C_CHILDACTOR_10.DefaultSceneRoot) Trying to register component with IsValid() == false. Aborting.
+[2024.12.01-03.51.07:456][ 17]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_4:PersistentLevel.DESTROYED_Bird1_C_CHILDACTOR_10.DefaultSceneRoot) Trying to register component with IsValid() == false. Aborting.
+[2024.12.01-03.51.07:456][ 17]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_5:PersistentLevel.DESTROYED_Bird1_C_CHILDACTOR_11.DefaultSceneRoot) Trying to register component with IsValid() == false. Aborting.
+[2024.12.01-03.51.07:456][ 17]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_4:PersistentLevel.DESTROYED_Bird1_C_CHILDACTOR_11.DefaultSceneRoot) Trying to register component with IsValid() == false. Aborting.
+[2024.12.01-03.51.07:457][ 17]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_5:PersistentLevel.DESTROYED_Bird1_C_CHILDACTOR_12.DefaultSceneRoot) Trying to register component with IsValid() == false. Aborting.
+[2024.12.01-03.51.07:457][ 17]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_4:PersistentLevel.DESTROYED_Bird1_C_CHILDACTOR_12.DefaultSceneRoot) Trying to register component with IsValid() == false. Aborting.
+[2024.12.01-03.51.07:457][ 17]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_5:PersistentLevel.DESTROYED_Bird1_C_CHILDACTOR_14.DefaultSceneRoot) Trying to register component with IsValid() == false. Aborting.
+[2024.12.01-03.51.07:457][ 17]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_4:PersistentLevel.DESTROYED_Bird1_C_CHILDACTOR_14.DefaultSceneRoot) Trying to register component with IsValid() == false. Aborting.
+[2024.12.01-03.51.07:457][ 17]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_5:PersistentLevel.DESTROYED_Bird1_C_CHILDACTOR_15.DefaultSceneRoot) Trying to register component with IsValid() == false. Aborting.
+[2024.12.01-03.51.07:457][ 17]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_4:PersistentLevel.DESTROYED_Bird1_C_CHILDACTOR_15.DefaultSceneRoot) Trying to register component with IsValid() == false. Aborting.
+[2024.12.01-03.51.07:457][ 17]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_5:PersistentLevel.DESTROYED_Bird1_C_CHILDACTOR_16.DefaultSceneRoot) Trying to register component with IsValid() == false. Aborting.
+[2024.12.01-03.51.07:457][ 17]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_4:PersistentLevel.DESTROYED_Bird1_C_CHILDACTOR_16.DefaultSceneRoot) Trying to register component with IsValid() == false. Aborting.
+[2024.12.01-03.51.07:457][ 17]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_5:PersistentLevel.DESTROYED_Bird1_C_CHILDACTOR_13.DefaultSceneRoot) Trying to register component with IsValid() == false. Aborting.
+[2024.12.01-03.51.07:457][ 17]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_4:PersistentLevel.DESTROYED_Bird1_C_CHILDACTOR_13.DefaultSceneRoot) Trying to register component with IsValid() == false. Aborting.
+[2024.12.01-03.51.07:457][ 17]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_5:PersistentLevel.DESTROYED_Bird1_C_CHILDACTOR_17.DefaultSceneRoot) Trying to register component with IsValid() == false. Aborting.
+[2024.12.01-03.51.07:458][ 17]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_4:PersistentLevel.DESTROYED_Bird1_C_CHILDACTOR_17.DefaultSceneRoot) Trying to register component with IsValid() == false. Aborting.
+[2024.12.01-03.51.07:459][ 17]LogActorComponent: RegisterComponentWithWorld: (/Game/Maps/TestMap1.TestMap1:PersistentLevel.DESTROYED_Bird1_C_CHILDACTOR_1825468761.DefaultSceneRoot) Trying to register component with IsValid() == false. Aborting.
+[2024.12.01-03.51.07:459][ 17]LogActorComponent: RegisterComponentWithWorld: (/Game/Maps/TestMap1.TestMap1:PersistentLevel.DESTROYED_Bird1_C_CHILDACTOR_1825468762.DefaultSceneRoot) Trying to register component with IsValid() == false. Aborting.
+[2024.12.01-03.51.07:459][ 17]LogActorComponent: RegisterComponentWithWorld: (/Game/Maps/TestMap1.TestMap1:PersistentLevel.DESTROYED_Bird1_C_CHILDACTOR_1825468763.DefaultSceneRoot) Trying to register component with IsValid() == false. Aborting.
+[2024.12.01-03.51.07:459][ 17]LogActorComponent: RegisterComponentWithWorld: (/Game/Maps/TestMap1.TestMap1:PersistentLevel.DESTROYED_Bird1_C_CHILDACTOR_1825468764.DefaultSceneRoot) Trying to register component with IsValid() == false. Aborting.
+[2024.12.01-03.51.07:459][ 17]LogActorComponent: RegisterComponentWithWorld: (/Game/Maps/TestMap1.TestMap1:PersistentLevel.DESTROYED_Bird1_C_CHILDACTOR_1825468766.DefaultSceneRoot) Trying to register component with IsValid() == false. Aborting.
+[2024.12.01-03.51.07:459][ 17]LogActorComponent: RegisterComponentWithWorld: (/Game/Maps/TestMap1.TestMap1:PersistentLevel.DESTROYED_Bird1_C_CHILDACTOR_1825468767.DefaultSceneRoot) Trying to register component with IsValid() == false. Aborting.
+[2024.12.01-03.51.07:459][ 17]LogActorComponent: RegisterComponentWithWorld: (/Game/Maps/TestMap1.TestMap1:PersistentLevel.DESTROYED_Bird1_C_CHILDACTOR_1825468768.DefaultSceneRoot) Trying to register component with IsValid() == false. Aborting.
+[2024.12.01-03.51.07:459][ 17]LogActorComponent: RegisterComponentWithWorld: (/Game/Maps/TestMap1.TestMap1:PersistentLevel.DESTROYED_Bird1_C_CHILDACTOR_1825468765.DefaultSceneRoot) Trying to register component with IsValid() == false. Aborting.
+[2024.12.01-03.51.07:459][ 17]LogActorComponent: RegisterComponentWithWorld: (/Game/Maps/TestMap1.TestMap1:PersistentLevel.DESTROYED_Bird1_C_CHILDACTOR_1825468769.DefaultSceneRoot) Trying to register component with IsValid() == false. Aborting.
+[2024.12.01-03.51.07:459][ 17]LogActorComponent: RegisterComponentWithWorld: (/Game/Maps/TestMap1.TestMap1:PersistentLevel.DESTROYED_Bird1_C_CHILDACTOR_1825468770.DefaultSceneRoot) Trying to register component with IsValid() == false. Aborting.
+[2024.12.01-03.51.07:460][ 17]LogActorComponent: RegisterComponentWithWorld: (/Game/Maps/TestMap1.TestMap1:PersistentLevel.DESTROYED_Bird1_C_CHILDACTOR_1825468771.DefaultSceneRoot) Trying to register component with IsValid() == false. Aborting.
+[2024.12.01-03.51.07:460][ 17]LogActorComponent: RegisterComponentWithWorld: (/Game/Maps/TestMap1.TestMap1:PersistentLevel.DESTROYED_Bird1_C_CHILDACTOR_1825468772.DefaultSceneRoot) Trying to register component with IsValid() == false. Aborting.
+[2024.12.01-03.51.07:460][ 17]LogActorComponent: RegisterComponentWithWorld: (/Game/Maps/TestMap1.TestMap1:PersistentLevel.DESTROYED_Bird1_C_CHILDACTOR_1825468773.DefaultSceneRoot) Trying to register component with IsValid() == false. Aborting.
+[2024.12.01-03.51.07:460][ 17]LogActorComponent: RegisterComponentWithWorld: (/Game/Maps/TestMap1.TestMap1:PersistentLevel.DESTROYED_Bird1_C_CHILDACTOR_1825468775.DefaultSceneRoot) Trying to register component with IsValid() == false. Aborting.
+[2024.12.01-03.51.07:460][ 17]LogActorComponent: RegisterComponentWithWorld: (/Game/Maps/TestMap1.TestMap1:PersistentLevel.DESTROYED_Bird1_C_CHILDACTOR_1825468776.DefaultSceneRoot) Trying to register component with IsValid() == false. Aborting.
+[2024.12.01-03.51.07:460][ 17]LogActorComponent: RegisterComponentWithWorld: (/Game/Maps/TestMap1.TestMap1:PersistentLevel.DESTROYED_Bird1_C_CHILDACTOR_1825468777.DefaultSceneRoot) Trying to register component with IsValid() == false. Aborting.
+[2024.12.01-03.51.07:460][ 17]LogActorComponent: RegisterComponentWithWorld: (/Game/Maps/TestMap1.TestMap1:PersistentLevel.DESTROYED_Bird1_C_CHILDACTOR_1825468774.DefaultSceneRoot) Trying to register component with IsValid() == false. Aborting.
+[2024.12.01-03.51.07:460][ 17]LogActorComponent: RegisterComponentWithWorld: (/Game/Maps/TestMap1.TestMap1:PersistentLevel.DESTROYED_Bird1_C_CHILDACTOR_1825468778.DefaultSceneRoot) Trying to register component with IsValid() == false. Aborting.
+[2024.12.01-03.51.07:460][ 17]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_5:PersistentLevel.DESTROYED_Bird1_C_CHILDACTOR_9.DefaultSceneRoot) Trying to register component with IsValid() == false. Aborting.
+[2024.12.01-03.51.07:460][ 17]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_4:PersistentLevel.DESTROYED_Bird1_C_CHILDACTOR_9.DefaultSceneRoot) Trying to register component with IsValid() == false. Aborting.
+[2024.12.01-03.51.07:460][ 17]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_5:PersistentLevel.DESTROYED_Bird1_C_CHILDACTOR_10.DefaultSceneRoot) Trying to register component with IsValid() == false. Aborting.
+[2024.12.01-03.51.07:460][ 17]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_4:PersistentLevel.DESTROYED_Bird1_C_CHILDACTOR_10.DefaultSceneRoot) Trying to register component with IsValid() == false. Aborting.
+[2024.12.01-03.51.07:460][ 17]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_5:PersistentLevel.DESTROYED_Bird1_C_CHILDACTOR_11.DefaultSceneRoot) Trying to register component with IsValid() == false. Aborting.
+[2024.12.01-03.51.07:460][ 17]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_4:PersistentLevel.DESTROYED_Bird1_C_CHILDACTOR_11.DefaultSceneRoot) Trying to register component with IsValid() == false. Aborting.
+[2024.12.01-03.51.07:460][ 17]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_5:PersistentLevel.DESTROYED_Bird1_C_CHILDACTOR_12.DefaultSceneRoot) Trying to register component with IsValid() == false. Aborting.
+[2024.12.01-03.51.07:460][ 17]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_4:PersistentLevel.DESTROYED_Bird1_C_CHILDACTOR_12.DefaultSceneRoot) Trying to register component with IsValid() == false. Aborting.
+[2024.12.01-03.51.07:460][ 17]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_5:PersistentLevel.DESTROYED_Bird1_C_CHILDACTOR_14.DefaultSceneRoot) Trying to register component with IsValid() == false. Aborting.
+[2024.12.01-03.51.07:460][ 17]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_4:PersistentLevel.DESTROYED_Bird1_C_CHILDACTOR_14.DefaultSceneRoot) Trying to register component with IsValid() == false. Aborting.
+[2024.12.01-03.51.07:460][ 17]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_5:PersistentLevel.DESTROYED_Bird1_C_CHILDACTOR_15.DefaultSceneRoot) Trying to register component with IsValid() == false. Aborting.
+[2024.12.01-03.51.07:460][ 17]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_4:PersistentLevel.DESTROYED_Bird1_C_CHILDACTOR_15.DefaultSceneRoot) Trying to register component with IsValid() == false. Aborting.
+[2024.12.01-03.51.07:461][ 17]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_5:PersistentLevel.DESTROYED_Bird1_C_CHILDACTOR_16.DefaultSceneRoot) Trying to register component with IsValid() == false. Aborting.
+[2024.12.01-03.51.07:461][ 17]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_4:PersistentLevel.DESTROYED_Bird1_C_CHILDACTOR_16.DefaultSceneRoot) Trying to register component with IsValid() == false. Aborting.
+[2024.12.01-03.51.07:461][ 17]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_5:PersistentLevel.DESTROYED_Bird1_C_CHILDACTOR_13.DefaultSceneRoot) Trying to register component with IsValid() == false. Aborting.
+[2024.12.01-03.51.07:461][ 17]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_4:PersistentLevel.DESTROYED_Bird1_C_CHILDACTOR_13.DefaultSceneRoot) Trying to register component with IsValid() == false. Aborting.
+[2024.12.01-03.51.07:461][ 17]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_5:PersistentLevel.DESTROYED_Bird1_C_CHILDACTOR_17.DefaultSceneRoot) Trying to register component with IsValid() == false. Aborting.
+[2024.12.01-03.51.07:461][ 17]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_4:PersistentLevel.DESTROYED_Bird1_C_CHILDACTOR_17.DefaultSceneRoot) Trying to register component with IsValid() == false. Aborting.
+[2024.12.01-03.51.07:479][ 17]LogActorComponent: RegisterComponentWithWorld: (/Game/Maps/TestMap1.TestMap1:PersistentLevel.DESTROYED_Bird2_C_CHILDACTOR_1826137793.DefaultSceneRoot) Trying to register component with IsValid() == false. Aborting.
+[2024.12.01-03.51.07:479][ 17]LogActorComponent: RegisterComponentWithWorld: (/Game/Maps/TestMap1.TestMap1:PersistentLevel.DESTROYED_Bird2_C_CHILDACTOR_1826137794.DefaultSceneRoot) Trying to register component with IsValid() == false. Aborting.
+[2024.12.01-03.51.07:479][ 17]LogActorComponent: RegisterComponentWithWorld: (/Game/Maps/TestMap1.TestMap1:PersistentLevel.DESTROYED_Bird2_C_CHILDACTOR_1826137795.DefaultSceneRoot) Trying to register component with IsValid() == false. Aborting.
+[2024.12.01-03.51.07:479][ 17]LogActorComponent: RegisterComponentWithWorld: (/Game/Maps/TestMap1.TestMap1:PersistentLevel.DESTROYED_Bird2_C_CHILDACTOR_1826137796.DefaultSceneRoot) Trying to register component with IsValid() == false. Aborting.
+[2024.12.01-03.51.07:479][ 17]LogActorComponent: RegisterComponentWithWorld: (/Game/Maps/TestMap1.TestMap1:PersistentLevel.DESTROYED_Bird2_C_CHILDACTOR_1826137792.DefaultSceneRoot) Trying to register component with IsValid() == false. Aborting.
+[2024.12.01-03.51.07:479][ 17]LogActorComponent: RegisterComponentWithWorld: (/Game/Maps/TestMap1.TestMap1:PersistentLevel.DESTROYED_Bird2_C_CHILDACTOR_1826137797.DefaultSceneRoot) Trying to register component with IsValid() == false. Aborting.
+[2024.12.01-03.51.07:479][ 17]LogActorComponent: RegisterComponentWithWorld: (/Game/Maps/TestMap1.TestMap1:PersistentLevel.DESTROYED_Bird2_C_CHILDACTOR_1826137798.DefaultSceneRoot) Trying to register component with IsValid() == false. Aborting.
+[2024.12.01-03.51.07:479][ 17]LogActorComponent: RegisterComponentWithWorld: (/Game/Maps/TestMap1.TestMap1:PersistentLevel.DESTROYED_Bird2_C_CHILDACTOR_1826137799.DefaultSceneRoot) Trying to register component with IsValid() == false. Aborting.
+[2024.12.01-03.51.07:479][ 17]LogActorComponent: RegisterComponentWithWorld: (/Game/Maps/TestMap1.TestMap1:PersistentLevel.DESTROYED_Bird2_C_CHILDACTOR_1826137800.DefaultSceneRoot) Trying to register component with IsValid() == false. Aborting.
+[2024.12.01-03.51.07:494][ 17]LogActorComponent: RegisterComponentWithWorld: (/Game/Maps/TestMap1.TestMap1:PersistentLevel.DESTROYED_Bird2_C_CHILDACTOR_1826137802.DefaultSceneRoot) Trying to register component with IsValid() == false. Aborting.
+[2024.12.01-03.51.07:494][ 17]LogActorComponent: RegisterComponentWithWorld: (/Game/Maps/TestMap1.TestMap1:PersistentLevel.DESTROYED_Bird2_C_CHILDACTOR_1826137803.DefaultSceneRoot) Trying to register component with IsValid() == false. Aborting.
+[2024.12.01-03.51.07:494][ 17]LogActorComponent: RegisterComponentWithWorld: (/Game/Maps/TestMap1.TestMap1:PersistentLevel.DESTROYED_Bird2_C_CHILDACTOR_1826137804.DefaultSceneRoot) Trying to register component with IsValid() == false. Aborting.
+[2024.12.01-03.51.07:494][ 17]LogActorComponent: RegisterComponentWithWorld: (/Game/Maps/TestMap1.TestMap1:PersistentLevel.DESTROYED_Bird2_C_CHILDACTOR_1826137805.DefaultSceneRoot) Trying to register component with IsValid() == false. Aborting.
+[2024.12.01-03.51.07:494][ 17]LogActorComponent: RegisterComponentWithWorld: (/Game/Maps/TestMap1.TestMap1:PersistentLevel.DESTROYED_Bird2_C_CHILDACTOR_1826137801.DefaultSceneRoot) Trying to register component with IsValid() == false. Aborting.
+[2024.12.01-03.51.07:495][ 17]LogActorComponent: RegisterComponentWithWorld: (/Game/Maps/TestMap1.TestMap1:PersistentLevel.DESTROYED_Bird2_C_CHILDACTOR_1826137806.DefaultSceneRoot) Trying to register component with IsValid() == false. Aborting.
+[2024.12.01-03.51.07:495][ 17]LogActorComponent: RegisterComponentWithWorld: (/Game/Maps/TestMap1.TestMap1:PersistentLevel.DESTROYED_Bird2_C_CHILDACTOR_1826137807.DefaultSceneRoot) Trying to register component with IsValid() == false. Aborting.
+[2024.12.01-03.51.07:495][ 17]LogActorComponent: RegisterComponentWithWorld: (/Game/Maps/TestMap1.TestMap1:PersistentLevel.DESTROYED_Bird2_C_CHILDACTOR_1826137808.DefaultSceneRoot) Trying to register component with IsValid() == false. Aborting.
+[2024.12.01-03.51.07:495][ 17]LogActorComponent: RegisterComponentWithWorld: (/Game/Maps/TestMap1.TestMap1:PersistentLevel.DESTROYED_Bird2_C_CHILDACTOR_1826137809.DefaultSceneRoot) Trying to register component with IsValid() == false. Aborting.
+[2024.12.01-03.51.07:509][ 17]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_5:PersistentLevel.DESTROYED_Bird2_C_CHILDACTOR_28.DefaultSceneRoot) Trying to register component with IsValid() == false. Aborting.
+[2024.12.01-03.51.07:509][ 17]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_5:PersistentLevel.DESTROYED_Bird2_C_CHILDACTOR_29.DefaultSceneRoot) Trying to register component with IsValid() == false. Aborting.
+[2024.12.01-03.51.07:509][ 17]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_5:PersistentLevel.DESTROYED_Bird2_C_CHILDACTOR_30.DefaultSceneRoot) Trying to register component with IsValid() == false. Aborting.
+[2024.12.01-03.51.07:509][ 17]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_5:PersistentLevel.DESTROYED_Bird2_C_CHILDACTOR_31.DefaultSceneRoot) Trying to register component with IsValid() == false. Aborting.
+[2024.12.01-03.51.07:509][ 17]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_5:PersistentLevel.DESTROYED_Bird2_C_CHILDACTOR_27.DefaultSceneRoot) Trying to register component with IsValid() == false. Aborting.
+[2024.12.01-03.51.07:509][ 17]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_5:PersistentLevel.DESTROYED_Bird2_C_CHILDACTOR_32.DefaultSceneRoot) Trying to register component with IsValid() == false. Aborting.
+[2024.12.01-03.51.07:509][ 17]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_5:PersistentLevel.DESTROYED_Bird2_C_CHILDACTOR_33.DefaultSceneRoot) Trying to register component with IsValid() == false. Aborting.
+[2024.12.01-03.51.07:509][ 17]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_5:PersistentLevel.DESTROYED_Bird2_C_CHILDACTOR_34.DefaultSceneRoot) Trying to register component with IsValid() == false. Aborting.
+[2024.12.01-03.51.07:509][ 17]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_5:PersistentLevel.DESTROYED_Bird2_C_CHILDACTOR_35.DefaultSceneRoot) Trying to register component with IsValid() == false. Aborting.
+[2024.12.01-03.51.07:520][ 17]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_4:PersistentLevel.DESTROYED_Bird2_C_CHILDACTOR_28.DefaultSceneRoot) Trying to register component with IsValid() == false. Aborting.
+[2024.12.01-03.51.07:520][ 17]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_4:PersistentLevel.DESTROYED_Bird2_C_CHILDACTOR_29.DefaultSceneRoot) Trying to register component with IsValid() == false. Aborting.
+[2024.12.01-03.51.07:520][ 17]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_4:PersistentLevel.DESTROYED_Bird2_C_CHILDACTOR_30.DefaultSceneRoot) Trying to register component with IsValid() == false. Aborting.
+[2024.12.01-03.51.07:520][ 17]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_4:PersistentLevel.DESTROYED_Bird2_C_CHILDACTOR_31.DefaultSceneRoot) Trying to register component with IsValid() == false. Aborting.
+[2024.12.01-03.51.07:520][ 17]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_4:PersistentLevel.DESTROYED_Bird2_C_CHILDACTOR_27.DefaultSceneRoot) Trying to register component with IsValid() == false. Aborting.
+[2024.12.01-03.51.07:520][ 17]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_4:PersistentLevel.DESTROYED_Bird2_C_CHILDACTOR_32.DefaultSceneRoot) Trying to register component with IsValid() == false. Aborting.
+[2024.12.01-03.51.07:520][ 17]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_4:PersistentLevel.DESTROYED_Bird2_C_CHILDACTOR_33.DefaultSceneRoot) Trying to register component with IsValid() == false. Aborting.
+[2024.12.01-03.51.07:520][ 17]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_4:PersistentLevel.DESTROYED_Bird2_C_CHILDACTOR_34.DefaultSceneRoot) Trying to register component with IsValid() == false. Aborting.
+[2024.12.01-03.51.07:520][ 17]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_4:PersistentLevel.DESTROYED_Bird2_C_CHILDACTOR_35.DefaultSceneRoot) Trying to register component with IsValid() == false. Aborting.
+[2024.12.01-03.51.07:520][ 17]LogActorComponent: RegisterComponentWithWorld: (/Game/Maps/TestMap1.TestMap1:PersistentLevel.DESTROYED_Bird2_C_CHILDACTOR_1826137775.DefaultSceneRoot) Trying to register component with IsValid() == false. Aborting.
+[2024.12.01-03.51.07:520][ 17]LogActorComponent: RegisterComponentWithWorld: (/Game/Maps/TestMap1.TestMap1:PersistentLevel.DESTROYED_Bird2_C_CHILDACTOR_1826137776.DefaultSceneRoot) Trying to register component with IsValid() == false. Aborting.
+[2024.12.01-03.51.07:520][ 17]LogActorComponent: RegisterComponentWithWorld: (/Game/Maps/TestMap1.TestMap1:PersistentLevel.DESTROYED_Bird2_C_CHILDACTOR_1826137777.DefaultSceneRoot) Trying to register component with IsValid() == false. Aborting.
+[2024.12.01-03.51.07:521][ 17]LogActorComponent: RegisterComponentWithWorld: (/Game/Maps/TestMap1.TestMap1:PersistentLevel.DESTROYED_Bird2_C_CHILDACTOR_1826137778.DefaultSceneRoot) Trying to register component with IsValid() == false. Aborting.
+[2024.12.01-03.51.07:521][ 17]LogActorComponent: RegisterComponentWithWorld: (/Game/Maps/TestMap1.TestMap1:PersistentLevel.DESTROYED_Bird2_C_CHILDACTOR_1826137774.DefaultSceneRoot) Trying to register component with IsValid() == false. Aborting.
+[2024.12.01-03.51.07:521][ 17]LogActorComponent: RegisterComponentWithWorld: (/Game/Maps/TestMap1.TestMap1:PersistentLevel.DESTROYED_Bird2_C_CHILDACTOR_1826137779.DefaultSceneRoot) Trying to register component with IsValid() == false. Aborting.
+[2024.12.01-03.51.07:521][ 17]LogActorComponent: RegisterComponentWithWorld: (/Game/Maps/TestMap1.TestMap1:PersistentLevel.DESTROYED_Bird2_C_CHILDACTOR_1826137780.DefaultSceneRoot) Trying to register component with IsValid() == false. Aborting.
+[2024.12.01-03.51.07:521][ 17]LogActorComponent: RegisterComponentWithWorld: (/Game/Maps/TestMap1.TestMap1:PersistentLevel.DESTROYED_Bird2_C_CHILDACTOR_1826137781.DefaultSceneRoot) Trying to register component with IsValid() == false. Aborting.
+[2024.12.01-03.51.07:521][ 17]LogActorComponent: RegisterComponentWithWorld: (/Game/Maps/TestMap1.TestMap1:PersistentLevel.DESTROYED_Bird2_C_CHILDACTOR_1826137782.DefaultSceneRoot) Trying to register component with IsValid() == false. Aborting.
+[2024.12.01-03.51.07:521][ 17]LogActorComponent: RegisterComponentWithWorld: (/Game/Maps/TestMap1.TestMap1:PersistentLevel.DESTROYED_Bird2_C_CHILDACTOR_1826137784.DefaultSceneRoot) Trying to register component with IsValid() == false. Aborting.
+[2024.12.01-03.51.07:521][ 17]LogActorComponent: RegisterComponentWithWorld: (/Game/Maps/TestMap1.TestMap1:PersistentLevel.DESTROYED_Bird2_C_CHILDACTOR_1826137785.DefaultSceneRoot) Trying to register component with IsValid() == false. Aborting.
+[2024.12.01-03.51.07:521][ 17]LogActorComponent: RegisterComponentWithWorld: (/Game/Maps/TestMap1.TestMap1:PersistentLevel.DESTROYED_Bird2_C_CHILDACTOR_1826137786.DefaultSceneRoot) Trying to register component with IsValid() == false. Aborting.
+[2024.12.01-03.51.07:521][ 17]LogActorComponent: RegisterComponentWithWorld: (/Game/Maps/TestMap1.TestMap1:PersistentLevel.DESTROYED_Bird2_C_CHILDACTOR_1826137787.DefaultSceneRoot) Trying to register component with IsValid() == false. Aborting.
+[2024.12.01-03.51.07:521][ 17]LogActorComponent: RegisterComponentWithWorld: (/Game/Maps/TestMap1.TestMap1:PersistentLevel.DESTROYED_Bird2_C_CHILDACTOR_1826137783.DefaultSceneRoot) Trying to register component with IsValid() == false. Aborting.
+[2024.12.01-03.51.07:521][ 17]LogActorComponent: RegisterComponentWithWorld: (/Game/Maps/TestMap1.TestMap1:PersistentLevel.DESTROYED_Bird2_C_CHILDACTOR_1826137788.DefaultSceneRoot) Trying to register component with IsValid() == false. Aborting.
+[2024.12.01-03.51.07:521][ 17]LogActorComponent: RegisterComponentWithWorld: (/Game/Maps/TestMap1.TestMap1:PersistentLevel.DESTROYED_Bird2_C_CHILDACTOR_1826137789.DefaultSceneRoot) Trying to register component with IsValid() == false. Aborting.
+[2024.12.01-03.51.07:521][ 17]LogActorComponent: RegisterComponentWithWorld: (/Game/Maps/TestMap1.TestMap1:PersistentLevel.DESTROYED_Bird2_C_CHILDACTOR_1826137790.DefaultSceneRoot) Trying to register component with IsValid() == false. Aborting.
+[2024.12.01-03.51.07:521][ 17]LogActorComponent: RegisterComponentWithWorld: (/Game/Maps/TestMap1.TestMap1:PersistentLevel.DESTROYED_Bird2_C_CHILDACTOR_1826137791.DefaultSceneRoot) Trying to register component with IsValid() == false. Aborting.
+[2024.12.01-03.51.07:521][ 17]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_5:PersistentLevel.DESTROYED_Bird2_C_CHILDACTOR_10.DefaultSceneRoot) Trying to register component with IsValid() == false. Aborting.
+[2024.12.01-03.51.07:521][ 17]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_4:PersistentLevel.DESTROYED_Bird2_C_CHILDACTOR_10.DefaultSceneRoot) Trying to register component with IsValid() == false. Aborting.
+[2024.12.01-03.51.07:521][ 17]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_5:PersistentLevel.DESTROYED_Bird2_C_CHILDACTOR_11.DefaultSceneRoot) Trying to register component with IsValid() == false. Aborting.
+[2024.12.01-03.51.07:521][ 17]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_4:PersistentLevel.DESTROYED_Bird2_C_CHILDACTOR_11.DefaultSceneRoot) Trying to register component with IsValid() == false. Aborting.
+[2024.12.01-03.51.07:521][ 17]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_5:PersistentLevel.DESTROYED_Bird2_C_CHILDACTOR_12.DefaultSceneRoot) Trying to register component with IsValid() == false. Aborting.
+[2024.12.01-03.51.07:521][ 17]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_4:PersistentLevel.DESTROYED_Bird2_C_CHILDACTOR_12.DefaultSceneRoot) Trying to register component with IsValid() == false. Aborting.
+[2024.12.01-03.51.07:521][ 17]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_5:PersistentLevel.DESTROYED_Bird2_C_CHILDACTOR_13.DefaultSceneRoot) Trying to register component with IsValid() == false. Aborting.
+[2024.12.01-03.51.07:521][ 17]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_4:PersistentLevel.DESTROYED_Bird2_C_CHILDACTOR_13.DefaultSceneRoot) Trying to register component with IsValid() == false. Aborting.
+[2024.12.01-03.51.07:521][ 17]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_5:PersistentLevel.DESTROYED_Bird2_C_CHILDACTOR_9.DefaultSceneRoot) Trying to register component with IsValid() == false. Aborting.
+[2024.12.01-03.51.07:521][ 17]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_4:PersistentLevel.DESTROYED_Bird2_C_CHILDACTOR_9.DefaultSceneRoot) Trying to register component with IsValid() == false. Aborting.
+[2024.12.01-03.51.07:521][ 17]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_5:PersistentLevel.DESTROYED_Bird2_C_CHILDACTOR_14.DefaultSceneRoot) Trying to register component with IsValid() == false. Aborting.
+[2024.12.01-03.51.07:521][ 17]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_4:PersistentLevel.DESTROYED_Bird2_C_CHILDACTOR_14.DefaultSceneRoot) Trying to register component with IsValid() == false. Aborting.
+[2024.12.01-03.51.07:521][ 17]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_5:PersistentLevel.DESTROYED_Bird2_C_CHILDACTOR_15.DefaultSceneRoot) Trying to register component with IsValid() == false. Aborting.
+[2024.12.01-03.51.07:521][ 17]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_4:PersistentLevel.DESTROYED_Bird2_C_CHILDACTOR_15.DefaultSceneRoot) Trying to register component with IsValid() == false. Aborting.
+[2024.12.01-03.51.07:521][ 17]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_5:PersistentLevel.DESTROYED_Bird2_C_CHILDACTOR_16.DefaultSceneRoot) Trying to register component with IsValid() == false. Aborting.
+[2024.12.01-03.51.07:521][ 17]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_4:PersistentLevel.DESTROYED_Bird2_C_CHILDACTOR_16.DefaultSceneRoot) Trying to register component with IsValid() == false. Aborting.
+[2024.12.01-03.51.07:522][ 17]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_5:PersistentLevel.DESTROYED_Bird2_C_CHILDACTOR_17.DefaultSceneRoot) Trying to register component with IsValid() == false. Aborting.
+[2024.12.01-03.51.07:522][ 17]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_4:PersistentLevel.DESTROYED_Bird2_C_CHILDACTOR_17.DefaultSceneRoot) Trying to register component with IsValid() == false. Aborting.
+[2024.12.01-03.51.08:688][ 83]BlueprintLog: New page: Compile Bird
+[2024.12.01-03.51.08:789][ 83]LogUObjectHash: Compacting FUObjectHashTables data took   1.28ms
+[2024.12.01-03.51.09:079][ 92]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.12.01-03.51.09:152][ 92]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Obstacles/Birds/Bird" FILE="../../../../../../Users/Lev/Documents/Unreal Projects/UnnamedFallingGame/Content/Obstacles/Birds/Bird.uasset" SILENT=true
+[2024.12.01-03.51.09:161][ 92]LogSavePackage: Moving output files for package: /Game/Obstacles/Birds/Bird
+[2024.12.01-03.51.09:161][ 92]LogSavePackage: Moving '../../../../../../Users/Lev/Documents/Unreal Projects/UnnamedFallingGame/Saved/Bird307F0D4B467795BC9CF40B9EE678F9BC.tmp' to '../../../../../../Users/Lev/Documents/Unreal Projects/UnnamedFallingGame/Content/Obstacles/Birds/Bird.uasset'
+[2024.12.01-03.51.09:172][ 92]LogFileHelpers: InternalPromptForCheckoutAndSave took 92 ms (total: 6.38 sec)
+[2024.12.01-03.51.09:173][ 92]AssetCheck: New page: Asset Save: Bird
+[2024.12.01-03.51.09:173][ 92]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Obstacles/Birds/Bird.Bird
+[2024.12.01-03.51.30:324][283]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.12.01-03.51.30:392][283]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Obstacles/Birds/Bird" FILE="../../../../../../Users/Lev/Documents/Unreal Projects/UnnamedFallingGame/Content/Obstacles/Birds/Bird.uasset" SILENT=true
+[2024.12.01-03.51.30:400][283]LogSavePackage: Moving output files for package: /Game/Obstacles/Birds/Bird
+[2024.12.01-03.51.30:401][283]LogSavePackage: Moving '../../../../../../Users/Lev/Documents/Unreal Projects/UnnamedFallingGame/Saved/Bird4BC22F0E493E345D44E94D8CEB55715F.tmp' to '../../../../../../Users/Lev/Documents/Unreal Projects/UnnamedFallingGame/Content/Obstacles/Birds/Bird.uasset'
+[2024.12.01-03.51.30:410][283]LogFileHelpers: InternalPromptForCheckoutAndSave took 86 ms (total: 6.47 sec)
+[2024.12.01-03.51.30:411][283]AssetCheck: New page: Asset Save: Bird
+[2024.12.01-03.51.30:411][283]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Obstacles/Birds/Bird.Bird
+[2024.12.01-03.51.33:618][468]LogUObjectHash: Compacting FUObjectHashTables data took   1.31ms
+[2024.12.01-03.51.33:627][468]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Maps/TestMap1' took 0.025
+[2024.12.01-03.51.33:629][468]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Obstacles/Clouds/InstaCloud] ([2] browsable assets)...
+[2024.12.01-03.51.33:629][468]OBJ SavePackage: Finished generating thumbnails for package [/Game/Obstacles/Clouds/InstaCloud]
+[2024.12.01-03.51.33:637][468]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Obstacles/Clouds/InstaCloud_Auto1
+[2024.12.01-03.51.33:637][468]LogSavePackage: Moving '../../../../../../Users/Lev/Documents/Unreal Projects/UnnamedFallingGame/Saved/InstaCloud_Auto18E1E67EB4EE88D59B56C2190351A4ADC.tmp' to '../../../../../../Users/Lev/Documents/Unreal Projects/UnnamedFallingGame/Saved/Autosaves/Game/Obstacles/Clouds/InstaCloud_Auto1.uasset'
+[2024.12.01-03.51.33:637][468]LogFileHelpers: Auto-saving content packages took 0.010
+[2024.12.01-03.51.37:362][687]BlueprintLog: New page: Compile InstaCloud
+[2024.12.01-03.51.37:414][687]LogUObjectHash: Compacting FUObjectHashTables data took   1.52ms
+[2024.12.01-03.51.37:781][702]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.12.01-03.51.37:852][702]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Obstacles/Clouds/InstaCloud" FILE="../../../../../../Users/Lev/Documents/Unreal Projects/UnnamedFallingGame/Content/Obstacles/Clouds/InstaCloud.uasset" SILENT=true
+[2024.12.01-03.51.37:860][702]LogSavePackage: Moving output files for package: /Game/Obstacles/Clouds/InstaCloud
+[2024.12.01-03.51.37:860][702]LogSavePackage: Moving '../../../../../../Users/Lev/Documents/Unreal Projects/UnnamedFallingGame/Saved/InstaCloudBF42698F4595AD68B35F6F87EF77E176.tmp' to '../../../../../../Users/Lev/Documents/Unreal Projects/UnnamedFallingGame/Content/Obstacles/Clouds/InstaCloud.uasset'
+[2024.12.01-03.51.37:869][702]LogFileHelpers: InternalPromptForCheckoutAndSave took 87 ms (total: 6.56 sec)
+[2024.12.01-03.51.37:870][702]AssetCheck: New page: Asset Save: InstaCloud
+[2024.12.01-03.51.37:870][702]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Obstacles/Clouds/InstaCloud.InstaCloud
+[2024.12.01-03.52.11:118][599]BlueprintLog: New page: Compile BirdPawn
+[2024.12.01-03.52.11:176][599]LogUObjectHash: Compacting FUObjectHashTables data took   1.48ms
+[2024.12.01-03.52.11:539][608]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.12.01-03.52.11:603][608]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Player/BirdPawn" FILE="../../../../../../Users/Lev/Documents/Unreal Projects/UnnamedFallingGame/Content/Player/BirdPawn.uasset" SILENT=true
+[2024.12.01-03.52.11:642][608]LogSavePackage: Moving output files for package: /Game/Player/BirdPawn
+[2024.12.01-03.52.11:643][608]LogSavePackage: Moving '../../../../../../Users/Lev/Documents/Unreal Projects/UnnamedFallingGame/Saved/BirdPawn9F22D87B4D438F9481956DA0CC7E66EC.tmp' to '../../../../../../Users/Lev/Documents/Unreal Projects/UnnamedFallingGame/Content/Player/BirdPawn.uasset'
+[2024.12.01-03.52.11:650][608]LogFileHelpers: InternalPromptForCheckoutAndSave took 110 ms (total: 6.67 sec)
+[2024.12.01-03.52.11:652][608]AssetCheck: New page: Asset Save: BirdPawn
+[2024.12.01-03.52.11:652][608]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Player/BirdPawn.BirdPawn
+[2024.12.01-03.52.16:353][869]LogSlate: Window 'Message Log' being destroyed
+[2024.12.01-03.52.16:360][869]LogSlate: Window 'Message Log' being destroyed
+[2024.12.01-03.52.17:657][939]LogUObjectHash: Compacting FUObjectHashTables data took   1.43ms
+[2024.12.01-03.52.18:170][968]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2024.12.01-03.52.18:177][968]LogContentBundle: [TestMap1(Standalone)] Generating Streaming for 0 Content Bundles.
+[2024.12.01-03.52.18:177][968]LogWorldPartition: Display: GenerateStreaming for 'TestMap1' started...
+[2024.12.01-03.52.18:266][968]LogWorldPartition: Display: GenerateStreaming for 'TestMap1' took 89 ms (total: 1.30 sec)
+[2024.12.01-03.52.18:267][968]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.12.01-03.52.18:267][968]PIE: New page: PIE session: TestMap1 (Nov 30, 2024, 11:52:18 AM)
+[2024.12.01-03.52.18:267][968]LogPlayLevel: Display: Creating online subsystem for client :Context_42
+[2024.12.01-03.52.18:269][968]LogOnline: OSS: Created online subsystem instance for: :Context_42
+[2024.12.01-03.52.18:301][969]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_TestMap1
+[2024.12.01-03.52.18:312][969]LogPlayLevel: PIE: StaticDuplicateObject took: (0.011718s)
+[2024.12.01-03.52.18:312][969]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/TestMap1.TestMap1 to /Game/Maps/UEDPIE_0_TestMap1.TestMap1 (0.011757s)
+[2024.12.01-03.52.18:325][969]LogUObjectHash: Compacting FUObjectHashTables data took   1.25ms
+[2024.12.01-03.52.18:327][969]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.12.01-03.52.18:327][969]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.12.01-03.52.18:328][969]LogAIModule: Creating AISystem for world TestMap1
+[2024.12.01-03.52.18:328][969]LogWorldPartition: ULevel::OnLevelLoaded(TestMap1)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2024.12.01-03.52.18:328][969]LogWorldPartition: Display: WorldPartition initialize started...
+[2024.12.01-03.52.18:328][969]LogWorldPartition: UWorldPartition::Initialize : World = TestMap1, World Type = PIE, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 0, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2024.12.01-03.52.18:328][969]LogWorldPartition: UWorldPartition::Initialize Context : World NetMode = Standalone, IsServer = 0, IsDedicatedServer = 0, IsServerStreamingEnabled = 0, IsServerStreamingOutEnabled = 0, IsUsingMakingVisibleTransaction = 0, IsUsingMakingInvisibleTransaction = 0
+[2024.12.01-03.52.18:331][969]LogContentBundle: [TestMap1(Standalone)] Creating new contrainer.
+[2024.12.01-03.52.18:331][969]LogWorldPartition: Display: WorldPartition initialize took 2 ms (total: 337 ms)
+[2024.12.01-03.52.18:331][969]LogPlayLevel: PIE: World Init took: (0.004052s)
+[2024.12.01-03.52.18:331][969]LogAudio: Display: Creating Audio Device:                 Id: 15, Scope: Unique, Realtime: True
+[2024.12.01-03.52.18:331][969]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.12.01-03.52.18:331][969]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.12.01-03.52.18:331][969]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.12.01-03.52.18:331][969]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.12.01-03.52.18:331][969]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.12.01-03.52.18:331][969]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.12.01-03.52.18:331][969]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.12.01-03.52.18:331][969]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.12.01-03.52.18:332][969]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.12.01-03.52.18:332][969]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.12.01-03.52.18:332][969]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.12.01-03.52.18:333][969]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.12.01-03.52.18:361][969]LogAudioMixer: Display: Using Audio Hardware Device Headphones (Realtek(R) Audio)
+[2024.12.01-03.52.18:361][969]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.12.01-03.52.18:361][969]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.12.01-03.52.18:361][969]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.12.01-03.52.18:362][969]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=15
+[2024.12.01-03.52.18:362][969]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=15
+[2024.12.01-03.52.18:363][969]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=15
+[2024.12.01-03.52.18:363][969]LogInit: FAudioDevice initialized with ID 15.
+[2024.12.01-03.52.18:363][969]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=15
+[2024.12.01-03.52.18:363][969]LogAudio: Display: Audio Device (ID: 15) registered with world 'TestMap1'.
+[2024.12.01-03.52.18:364][969]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 15
+[2024.12.01-03.52.18:366][969]LogLoad: Game class is 'BirdGameMode_C'
+[2024.12.01-03.52.18:367][969]LogWorld: Bringing World /Game/Maps/UEDPIE_0_TestMap1.TestMap1 up for play (max tick rate 60) at 2024.11.30-19.52.18
+[2024.12.01-03.52.18:367][969]LogWorld: Bringing up level for play took: 0.001367
+[2024.12.01-03.52.18:368][969]LogWorldPartition: UWorldPartitionStreamingPolicy: CellsToActivate(45), CellsToLoad(0), CellsToUnload(0)
+[2024.12.01-03.52.18:368][969]LogWorldPartition: UWorldPartitionStreamingPolicy: Sources[0] = X=0.000 Y=0.000 Z=1342.000,P=0.000000 Y=180.000000 R=-0.000000
+[2024.12.01-03.52.18:372][969]LogStreaming: Display: FlushAsyncLoading(): 48 QueuedPackages, 0 AsyncPackages
+[2024.12.01-03.52.18:439][969]PIE: Server logged in
+[2024.12.01-03.52.18:440][969]PIE: Play in editor total start time 0.263 seconds.
+[2024.12.01-03.52.20:981][105]LogBlueprintUserMessages: [Tile1_C_UAID_E4A8DFC8C64E513402_2000338663] Hello
+[2024.12.01-03.52.25:292][353]LogBlueprintUserMessages: [Tile1_C_UAID_E4A8DFC8C64E513402_2014635664] Hello
+[2024.12.01-03.52.25:652][374]LogScript: Warning: Attempted to access DESTROYED_Cloud1_C_CHILDACTOR_8 via property K2Node_DynamicCast_AsIF_Obstacle, but DESTROYED_Cloud1_C_CHILDACTOR_8 is not valid (pending kill or garbage)
+	Cloud1_C /Game/Maps/UEDPIE_0_TestMap1.TestMap1:PersistentLevel.DESTROYED_Cloud1_C_CHILDACTOR_8
+	Function /Game/Obstacles/Impact_Obstacle.Impact_Obstacle_C:ExecuteUbergraph_Impact_Obstacle:007F
+[2024.12.01-03.52.25:652][374]PIE: Error: Blueprint Runtime Error: "Attempted to access DESTROYED_Cloud1_C_CHILDACTOR_8 via property K2Node_DynamicCast_AsIF_Obstacle, but DESTROYED_Cloud1_C_CHILDACTOR_8 is not valid (pending kill or garbage)". Node:  Shake Graph:  EventGraph Function:  Execute Ubergraph Impact Obstacle Blueprint:  Impact_Obstacle
+[2024.12.01-03.52.25:652][374]LogScript: Warning: Attempted to access DESTROYED_Cloud1_C_CHILDACTOR_8 via property K2Node_DynamicCast_AsIF_Obstacle_1, but DESTROYED_Cloud1_C_CHILDACTOR_8 is not valid (pending kill or garbage)
+	Cloud1_C /Game/Maps/UEDPIE_0_TestMap1.TestMap1:PersistentLevel.DESTROYED_Cloud1_C_CHILDACTOR_8
+	Function /Game/Obstacles/Impact_Obstacle.Impact_Obstacle_C:ExecuteUbergraph_Impact_Obstacle:0101
+[2024.12.01-03.52.25:652][374]PIE: Error: Blueprint Runtime Error: "Attempted to access DESTROYED_Cloud1_C_CHILDACTOR_8 via property K2Node_DynamicCast_AsIF_Obstacle_1, but DESTROYED_Cloud1_C_CHILDACTOR_8 is not valid (pending kill or garbage)". Node:  Slow Graph:  EventGraph Function:  Execute Ubergraph Impact Obstacle Blueprint:  Impact_Obstacle
+[2024.12.01-03.52.27:138][462]LogScript: Warning: Attempted to access DESTROYED_Cloud3_C_CHILDACTOR_6 via property K2Node_DynamicCast_AsIF_Obstacle, but DESTROYED_Cloud3_C_CHILDACTOR_6 is not valid (pending kill or garbage)
+	Cloud3_C /Game/Maps/UEDPIE_0_TestMap1.TestMap1:PersistentLevel.DESTROYED_Cloud3_C_CHILDACTOR_6
+	Function /Game/Obstacles/Impact_Obstacle.Impact_Obstacle_C:ExecuteUbergraph_Impact_Obstacle:007F
+[2024.12.01-03.52.27:138][462]PIE: Error: Blueprint Runtime Error: "Attempted to access DESTROYED_Cloud3_C_CHILDACTOR_6 via property K2Node_DynamicCast_AsIF_Obstacle, but DESTROYED_Cloud3_C_CHILDACTOR_6 is not valid (pending kill or garbage)". Node:  Shake Graph:  EventGraph Function:  Execute Ubergraph Impact Obstacle Blueprint:  Impact_Obstacle
+[2024.12.01-03.52.27:138][462]LogScript: Warning: Attempted to access DESTROYED_Cloud3_C_CHILDACTOR_6 via property K2Node_DynamicCast_AsIF_Obstacle_1, but DESTROYED_Cloud3_C_CHILDACTOR_6 is not valid (pending kill or garbage)
+	Cloud3_C /Game/Maps/UEDPIE_0_TestMap1.TestMap1:PersistentLevel.DESTROYED_Cloud3_C_CHILDACTOR_6
+	Function /Game/Obstacles/Impact_Obstacle.Impact_Obstacle_C:ExecuteUbergraph_Impact_Obstacle:0101
+[2024.12.01-03.52.27:138][462]PIE: Error: Blueprint Runtime Error: "Attempted to access DESTROYED_Cloud3_C_CHILDACTOR_6 via property K2Node_DynamicCast_AsIF_Obstacle_1, but DESTROYED_Cloud3_C_CHILDACTOR_6 is not valid (pending kill or garbage)". Node:  Slow Graph:  EventGraph Function:  Execute Ubergraph Impact Obstacle Blueprint:  Impact_Obstacle
+[2024.12.01-03.52.30:773][676]LogBlueprintUserMessages: [Tile2_C_0] Hello
+[2024.12.01-03.52.32:449][775]LogScript: Warning: Attempted to access DESTROYED_Cloud3_C_CHILDACTOR_12 via property K2Node_DynamicCast_AsIF_Obstacle, but DESTROYED_Cloud3_C_CHILDACTOR_12 is not valid (pending kill or garbage)
+	Cloud3_C /Game/Maps/UEDPIE_0_TestMap1.TestMap1:PersistentLevel.DESTROYED_Cloud3_C_CHILDACTOR_12
+	Function /Game/Obstacles/Impact_Obstacle.Impact_Obstacle_C:ExecuteUbergraph_Impact_Obstacle:007F
+[2024.12.01-03.52.32:449][775]PIE: Error: Blueprint Runtime Error: "Attempted to access DESTROYED_Cloud3_C_CHILDACTOR_12 via property K2Node_DynamicCast_AsIF_Obstacle, but DESTROYED_Cloud3_C_CHILDACTOR_12 is not valid (pending kill or garbage)". Node:  Shake Graph:  EventGraph Function:  Execute Ubergraph Impact Obstacle Blueprint:  Impact_Obstacle
+[2024.12.01-03.52.32:449][775]LogScript: Warning: Attempted to access DESTROYED_Cloud3_C_CHILDACTOR_12 via property K2Node_DynamicCast_AsIF_Obstacle_1, but DESTROYED_Cloud3_C_CHILDACTOR_12 is not valid (pending kill or garbage)
+	Cloud3_C /Game/Maps/UEDPIE_0_TestMap1.TestMap1:PersistentLevel.DESTROYED_Cloud3_C_CHILDACTOR_12
+	Function /Game/Obstacles/Impact_Obstacle.Impact_Obstacle_C:ExecuteUbergraph_Impact_Obstacle:0101
+[2024.12.01-03.52.32:449][775]PIE: Error: Blueprint Runtime Error: "Attempted to access DESTROYED_Cloud3_C_CHILDACTOR_12 via property K2Node_DynamicCast_AsIF_Obstacle_1, but DESTROYED_Cloud3_C_CHILDACTOR_12 is not valid (pending kill or garbage)". Node:  Slow Graph:  EventGraph Function:  Execute Ubergraph Impact Obstacle Blueprint:  Impact_Obstacle
+[2024.12.01-03.52.34:570][900]LogScript: Warning: Attempted to access DESTROYED_Cloud1_C_CHILDACTOR_16 via property K2Node_DynamicCast_AsIF_Obstacle, but DESTROYED_Cloud1_C_CHILDACTOR_16 is not valid (pending kill or garbage)
+	Cloud1_C /Game/Maps/UEDPIE_0_TestMap1.TestMap1:PersistentLevel.DESTROYED_Cloud1_C_CHILDACTOR_16
+	Function /Game/Obstacles/Impact_Obstacle.Impact_Obstacle_C:ExecuteUbergraph_Impact_Obstacle:007F
+[2024.12.01-03.52.34:570][900]PIE: Error: Blueprint Runtime Error: "Attempted to access DESTROYED_Cloud1_C_CHILDACTOR_16 via property K2Node_DynamicCast_AsIF_Obstacle, but DESTROYED_Cloud1_C_CHILDACTOR_16 is not valid (pending kill or garbage)". Node:  Shake Graph:  EventGraph Function:  Execute Ubergraph Impact Obstacle Blueprint:  Impact_Obstacle
+[2024.12.01-03.52.34:570][900]LogScript: Warning: Attempted to access DESTROYED_Cloud1_C_CHILDACTOR_16 via property K2Node_DynamicCast_AsIF_Obstacle_1, but DESTROYED_Cloud1_C_CHILDACTOR_16 is not valid (pending kill or garbage)
+	Cloud1_C /Game/Maps/UEDPIE_0_TestMap1.TestMap1:PersistentLevel.DESTROYED_Cloud1_C_CHILDACTOR_16
+	Function /Game/Obstacles/Impact_Obstacle.Impact_Obstacle_C:ExecuteUbergraph_Impact_Obstacle:0101
+[2024.12.01-03.52.34:570][900]PIE: Error: Blueprint Runtime Error: "Attempted to access DESTROYED_Cloud1_C_CHILDACTOR_16 via property K2Node_DynamicCast_AsIF_Obstacle_1, but DESTROYED_Cloud1_C_CHILDACTOR_16 is not valid (pending kill or garbage)". Node:  Slow Graph:  EventGraph Function:  Execute Ubergraph Impact Obstacle Blueprint:  Impact_Obstacle
+[2024.12.01-03.52.34:602][902]LogNet: Browse: /Game/Maps/TestMap1
+[2024.12.01-03.52.34:603][902]LogLoad: LoadMap: /Game/Maps/TestMap1
+[2024.12.01-03.52.34:603][902]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_TestMap1
+[2024.12.01-03.52.34:603][902]LogSpawn: Warning: SpawnActor failed because we are in the process of tearing down the world
+[2024.12.01-03.52.34:603][902]LogScript: Warning: Accessed None trying to read property CallFunc_FinishSpawningActor_ReturnValue
+	Tile_Manager_C /Memory/UEDPIE_0_4FLCZNLWY95T306XIUOHDV348.TestMap1:PersistentLevel.Tile_Manager_C_UAID_E4A8DFC8C64E143402_1769227934
+	Function /Game/Tiles/Tile_Manager.Tile_Manager_C:Generate Tile:01C8
+[2024.12.01-03.52.34:603][902]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_FinishSpawningActor_ReturnValue". Node:  Set Tile Manager Graph:  Generate Tile Function:  Generate Tile Blueprint:  Tile_Manager
+[2024.12.01-03.52.34:603][902]LogScript: Warning: Accessed None attempting to assign variable on an object
+	Tile_Manager_C /Memory/UEDPIE_0_4FLCZNLWY95T306XIUOHDV348.TestMap1:PersistentLevel.Tile_Manager_C_UAID_E4A8DFC8C64E143402_1769227934
+	Function /Game/Tiles/Tile_Manager.Tile_Manager_C:Generate Tile:01DD
+[2024.12.01-03.52.34:603][902]PIE: Error: Blueprint Runtime Error: "Accessed None attempting to assign variable on an object". Node:  Set Tile Manager Graph:  Generate Tile Function:  Generate Tile Blueprint:  Tile_Manager
+[2024.12.01-03.52.34:605][902]LogBlueprintUserMessages: [Tile2_C_1] Hello
+[2024.12.01-03.52.34:605][902]LogWorld: UWorld::CleanupWorld for TestMap1, bSessionEnded=true, bCleanupResources=true
+[2024.12.01-03.52.34:606][902]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.12.01-03.52.34:607][902]LogContentBundle: [TestMap1(Standalone)] Deleting container.
+[2024.12.01-03.52.34:607][902]LogWorld: UWorld::CleanupWorld for TestMap1, bSessionEnded=true, bCleanupResources=true
+[2024.12.01-03.52.34:607][902]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.12.01-03.52.34:607][902]LogWorld: UWorld::CleanupWorld for TestMap1, bSessionEnded=true, bCleanupResources=true
+[2024.12.01-03.52.34:607][902]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.12.01-03.52.34:607][902]LogWorld: UWorld::CleanupWorld for TestMap1, bSessionEnded=true, bCleanupResources=true
+[2024.12.01-03.52.34:607][902]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.12.01-03.52.34:607][902]LogWorld: UWorld::CleanupWorld for TestMap1, bSessionEnded=true, bCleanupResources=true
+[2024.12.01-03.52.34:607][902]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.12.01-03.52.34:607][902]LogWorld: UWorld::CleanupWorld for TestMap1, bSessionEnded=true, bCleanupResources=true
+[2024.12.01-03.52.34:607][902]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.12.01-03.52.34:607][902]LogWorld: UWorld::CleanupWorld for TestMap1, bSessionEnded=true, bCleanupResources=true
+[2024.12.01-03.52.34:607][902]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.12.01-03.52.34:607][902]LogWorld: UWorld::CleanupWorld for TestMap1, bSessionEnded=true, bCleanupResources=true
+[2024.12.01-03.52.34:607][902]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.12.01-03.52.34:607][902]LogWorld: UWorld::CleanupWorld for TestMap1, bSessionEnded=true, bCleanupResources=true
+[2024.12.01-03.52.34:607][902]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.12.01-03.52.34:607][902]LogWorld: UWorld::CleanupWorld for TestMap1, bSessionEnded=true, bCleanupResources=true
+[2024.12.01-03.52.34:607][902]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.12.01-03.52.34:607][902]LogWorld: UWorld::CleanupWorld for TestMap1, bSessionEnded=true, bCleanupResources=true
+[2024.12.01-03.52.34:607][902]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.12.01-03.52.34:607][902]LogWorld: UWorld::CleanupWorld for TestMap1, bSessionEnded=true, bCleanupResources=true
+[2024.12.01-03.52.34:607][902]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.12.01-03.52.34:607][902]LogWorld: UWorld::CleanupWorld for TestMap1, bSessionEnded=true, bCleanupResources=true
+[2024.12.01-03.52.34:607][902]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.12.01-03.52.34:607][902]LogWorld: UWorld::CleanupWorld for TestMap1, bSessionEnded=true, bCleanupResources=true
+[2024.12.01-03.52.34:607][902]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.12.01-03.52.34:607][902]LogWorld: UWorld::CleanupWorld for TestMap1, bSessionEnded=true, bCleanupResources=true
+[2024.12.01-03.52.34:607][902]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.12.01-03.52.34:607][902]LogWorld: UWorld::CleanupWorld for TestMap1, bSessionEnded=true, bCleanupResources=true
+[2024.12.01-03.52.34:607][902]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.12.01-03.52.34:607][902]LogWorld: UWorld::CleanupWorld for TestMap1, bSessionEnded=true, bCleanupResources=true
+[2024.12.01-03.52.34:607][902]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.12.01-03.52.34:607][902]LogWorld: UWorld::CleanupWorld for TestMap1, bSessionEnded=true, bCleanupResources=true
+[2024.12.01-03.52.34:607][902]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.12.01-03.52.34:607][902]LogWorld: UWorld::CleanupWorld for TestMap1, bSessionEnded=true, bCleanupResources=true
+[2024.12.01-03.52.34:607][902]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.12.01-03.52.34:607][902]LogWorld: UWorld::CleanupWorld for TestMap1, bSessionEnded=true, bCleanupResources=true
+[2024.12.01-03.52.34:607][902]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.12.01-03.52.34:607][902]LogWorld: UWorld::CleanupWorld for TestMap1, bSessionEnded=true, bCleanupResources=true
+[2024.12.01-03.52.34:607][902]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.12.01-03.52.34:607][902]LogWorld: UWorld::CleanupWorld for TestMap1, bSessionEnded=true, bCleanupResources=true
+[2024.12.01-03.52.34:607][902]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.12.01-03.52.34:607][902]LogWorld: UWorld::CleanupWorld for TestMap1, bSessionEnded=true, bCleanupResources=true
+[2024.12.01-03.52.34:607][902]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.12.01-03.52.34:607][902]LogWorld: UWorld::CleanupWorld for TestMap1, bSessionEnded=true, bCleanupResources=true
+[2024.12.01-03.52.34:607][902]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.12.01-03.52.34:607][902]LogWorld: UWorld::CleanupWorld for TestMap1, bSessionEnded=true, bCleanupResources=true
+[2024.12.01-03.52.34:608][902]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.12.01-03.52.34:608][902]LogWorld: UWorld::CleanupWorld for TestMap1, bSessionEnded=true, bCleanupResources=true
+[2024.12.01-03.52.34:608][902]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.12.01-03.52.34:608][902]LogWorld: UWorld::CleanupWorld for TestMap1, bSessionEnded=true, bCleanupResources=true
+[2024.12.01-03.52.34:608][902]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.12.01-03.52.34:608][902]LogWorld: UWorld::CleanupWorld for TestMap1, bSessionEnded=true, bCleanupResources=true
+[2024.12.01-03.52.34:608][902]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.12.01-03.52.34:608][902]LogWorld: UWorld::CleanupWorld for TestMap1, bSessionEnded=true, bCleanupResources=true
+[2024.12.01-03.52.34:608][902]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.12.01-03.52.34:608][902]LogWorld: UWorld::CleanupWorld for TestMap1, bSessionEnded=true, bCleanupResources=true
+[2024.12.01-03.52.34:608][902]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.12.01-03.52.34:608][902]LogWorld: UWorld::CleanupWorld for TestMap1, bSessionEnded=true, bCleanupResources=true
+[2024.12.01-03.52.34:608][902]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.12.01-03.52.34:608][902]LogWorld: UWorld::CleanupWorld for TestMap1, bSessionEnded=true, bCleanupResources=true
+[2024.12.01-03.52.34:608][902]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.12.01-03.52.34:608][902]LogWorld: UWorld::CleanupWorld for TestMap1, bSessionEnded=true, bCleanupResources=true
+[2024.12.01-03.52.34:608][902]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.12.01-03.52.34:608][902]LogWorld: UWorld::CleanupWorld for TestMap1, bSessionEnded=true, bCleanupResources=true
+[2024.12.01-03.52.34:608][902]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.12.01-03.52.34:608][902]LogWorld: UWorld::CleanupWorld for TestMap1, bSessionEnded=true, bCleanupResources=true
+[2024.12.01-03.52.34:608][902]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.12.01-03.52.34:608][902]LogWorld: UWorld::CleanupWorld for TestMap1, bSessionEnded=true, bCleanupResources=true
+[2024.12.01-03.52.34:608][902]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.12.01-03.52.34:608][902]LogWorld: UWorld::CleanupWorld for TestMap1, bSessionEnded=true, bCleanupResources=true
+[2024.12.01-03.52.34:608][902]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.12.01-03.52.34:608][902]LogWorld: UWorld::CleanupWorld for TestMap1, bSessionEnded=true, bCleanupResources=true
+[2024.12.01-03.52.34:608][902]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.12.01-03.52.34:608][902]LogWorld: UWorld::CleanupWorld for TestMap1, bSessionEnded=true, bCleanupResources=true
+[2024.12.01-03.52.34:608][902]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.12.01-03.52.34:608][902]LogWorld: UWorld::CleanupWorld for TestMap1, bSessionEnded=true, bCleanupResources=true
+[2024.12.01-03.52.34:608][902]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.12.01-03.52.34:608][902]LogWorld: UWorld::CleanupWorld for TestMap1, bSessionEnded=true, bCleanupResources=true
+[2024.12.01-03.52.34:608][902]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.12.01-03.52.34:608][902]LogWorld: UWorld::CleanupWorld for TestMap1, bSessionEnded=true, bCleanupResources=true
+[2024.12.01-03.52.34:608][902]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.12.01-03.52.34:608][902]LogWorld: UWorld::CleanupWorld for TestMap1, bSessionEnded=true, bCleanupResources=true
+[2024.12.01-03.52.34:608][902]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.12.01-03.52.34:608][902]LogWorld: UWorld::CleanupWorld for TestMap1, bSessionEnded=true, bCleanupResources=true
+[2024.12.01-03.52.34:608][902]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.12.01-03.52.34:608][902]LogWorld: UWorld::CleanupWorld for TestMap1, bSessionEnded=true, bCleanupResources=true
+[2024.12.01-03.52.34:608][902]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.12.01-03.52.34:608][902]LogWorld: UWorld::CleanupWorld for TestMap1, bSessionEnded=true, bCleanupResources=true
+[2024.12.01-03.52.34:608][902]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.12.01-03.52.34:651][902]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.12.01-03.52.34:656][902]LogUObjectHash: Compacting FUObjectHashTables data took   1.20ms
+[2024.12.01-03.52.34:659][902]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_TestMap1
+[2024.12.01-03.52.34:670][902]LogPlayLevel: PIE: StaticDuplicateObject took: (0.011197s)
+[2024.12.01-03.52.34:670][902]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/TestMap1.TestMap1 to /Game/Maps/UEDPIE_0_TestMap1.TestMap1 (0.011240s)
+[2024.12.01-03.52.34:670][902]LogAudio: Display: Audio Device (ID: 15) registered with world 'TestMap1'.
+[2024.12.01-03.52.34:670][902]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.12.01-03.52.34:671][902]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.12.01-03.52.34:671][902]LogAIModule: Creating AISystem for world TestMap1
+[2024.12.01-03.52.34:671][902]LogWorldPartition: ULevel::OnLevelLoaded(TestMap1)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2024.12.01-03.52.34:671][902]LogWorldPartition: Display: WorldPartition initialize started...
+[2024.12.01-03.52.34:671][902]LogWorldPartition: UWorldPartition::Initialize : World = TestMap1, World Type = PIE, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 0, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2024.12.01-03.52.34:671][902]LogWorldPartition: UWorldPartition::Initialize Context : World NetMode = Standalone, IsServer = 0, IsDedicatedServer = 0, IsServerStreamingEnabled = 0, IsServerStreamingOutEnabled = 0, IsUsingMakingVisibleTransaction = 0, IsUsingMakingInvisibleTransaction = 0
+[2024.12.01-03.52.34:674][902]LogContentBundle: [TestMap1(Standalone)] Creating new contrainer.
+[2024.12.01-03.52.34:674][902]LogWorldPartition: Display: WorldPartition initialize took 2 ms (total: 339 ms)
+[2024.12.01-03.52.34:674][902]LogPlayLevel: PIE: World Init took: (0.003496s)
+[2024.12.01-03.52.34:674][902]LogLoad: Game class is 'BirdGameMode_C'
+[2024.12.01-03.52.34:675][902]LogWorld: Bringing World /Game/Maps/UEDPIE_0_TestMap1.TestMap1 up for play (max tick rate 60) at 2024.11.30-19.52.34
+[2024.12.01-03.52.34:675][902]LogWorld: Bringing up level for play took: 0.000998
+[2024.12.01-03.52.34:677][902]LogWorldPartition: UWorldPartitionStreamingPolicy: CellsToActivate(45), CellsToLoad(0), CellsToUnload(0)
+[2024.12.01-03.52.34:677][902]LogWorldPartition: UWorldPartitionStreamingPolicy: Sources[0] = X=0.000 Y=0.000 Z=1342.000,P=0.000000 Y=180.000000 R=-0.000000
+[2024.12.01-03.52.34:680][902]LogStreaming: Display: FlushAsyncLoading(): 48 QueuedPackages, 0 AsyncPackages
+[2024.12.01-03.52.34:744][902]LogLoad: Took 0.141757 seconds to LoadMap(/Game/Maps/UEDPIE_0_TestMap1)
+[2024.12.01-03.52.35:346][934]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.12.01-03.52.35:346][934]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_TestMap1
+[2024.12.01-03.52.35:347][934]LogSpawn: Warning: SpawnActor failed because we are in the process of tearing down the world
+[2024.12.01-03.52.35:347][934]LogScript: Warning: Accessed None trying to read property CallFunc_FinishSpawningActor_ReturnValue
+	Tile_Manager_C /Memory/UEDPIE_0_4FLCZNLWY95T306XIUOHDV348.TestMap1:PersistentLevel.Tile_Manager_C_UAID_E4A8DFC8C64E143402_1769227934
+	Function /Game/Tiles/Tile_Manager.Tile_Manager_C:Generate Tile:01C8
+[2024.12.01-03.52.35:347][934]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_FinishSpawningActor_ReturnValue". Node:  Set Tile Manager Graph:  Generate Tile Function:  Generate Tile Blueprint:  Tile_Manager
+[2024.12.01-03.52.35:347][934]LogScript: Warning: Accessed None attempting to assign variable on an object
+	Tile_Manager_C /Memory/UEDPIE_0_4FLCZNLWY95T306XIUOHDV348.TestMap1:PersistentLevel.Tile_Manager_C_UAID_E4A8DFC8C64E143402_1769227934
+	Function /Game/Tiles/Tile_Manager.Tile_Manager_C:Generate Tile:01DD
+[2024.12.01-03.52.35:347][934]PIE: Error: Blueprint Runtime Error: "Accessed None attempting to assign variable on an object". Node:  Set Tile Manager Graph:  Generate Tile Function:  Generate Tile Blueprint:  Tile_Manager
+[2024.12.01-03.52.35:347][934]LogBlueprintUserMessages: [Tile1_C_UAID_E4A8DFC8C64E513402_2000338663] Hello
+[2024.12.01-03.52.35:350][934]LogWorld: UWorld::CleanupWorld for TestMap1, bSessionEnded=true, bCleanupResources=true
+[2024.12.01-03.52.35:350][934]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.12.01-03.52.35:350][934]LogContentBundle: [TestMap1(Standalone)] Deleting container.
+[2024.12.01-03.52.35:355][934]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.12.01-03.52.35:360][934]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.12.01-03.52.35:378][934]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.12.01-03.52.35:380][934]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 15
+[2024.12.01-03.52.35:380][934]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=15
+[2024.12.01-03.52.35:382][934]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=15
+[2024.12.01-03.52.35:394][934]LogUObjectHash: Compacting FUObjectHashTables data took   1.41ms
+[2024.12.01-03.52.35:601][935]LogPlayLevel: Display: Destroying online subsystem :Context_42
+[2024.12.01-03.52.44:300][395]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Obstacles/Impact_Obstacle.Impact_Obstacle
+[2024.12.01-03.52.44:300][395]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.12.01-03.52.44:301][395]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.12.01-03.53.08:510][819]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.12.01-03.53.08:616][819]LogSavePackage: Moving output files for package: /Game/Obstacles/Clouds/Cloud2/Cloud2
+[2024.12.01-03.53.08:617][819]LogSavePackage: Moving '../../../../../../Users/Lev/Documents/Unreal Projects/UnnamedFallingGame/Saved/Cloud2F73BB97748293148ABD867A848793199.tmp' to '../../../../../../Users/Lev/Documents/Unreal Projects/UnnamedFallingGame/Content/Obstacles/Clouds/Cloud2/Cloud2.uasset'
+[2024.12.01-03.53.08:624][819]LogFileHelpers: InternalPromptForCheckoutAndSave took 113 ms (total: 6.78 sec)
+[2024.12.01-03.53.08:625][819]AssetCheck: New page: Asset Save: Cloud2
+[2024.12.01-03.53.08:626][819]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Obstacles/Clouds/Cloud2/Cloud2.Cloud2
+[2024.12.01-03.53.47:931][312]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.12.01-03.53.48:001][312]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Obstacles/Impact_Obstacle" FILE="../../../../../../Users/Lev/Documents/Unreal Projects/UnnamedFallingGame/Content/Obstacles/Impact_Obstacle.uasset" SILENT=true
+[2024.12.01-03.53.48:006][312]LogSavePackage: Moving output files for package: /Game/Obstacles/Impact_Obstacle
+[2024.12.01-03.53.48:006][312]LogSavePackage: Moving '../../../../../../Users/Lev/Documents/Unreal Projects/UnnamedFallingGame/Saved/Impact_Obstacle62FCCF4548E53BD2BF660F8B5BD03D67.tmp' to '../../../../../../Users/Lev/Documents/Unreal Projects/UnnamedFallingGame/Content/Obstacles/Impact_Obstacle.uasset'
+[2024.12.01-03.53.48:013][312]LogFileHelpers: InternalPromptForCheckoutAndSave took 81 ms (total: 6.86 sec)
+[2024.12.01-03.53.48:020][312]AssetCheck: New page: Asset Save: Impact_Obstacle
+[2024.12.01-03.53.48:020][312]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Obstacles/Impact_Obstacle.Impact_Obstacle
+[2024.12.01-03.53.50:986][527]LogSlate: Window 'Message Log' being destroyed
+[2024.12.01-03.53.51:005][527]LogSlate: Window 'Message Log' being destroyed
+[2024.12.01-03.53.51:757][590]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2024.12.01-03.53.51:765][590]LogContentBundle: [TestMap1(Standalone)] Generating Streaming for 0 Content Bundles.
+[2024.12.01-03.53.51:765][590]LogWorldPartition: Display: GenerateStreaming for 'TestMap1' started...
+[2024.12.01-03.53.51:853][590]LogWorldPartition: Display: GenerateStreaming for 'TestMap1' took 88 ms (total: 1.39 sec)
+[2024.12.01-03.53.51:854][590]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.12.01-03.53.51:854][590]PIE: New page: PIE session: TestMap1 (Nov 30, 2024, 11:53:51 AM)
+[2024.12.01-03.53.51:854][590]LogPlayLevel: Display: Creating online subsystem for client :Context_44
+[2024.12.01-03.53.51:856][590]LogOnline: OSS: Created online subsystem instance for: :Context_44
+[2024.12.01-03.53.51:883][591]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_TestMap1
+[2024.12.01-03.53.51:896][591]LogPlayLevel: PIE: StaticDuplicateObject took: (0.012064s)
+[2024.12.01-03.53.51:896][591]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/TestMap1.TestMap1 to /Game/Maps/UEDPIE_0_TestMap1.TestMap1 (0.012104s)
+[2024.12.01-03.53.51:911][591]LogUObjectHash: Compacting FUObjectHashTables data took   1.16ms
+[2024.12.01-03.53.51:913][591]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.12.01-03.53.51:913][591]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.12.01-03.53.51:914][591]LogAIModule: Creating AISystem for world TestMap1
+[2024.12.01-03.53.51:914][591]LogWorldPartition: ULevel::OnLevelLoaded(TestMap1)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2024.12.01-03.53.51:914][591]LogWorldPartition: Display: WorldPartition initialize started...
+[2024.12.01-03.53.51:914][591]LogWorldPartition: UWorldPartition::Initialize : World = TestMap1, World Type = PIE, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 0, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2024.12.01-03.53.51:914][591]LogWorldPartition: UWorldPartition::Initialize Context : World NetMode = Standalone, IsServer = 0, IsDedicatedServer = 0, IsServerStreamingEnabled = 0, IsServerStreamingOutEnabled = 0, IsUsingMakingVisibleTransaction = 0, IsUsingMakingInvisibleTransaction = 0
+[2024.12.01-03.53.51:917][591]LogContentBundle: [TestMap1(Standalone)] Creating new contrainer.
+[2024.12.01-03.53.51:917][591]LogWorldPartition: Display: WorldPartition initialize took 3 ms (total: 342 ms)
+[2024.12.01-03.53.51:917][591]LogPlayLevel: PIE: World Init took: (0.004146s)
+[2024.12.01-03.53.51:917][591]LogAudio: Display: Creating Audio Device:                 Id: 16, Scope: Unique, Realtime: True
+[2024.12.01-03.53.51:917][591]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.12.01-03.53.51:917][591]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.12.01-03.53.51:917][591]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.12.01-03.53.51:917][591]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.12.01-03.53.51:917][591]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.12.01-03.53.51:917][591]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.12.01-03.53.51:917][591]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.12.01-03.53.51:917][591]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.12.01-03.53.51:918][591]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.12.01-03.53.51:918][591]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.12.01-03.53.51:918][591]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.12.01-03.53.51:920][591]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.12.01-03.53.51:948][591]LogAudioMixer: Display: Using Audio Hardware Device Headphones (Realtek(R) Audio)
+[2024.12.01-03.53.51:948][591]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.12.01-03.53.51:948][591]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.12.01-03.53.51:948][591]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.12.01-03.53.51:949][591]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=16
+[2024.12.01-03.53.51:949][591]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=16
+[2024.12.01-03.53.51:950][591]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=16
+[2024.12.01-03.53.51:950][591]LogInit: FAudioDevice initialized with ID 16.
+[2024.12.01-03.53.51:950][591]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=16
+[2024.12.01-03.53.51:950][591]LogAudio: Display: Audio Device (ID: 16) registered with world 'TestMap1'.
+[2024.12.01-03.53.51:950][591]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 16
+[2024.12.01-03.53.51:952][591]LogLoad: Game class is 'BirdGameMode_C'
+[2024.12.01-03.53.51:954][591]LogWorld: Bringing World /Game/Maps/UEDPIE_0_TestMap1.TestMap1 up for play (max tick rate 0) at 2024.11.30-19.53.51
+[2024.12.01-03.53.51:954][591]LogWorld: Bringing up level for play took: 0.001395
+[2024.12.01-03.53.51:955][591]LogWorldPartition: UWorldPartitionStreamingPolicy: CellsToActivate(45), CellsToLoad(0), CellsToUnload(0)
+[2024.12.01-03.53.51:955][591]LogWorldPartition: UWorldPartitionStreamingPolicy: Sources[0] = X=0.000 Y=0.000 Z=1342.000,P=0.000000 Y=180.000000 R=-0.000000
+[2024.12.01-03.53.51:959][591]LogStreaming: Display: FlushAsyncLoading(): 48 QueuedPackages, 0 AsyncPackages
+[2024.12.01-03.53.52:025][591]PIE: Server logged in
+[2024.12.01-03.53.52:025][591]PIE: Play in editor total start time 0.261 seconds.
+[2024.12.01-03.53.52:040][591]LogShaderCompilers: Display: ================================================
+[2024.12.01-03.53.52:040][591]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2024.12.01-03.53.52:040][591]LogShaderCompilers: Display: Total job queries 3,857, among them cache hits 125 (3.24%)
+[2024.12.01-03.53.52:040][591]LogShaderCompilers: Display: Tracking 3,726 distinct input hashes that result in 2,672 distinct outputs (71.71%)
+[2024.12.01-03.53.52:040][591]LogShaderCompilers: Display: RAM used: 69.19 MiB of 716.80 MiB budget. Usage: 9.65%
+[2024.12.01-03.53.52:040][591]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2024.12.01-03.53.52:040][591]LogShaderCompilers: Display: Shaders Compiled: 3,726
+[2024.12.01-03.53.52:040][591]LogShaderCompilers: Display: Jobs assigned 3,726, completed 3,726 (100%)
+[2024.12.01-03.53.52:040][591]LogShaderCompilers: Display: Average time worker was idle: 34.51 s
+[2024.12.01-03.53.52:040][591]LogShaderCompilers: Display: Time job spent in pending queue: average 63.53 s, longest 143.67 s
+[2024.12.01-03.53.52:040][591]LogShaderCompilers: Display: Job execution time: average 3.54 s, max 12.84 s
+[2024.12.01-03.53.52:040][591]LogShaderCompilers: Display: Job life time (pending + execution): average 67.07 s, max 149.02
+[2024.12.01-03.53.52:040][591]LogShaderCompilers: Display: Shader code size: average 38.486 KiB, min 2.086 KiB, max 162.84 KiB
+[2024.12.01-03.53.52:040][591]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 167.25 s
+[2024.12.01-03.53.52:040][591]LogShaderCompilers: Display: Jobs were issued in 493 batches (only local compilation was used), average 7.56 jobs/batch
+[2024.12.01-03.53.52:040][591]LogShaderCompilers: Display: Average processing rate: 22.28 jobs/sec
+[2024.12.01-03.53.52:040][591]LogShaderCompilers: Display: Total thread time: 1,373.753 s
+[2024.12.01-03.53.52:040][591]LogShaderCompilers: Display: Total thread preprocess time: 90.746 s
+[2024.12.01-03.53.52:040][591]LogShaderCompilers: Display: Percentage time preprocessing: 6.61%
+[2024.12.01-03.53.52:040][591]LogShaderCompilers: Display: Effective parallelization: 8.21 (times faster than compiling all shaders on one thread). Compare with number of workers: 8
+[2024.12.01-03.53.52:040][591]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2024.12.01-03.53.52:040][591]LogShaderCompilers: Display:                                          FClusteredShadingPS (compiled    4 times, average 5.01 sec, max 8.55 sec, min 1.54 sec)
+[2024.12.01-03.53.52:040][591]LogShaderCompilers: Display:                                   FSSDTemporalAccumulationCS (compiled   10 times, average 4.57 sec, max 5.88 sec, min 3.24 sec)
+[2024.12.01-03.53.52:040][591]LogShaderCompilers: Display:                                    FSSDSpatialAccumulationCS (compiled   33 times, average 1.74 sec, max 3.04 sec, min 0.83 sec)
+[2024.12.01-03.53.52:040][591]LogShaderCompilers: Display:                                    FShadingFurnaceTestPassPS (compiled    1 times, average 1.45 sec, max 1.45 sec, min 1.45 sec)
+[2024.12.01-03.53.52:040][591]LogShaderCompilers: Display:                                        FCloudRenderViewPS111 (compiled    1 times, average 1.36 sec, max 1.36 sec, min 1.36 sec)
+[2024.12.01-03.53.52:040][591]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2024.12.01-03.53.52:040][591]LogShaderCompilers: Display:                                             FDeferredLightPS - 12.49% of total time (compiled  134 times, average 1.28 sec, max 2.92 sec, min 1.05 sec)
+[2024.12.01-03.53.52:040][591]LogShaderCompilers: Display:                                FVirtualShadowMapProjectionCS - 5.82% of total time (compiled   96 times, average 0.83 sec, max 1.70 sec, min 0.49 sec)
+[2024.12.01-03.53.52:040][591]LogShaderCompilers: Display:                                  FScreenProbeTraceMeshSDFsCS - 5.15% of total time (compiled   96 times, average 0.74 sec, max 1.36 sec, min 0.17 sec)
+[2024.12.01-03.53.52:040][591]LogShaderCompilers: Display:                                      FScreenProbeIntegrateCS - 4.47% of total time (compiled  128 times, average 0.48 sec, max 1.90 sec, min 0.32 sec)
+[2024.12.01-03.53.52:040][591]LogShaderCompilers: Display:                                    FSSDSpatialAccumulationCS - 4.18% of total time (compiled   33 times, average 1.74 sec, max 3.04 sec, min 0.83 sec)
+[2024.12.01-03.53.52:040][591]LogShaderCompilers: Display: ================================================
+[2024.12.01-03.53.54:335][753]LogBlueprintUserMessages: [Tile1_C_UAID_E4A8DFC8C64E513402_2000338663] Hello
+[2024.12.01-03.53.56:086][884]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.12.01-03.53.56:086][884]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_TestMap1
+[2024.12.01-03.53.56:086][884]LogSpawn: Warning: SpawnActor failed because we are in the process of tearing down the world
+[2024.12.01-03.53.56:086][884]LogScript: Warning: Accessed None trying to read property CallFunc_FinishSpawningActor_ReturnValue
+	Tile_Manager_C /Memory/UEDPIE_0_4FLCZNLWY95T306XIUOHDV348.TestMap1:PersistentLevel.Tile_Manager_C_UAID_E4A8DFC8C64E143402_1769227934
+	Function /Game/Tiles/Tile_Manager.Tile_Manager_C:Generate Tile:01C8
+[2024.12.01-03.53.56:086][884]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_FinishSpawningActor_ReturnValue". Node:  Set Tile Manager Graph:  Generate Tile Function:  Generate Tile Blueprint:  Tile_Manager
+[2024.12.01-03.53.56:086][884]LogScript: Warning: Accessed None attempting to assign variable on an object
+	Tile_Manager_C /Memory/UEDPIE_0_4FLCZNLWY95T306XIUOHDV348.TestMap1:PersistentLevel.Tile_Manager_C_UAID_E4A8DFC8C64E143402_1769227934
+	Function /Game/Tiles/Tile_Manager.Tile_Manager_C:Generate Tile:01DD
+[2024.12.01-03.53.56:086][884]PIE: Error: Blueprint Runtime Error: "Accessed None attempting to assign variable on an object". Node:  Set Tile Manager Graph:  Generate Tile Function:  Generate Tile Blueprint:  Tile_Manager
+[2024.12.01-03.53.56:087][884]LogBlueprintUserMessages: [Tile1_C_UAID_E4A8DFC8C64E513402_2014635664] Hello
+[2024.12.01-03.53.56:089][884]LogWorld: UWorld::CleanupWorld for TestMap1, bSessionEnded=true, bCleanupResources=true
+[2024.12.01-03.53.56:090][884]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.12.01-03.53.56:090][884]LogContentBundle: [TestMap1(Standalone)] Deleting container.
+[2024.12.01-03.53.56:093][884]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.12.01-03.53.56:099][884]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.12.01-03.53.56:116][884]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.12.01-03.53.56:118][884]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 16
+[2024.12.01-03.53.56:118][884]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=16
+[2024.12.01-03.53.56:120][884]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=16
+[2024.12.01-03.53.56:124][884]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.12.01-03.53.56:132][884]LogUObjectHash: Compacting FUObjectHashTables data took   1.39ms
+[2024.12.01-03.53.56:266][885]LogPlayLevel: Display: Destroying online subsystem :Context_44
+[2024.12.01-03.54.08:456][716]LogSlate: Window 'Impact_Obstacle' being destroyed
+[2024.12.01-03.54.08:460][716]LogSlate: Window 'Impact_Obstacle' being destroyed
+[2024.12.01-03.54.08:505][716]LogWorld: UWorld::CleanupWorld for World_3, bSessionEnded=true, bCleanupResources=true
+[2024.12.01-03.54.08:505][716]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.12.01-03.54.08:609][716]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2024.12.01-03.54.08:609][716]LogWorld: UWorld::CleanupWorld for World_5, bSessionEnded=true, bCleanupResources=true
+[2024.12.01-03.54.08:609][716]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.12.01-03.54.08:675][716]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2024.12.01-03.54.08:675][716]LogWorld: UWorld::CleanupWorld for World_6, bSessionEnded=true, bCleanupResources=true
+[2024.12.01-03.54.08:675][716]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.12.01-03.54.08:753][716]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2024.12.01-03.54.08:753][716]LogWorld: UWorld::CleanupWorld for World_10, bSessionEnded=true, bCleanupResources=true
+[2024.12.01-03.54.08:753][716]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.12.01-03.54.08:827][716]LogWorld: UWorld::CleanupWorld for World_13, bSessionEnded=true, bCleanupResources=true
+[2024.12.01-03.54.08:827][716]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.12.01-03.54.08:834][716]LogWorld: UWorld::CleanupWorld for World_12, bSessionEnded=true, bCleanupResources=true
+[2024.12.01-03.54.08:834][716]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.12.01-03.54.08:881][716]LogWorld: UWorld::CleanupWorld for World_20, bSessionEnded=true, bCleanupResources=true
+[2024.12.01-03.54.08:881][716]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.12.01-03.54.08:888][716]LogWorld: UWorld::CleanupWorld for World_19, bSessionEnded=true, bCleanupResources=true
+[2024.12.01-03.54.08:888][716]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.12.01-03.54.08:925][716]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2024.12.01-03.54.08:925][716]LogWorld: UWorld::CleanupWorld for World_25, bSessionEnded=true, bCleanupResources=true
+[2024.12.01-03.54.08:925][716]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.12.01-03.54.08:966][716]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2024.12.01-03.54.08:966][716]LogWorld: UWorld::CleanupWorld for World_26, bSessionEnded=true, bCleanupResources=true
+[2024.12.01-03.54.08:966][716]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.12.01-03.54.09:003][716]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2024.12.01-03.54.09:003][716]LogWorld: UWorld::CleanupWorld for World_27, bSessionEnded=true, bCleanupResources=true
+[2024.12.01-03.54.09:003][716]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.12.01-03.54.09:039][716]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2024.12.01-03.54.09:039][716]LogWorld: UWorld::CleanupWorld for World_28, bSessionEnded=true, bCleanupResources=true
+[2024.12.01-03.54.09:039][716]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.12.01-03.54.09:073][716]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2024.12.01-03.54.09:073][716]LogWorld: UWorld::CleanupWorld for World_36, bSessionEnded=true, bCleanupResources=true
+[2024.12.01-03.54.09:073][716]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.12.01-03.54.09:112][716]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2024.12.01-03.54.09:112][716]LogWorld: UWorld::CleanupWorld for World_37, bSessionEnded=true, bCleanupResources=true
+[2024.12.01-03.54.09:112][716]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.12.01-03.54.09:978][784]LogSlate: Window 'Message Log' being destroyed
+[2024.12.01-03.54.09:993][784]LogSlate: Window 'Message Log' being destroyed
+[2024.12.01-03.54.13:205][ 65]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Obstacles/Birds/Bird.Bird
+[2024.12.01-03.54.13:205][ 65]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.12.01-03.54.13:206][ 65]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.12.01-03.54.20:931][504]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Obstacles/Clouds/InstaCloud.InstaCloud
+[2024.12.01-03.54.20:931][504]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.12.01-03.54.20:931][504]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.12.01-03.54.28:706][108]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Obstacles/Impact_Obstacle.Impact_Obstacle
+[2024.12.01-03.54.28:707][108]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.12.01-03.54.28:707][108]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.12.01-03.54.41:557][187]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Obstacles/IF_Obstacle.IF_Obstacle
+[2024.12.01-03.54.41:557][187]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.12.01-03.54.41:557][187]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.12.01-03.55.10:100][510]BlueprintLog: New page: Compile InstaCloud
+[2024.12.01-03.55.10:158][510]LogUObjectHash: Compacting FUObjectHashTables data took   1.65ms
+[2024.12.01-03.55.10:500][536]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.12.01-03.55.10:583][536]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Obstacles/Clouds/InstaCloud" FILE="../../../../../../Users/Lev/Documents/Unreal Projects/UnnamedFallingGame/Content/Obstacles/Clouds/InstaCloud.uasset" SILENT=true
+[2024.12.01-03.55.10:591][536]LogSavePackage: Moving output files for package: /Game/Obstacles/Clouds/InstaCloud
+[2024.12.01-03.55.10:591][536]LogSavePackage: Moving '../../../../../../Users/Lev/Documents/Unreal Projects/UnnamedFallingGame/Saved/InstaCloud37D2A40F4C7DF0DD5F4DC1BCF6D7BB79.tmp' to '../../../../../../Users/Lev/Documents/Unreal Projects/UnnamedFallingGame/Content/Obstacles/Clouds/InstaCloud.uasset'
+[2024.12.01-03.55.10:599][536]LogFileHelpers: InternalPromptForCheckoutAndSave took 98 ms (total: 6.96 sec)
+[2024.12.01-03.55.10:600][536]AssetCheck: New page: Asset Save: InstaCloud
+[2024.12.01-03.55.10:600][536]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Obstacles/Clouds/InstaCloud.InstaCloud
+[2024.12.01-03.55.11:498][601]LogUObjectHash: Compacting FUObjectHashTables data took   1.30ms
+[2024.12.01-03.55.12:459][667]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2024.12.01-03.55.12:466][667]LogContentBundle: [TestMap1(Standalone)] Generating Streaming for 0 Content Bundles.
+[2024.12.01-03.55.12:466][667]LogWorldPartition: Display: GenerateStreaming for 'TestMap1' started...
+[2024.12.01-03.55.12:563][667]LogWorldPartition: Display: GenerateStreaming for 'TestMap1' took 96 ms (total: 1.48 sec)
+[2024.12.01-03.55.12:563][667]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.12.01-03.55.12:563][667]PIE: New page: PIE session: TestMap1 (Nov 30, 2024, 11:55:12 AM)
+[2024.12.01-03.55.12:563][667]LogPlayLevel: Display: Creating online subsystem for client :Context_49
+[2024.12.01-03.55.12:565][667]LogOnline: OSS: Created online subsystem instance for: :Context_49
+[2024.12.01-03.55.12:596][668]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_TestMap1
+[2024.12.01-03.55.12:607][668]LogPlayLevel: PIE: StaticDuplicateObject took: (0.011665s)
+[2024.12.01-03.55.12:608][668]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/TestMap1.TestMap1 to /Game/Maps/UEDPIE_0_TestMap1.TestMap1 (0.011706s)
+[2024.12.01-03.55.12:622][668]LogUObjectHash: Compacting FUObjectHashTables data took   1.13ms
+[2024.12.01-03.55.12:624][668]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.12.01-03.55.12:624][668]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.12.01-03.55.12:625][668]LogAIModule: Creating AISystem for world TestMap1
+[2024.12.01-03.55.12:625][668]LogWorldPartition: ULevel::OnLevelLoaded(TestMap1)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2024.12.01-03.55.12:625][668]LogWorldPartition: Display: WorldPartition initialize started...
+[2024.12.01-03.55.12:625][668]LogWorldPartition: UWorldPartition::Initialize : World = TestMap1, World Type = PIE, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 0, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2024.12.01-03.55.12:625][668]LogWorldPartition: UWorldPartition::Initialize Context : World NetMode = Standalone, IsServer = 0, IsDedicatedServer = 0, IsServerStreamingEnabled = 0, IsServerStreamingOutEnabled = 0, IsUsingMakingVisibleTransaction = 0, IsUsingMakingInvisibleTransaction = 0
+[2024.12.01-03.55.12:628][668]LogContentBundle: [TestMap1(Standalone)] Creating new contrainer.
+[2024.12.01-03.55.12:628][668]LogWorldPartition: Display: WorldPartition initialize took 3 ms (total: 345 ms)
+[2024.12.01-03.55.12:628][668]LogPlayLevel: PIE: World Init took: (0.004134s)
+[2024.12.01-03.55.12:628][668]LogAudio: Display: Creating Audio Device:                 Id: 17, Scope: Unique, Realtime: True
+[2024.12.01-03.55.12:628][668]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.12.01-03.55.12:628][668]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.12.01-03.55.12:628][668]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.12.01-03.55.12:628][668]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.12.01-03.55.12:628][668]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.12.01-03.55.12:628][668]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.12.01-03.55.12:628][668]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.12.01-03.55.12:628][668]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.12.01-03.55.12:629][668]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.12.01-03.55.12:629][668]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.12.01-03.55.12:629][668]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.12.01-03.55.12:631][668]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.12.01-03.55.12:658][668]LogAudioMixer: Display: Using Audio Hardware Device Headphones (Realtek(R) Audio)
+[2024.12.01-03.55.12:659][668]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.12.01-03.55.12:659][668]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.12.01-03.55.12:659][668]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.12.01-03.55.12:660][668]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=17
+[2024.12.01-03.55.12:660][668]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=17
+[2024.12.01-03.55.12:661][668]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=17
+[2024.12.01-03.55.12:661][668]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=17
+[2024.12.01-03.55.12:661][668]LogInit: FAudioDevice initialized with ID 17.
+[2024.12.01-03.55.12:661][668]LogAudio: Display: Audio Device (ID: 17) registered with world 'TestMap1'.
+[2024.12.01-03.55.12:661][668]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 17
+[2024.12.01-03.55.12:663][668]LogLoad: Game class is 'BirdGameMode_C'
+[2024.12.01-03.55.12:665][668]LogWorld: Bringing World /Game/Maps/UEDPIE_0_TestMap1.TestMap1 up for play (max tick rate 0) at 2024.11.30-19.55.12
+[2024.12.01-03.55.12:665][668]LogWorld: Bringing up level for play took: 0.001277
+[2024.12.01-03.55.12:666][668]LogWorldPartition: UWorldPartitionStreamingPolicy: CellsToActivate(45), CellsToLoad(0), CellsToUnload(0)
+[2024.12.01-03.55.12:666][668]LogWorldPartition: UWorldPartitionStreamingPolicy: Sources[0] = X=0.000 Y=0.000 Z=1342.000,P=0.000000 Y=180.000000 R=-0.000000
+[2024.12.01-03.55.12:669][668]LogStreaming: Display: FlushAsyncLoading(): 48 QueuedPackages, 0 AsyncPackages
+[2024.12.01-03.55.12:734][668]PIE: Server logged in
+[2024.12.01-03.55.12:734][668]PIE: Play in editor total start time 0.268 seconds.
+[2024.12.01-03.55.15:510][878]LogBlueprintUserMessages: [Tile1_C_UAID_E4A8DFC8C64E513402_2000338663] Hello
+[2024.12.01-03.55.19:714][208]LogBlueprintUserMessages: [Tile1_C_UAID_E4A8DFC8C64E513402_2014635664] Hello
+[2024.12.01-03.55.22:522][427]LogBlueprintUserMessages: [Tile1_C_0] Hello
+[2024.12.01-03.55.25:852][690]LogBlueprintUserMessages: [Tile2_C_0] Hello
+[2024.12.01-03.55.30:196][ 35]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.12.01-03.55.30:196][ 35]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_TestMap1
+[2024.12.01-03.55.30:198][ 35]LogWorld: UWorld::CleanupWorld for TestMap1, bSessionEnded=true, bCleanupResources=true
+[2024.12.01-03.55.30:201][ 35]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.12.01-03.55.30:201][ 35]LogContentBundle: [TestMap1(Standalone)] Deleting container.
+[2024.12.01-03.55.30:203][ 35]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.12.01-03.55.30:208][ 35]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.12.01-03.55.30:224][ 35]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.12.01-03.55.30:227][ 35]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 17
+[2024.12.01-03.55.30:227][ 35]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=17
+[2024.12.01-03.55.30:229][ 35]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=17
+[2024.12.01-03.55.30:243][ 35]LogUObjectHash: Compacting FUObjectHashTables data took   1.42ms
+[2024.12.01-03.55.30:282][ 36]LogPlayLevel: Display: Destroying online subsystem :Context_49
+[2024.12.01-03.55.35:029][456]LogUObjectHash: Compacting FUObjectHashTables data took   1.41ms
