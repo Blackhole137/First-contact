@@ -4760,3 +4760,808 @@ Tile_Manager
 [2024.12.01-14.32.36:968][950]LogViewport: Scene viewport resized to 984x657, mode Windowed.
 [2024.12.01-14.32.39:186][ 42]LogViewport: Scene viewport resized to 1158x460, mode Windowed.
 [2024.12.01-14.32.46:653][476]LogViewport: Scene viewport resized to 984x657, mode Windowed.
+[2024.12.01-14.35.38:624][476]LogViewport: Scene viewport resized to 1158x460, mode Windowed.
+[2024.12.01-14.35.39:884][547]LogViewport: Scene viewport resized to 984x657, mode Windowed.
+[2024.12.01-14.35.43:454][743]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.12.01-14.35.43:480][744]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.12.01-14.35.43:510][745]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.12.01-14.35.43:560][747]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.12.01-14.35.43:584][748]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.12.01-14.35.43:615][749]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.12.01-14.35.43:644][750]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.12.01-14.35.45:299][842]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Player/BirdPawn.BirdPawn
+[2024.12.01-14.35.45:299][842]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.12.01-14.35.45:299][842]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.12.01-14.36.04:831][960]LogViewport: Scene viewport resized to 1158x460, mode Windowed.
+[2024.12.01-14.36.08:024][146]LogViewport: Scene viewport resized to 984x657, mode Windowed.
+[2024.12.01-14.36.09:324][211]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2024.12.01-14.36.09:329][211]LogContentBundle: [TestMap1(Standalone)] Generating Streaming for 0 Content Bundles.
+[2024.12.01-14.36.09:329][211]LogWorldPartition: Display: GenerateStreaming for 'TestMap1' started...
+[2024.12.01-14.36.09:426][211]LogWorldPartition: Display: GenerateStreaming for 'TestMap1' took 97 ms (total: 1.10 sec)
+[2024.12.01-14.36.09:427][211]BlueprintLog: New page: Pre-Play auto-recompile
+[2024.12.01-14.36.09:436][211]LogPlayLevel: [PlayLevel] Compiling BirdPawn before play...
+[2024.12.01-14.36.09:535][211]LogUObjectHash: Compacting FUObjectHashTables data took   1.58ms
+[2024.12.01-14.36.09:537][211]LogPlayLevel: PlayLevel: Blueprint regeneration took 110 ms (1 blueprints)
+[2024.12.01-14.36.09:537][211]PIE: New page: PIE session: TestMap1 (Nov 30, 2024, 10:36:09 PM)
+[2024.12.01-14.36.09:537][211]LogPlayLevel: Display: Creating online subsystem for client :Context_31
+[2024.12.01-14.36.09:539][211]LogOnline: OSS: Created online subsystem instance for: :Context_31
+[2024.12.01-14.36.09:577][212]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_TestMap1
+[2024.12.01-14.36.09:593][212]LogPlayLevel: PIE: StaticDuplicateObject took: (0.015787s)
+[2024.12.01-14.36.09:593][212]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/TestMap1.TestMap1 to /Game/Maps/UEDPIE_0_TestMap1.TestMap1 (0.015827s)
+[2024.12.01-14.36.09:608][212]LogUObjectHash: Compacting FUObjectHashTables data took   1.20ms
+[2024.12.01-14.36.09:609][212]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.12.01-14.36.09:609][212]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.12.01-14.36.09:609][212]LogAIModule: Creating AISystem for world TestMap1
+[2024.12.01-14.36.09:610][212]LogWorldPartition: ULevel::OnLevelLoaded(TestMap1)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2024.12.01-14.36.09:610][212]LogWorldPartition: Display: WorldPartition initialize started...
+[2024.12.01-14.36.09:610][212]LogWorldPartition: UWorldPartition::Initialize : World = TestMap1, World Type = PIE, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 0, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2024.12.01-14.36.09:610][212]LogWorldPartition: UWorldPartition::Initialize Context : World NetMode = Standalone, IsServer = 0, IsDedicatedServer = 0, IsServerStreamingEnabled = 0, IsServerStreamingOutEnabled = 0, IsUsingMakingVisibleTransaction = 0, IsUsingMakingInvisibleTransaction = 0
+[2024.12.01-14.36.09:614][212]LogContentBundle: [TestMap1(Standalone)] Creating new contrainer.
+[2024.12.01-14.36.09:614][212]LogWorldPartition: Display: WorldPartition initialize took 3 ms (total: 398 ms)
+[2024.12.01-14.36.09:614][212]LogPlayLevel: PIE: World Init took: (0.004973s)
+[2024.12.01-14.36.09:614][212]LogAudio: Display: Creating Audio Device:                 Id: 13, Scope: Unique, Realtime: True
+[2024.12.01-14.36.09:614][212]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.12.01-14.36.09:614][212]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.12.01-14.36.09:614][212]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.12.01-14.36.09:614][212]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.12.01-14.36.09:614][212]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.12.01-14.36.09:614][212]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.12.01-14.36.09:614][212]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.12.01-14.36.09:614][212]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.12.01-14.36.09:614][212]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.12.01-14.36.09:614][212]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.12.01-14.36.09:614][212]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.12.01-14.36.09:616][212]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.12.01-14.36.09:648][212]LogAudioMixer: Display: Using Audio Hardware Device Headphones (Realtek(R) Audio)
+[2024.12.01-14.36.09:649][212]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.12.01-14.36.09:649][212]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.12.01-14.36.09:649][212]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.12.01-14.36.09:649][212]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=13
+[2024.12.01-14.36.09:649][212]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=13
+[2024.12.01-14.36.09:651][212]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=13
+[2024.12.01-14.36.09:651][212]LogInit: FAudioDevice initialized with ID 13.
+[2024.12.01-14.36.09:651][212]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=13
+[2024.12.01-14.36.09:651][212]LogAudio: Display: Audio Device (ID: 13) registered with world 'TestMap1'.
+[2024.12.01-14.36.09:651][212]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 13
+[2024.12.01-14.36.09:654][212]LogLoad: Game class is 'BirdGameMode_C'
+[2024.12.01-14.36.09:657][212]LogWorld: Bringing World /Game/Maps/UEDPIE_0_TestMap1.TestMap1 up for play (max tick rate 60) at 2024.12.01-06.36.09
+[2024.12.01-14.36.09:657][212]LogWorld: Bringing up level for play took: 0.003153
+[2024.12.01-14.36.09:659][212]LogWorldPartition: UWorldPartitionStreamingPolicy: CellsToActivate(45), CellsToLoad(0), CellsToUnload(0)
+[2024.12.01-14.36.09:659][212]LogWorldPartition: UWorldPartitionStreamingPolicy: Sources[0] = X=0.000 Y=0.000 Z=1342.000,P=0.000000 Y=180.000000 R=-0.000000
+[2024.12.01-14.36.09:662][212]LogStreaming: Display: FlushAsyncLoading(): 45 QueuedPackages, 0 AsyncPackages
+[2024.12.01-14.36.09:688][212]PIE: Server logged in
+[2024.12.01-14.36.09:689][212]PIE: Play in editor total start time 0.36 seconds.
+[2024.12.01-14.36.10:526][237]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.12.01-14.36.10:526][237]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_TestMap1
+[2024.12.01-14.36.10:528][237]LogWorld: UWorld::CleanupWorld for TestMap1, bSessionEnded=true, bCleanupResources=true
+[2024.12.01-14.36.10:530][237]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.12.01-14.36.10:531][237]LogContentBundle: [TestMap1(Standalone)] Deleting container.
+[2024.12.01-14.36.10:537][237]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.12.01-14.36.10:542][237]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.12.01-14.36.10:557][237]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.12.01-14.36.10:560][237]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 13
+[2024.12.01-14.36.10:560][237]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=13
+[2024.12.01-14.36.10:562][237]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=13
+[2024.12.01-14.36.10:574][237]LogUObjectHash: Compacting FUObjectHashTables data took   1.33ms
+[2024.12.01-14.36.10:622][238]LogPlayLevel: Display: Destroying online subsystem :Context_31
+[2024.12.01-14.36.32:406][471]LogViewport: Scene viewport resized to 1158x460, mode Windowed.
+[2024.12.01-14.36.42:983][ 95]BlueprintLog: New page: Compile BirdPawn
+[2024.12.01-14.36.43:041][ 95]LogUObjectHash: Compacting FUObjectHashTables data took   1.44ms
+[2024.12.01-14.36.43:402][114]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.12.01-14.36.43:467][114]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Player/BirdPawn" FILE="../../../../../../Users/Lev/Documents/Unreal Projects/UnnamedFallingGame/Content/Player/BirdPawn.uasset" SILENT=true
+[2024.12.01-14.36.43:513][114]LogSavePackage: Moving output files for package: /Game/Player/BirdPawn
+[2024.12.01-14.36.43:513][114]LogSavePackage: Moving '../../../../../../Users/Lev/Documents/Unreal Projects/UnnamedFallingGame/Saved/BirdPawnCAC3CD4C403DD35D70CA84A8EDD5263B.tmp' to '../../../../../../Users/Lev/Documents/Unreal Projects/UnnamedFallingGame/Content/Player/BirdPawn.uasset'
+[2024.12.01-14.36.43:520][114]LogFileHelpers: InternalPromptForCheckoutAndSave took 117 ms (total: 1.92 sec)
+[2024.12.01-14.36.43:520][114]AssetCheck: New page: Asset Save: BirdPawn
+[2024.12.01-14.36.43:520][114]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Player/BirdPawn.BirdPawn
+[2024.12.01-14.36.44:379][161]LogUObjectHash: Compacting FUObjectHashTables data took   1.43ms
+[2024.12.01-14.37.08:518][582]BlueprintLog: New page: Compile BirdPawn
+[2024.12.01-14.37.08:576][582]LogUObjectHash: Compacting FUObjectHashTables data took   1.33ms
+[2024.12.01-14.37.08:976][599]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.12.01-14.37.09:041][599]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Player/BirdPawn" FILE="../../../../../../Users/Lev/Documents/Unreal Projects/UnnamedFallingGame/Content/Player/BirdPawn.uasset" SILENT=true
+[2024.12.01-14.37.09:086][599]LogSavePackage: Moving output files for package: /Game/Player/BirdPawn
+[2024.12.01-14.37.09:086][599]LogSavePackage: Moving '../../../../../../Users/Lev/Documents/Unreal Projects/UnnamedFallingGame/Saved/BirdPawn45FEC21A4E9FA56C347B5DB8F3C5E67A.tmp' to '../../../../../../Users/Lev/Documents/Unreal Projects/UnnamedFallingGame/Content/Player/BirdPawn.uasset'
+[2024.12.01-14.37.09:092][599]LogFileHelpers: InternalPromptForCheckoutAndSave took 115 ms (total: 2.03 sec)
+[2024.12.01-14.37.09:095][599]AssetCheck: New page: Asset Save: BirdPawn
+[2024.12.01-14.37.09:095][599]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Player/BirdPawn.BirdPawn
+[2024.12.01-14.37.10:288][658]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2024.12.01-14.37.10:293][658]LogContentBundle: [TestMap1(Standalone)] Generating Streaming for 0 Content Bundles.
+[2024.12.01-14.37.10:293][658]LogWorldPartition: Display: GenerateStreaming for 'TestMap1' started...
+[2024.12.01-14.37.10:386][658]LogWorldPartition: Display: GenerateStreaming for 'TestMap1' took 93 ms (total: 1.19 sec)
+[2024.12.01-14.37.10:387][658]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.12.01-14.37.10:387][658]PIE: New page: PIE session: TestMap1 (Nov 30, 2024, 10:37:10 PM)
+[2024.12.01-14.37.10:424][658]LogPlayLevel: Display: Creating online subsystem for client :Context_32
+[2024.12.01-14.37.10:426][658]LogOnline: OSS: Created online subsystem instance for: :Context_32
+[2024.12.01-14.37.10:450][659]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_TestMap1
+[2024.12.01-14.37.10:466][659]LogPlayLevel: PIE: StaticDuplicateObject took: (0.016228s)
+[2024.12.01-14.37.10:466][659]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/TestMap1.TestMap1 to /Game/Maps/UEDPIE_0_TestMap1.TestMap1 (0.016268s)
+[2024.12.01-14.37.10:479][659]LogUObjectHash: Compacting FUObjectHashTables data took   1.19ms
+[2024.12.01-14.37.10:482][659]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.12.01-14.37.10:482][659]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.12.01-14.37.10:482][659]LogAIModule: Creating AISystem for world TestMap1
+[2024.12.01-14.37.10:483][659]LogWorldPartition: ULevel::OnLevelLoaded(TestMap1)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2024.12.01-14.37.10:483][659]LogWorldPartition: Display: WorldPartition initialize started...
+[2024.12.01-14.37.10:483][659]LogWorldPartition: UWorldPartition::Initialize : World = TestMap1, World Type = PIE, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 0, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2024.12.01-14.37.10:483][659]LogWorldPartition: UWorldPartition::Initialize Context : World NetMode = Standalone, IsServer = 0, IsDedicatedServer = 0, IsServerStreamingEnabled = 0, IsServerStreamingOutEnabled = 0, IsUsingMakingVisibleTransaction = 0, IsUsingMakingInvisibleTransaction = 0
+[2024.12.01-14.37.10:487][659]LogContentBundle: [TestMap1(Standalone)] Creating new contrainer.
+[2024.12.01-14.37.10:487][659]LogWorldPartition: Display: WorldPartition initialize took 3 ms (total: 402 ms)
+[2024.12.01-14.37.10:487][659]LogPlayLevel: PIE: World Init took: (0.004929s)
+[2024.12.01-14.37.10:487][659]LogAudio: Display: Creating Audio Device:                 Id: 14, Scope: Unique, Realtime: True
+[2024.12.01-14.37.10:487][659]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.12.01-14.37.10:487][659]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.12.01-14.37.10:487][659]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.12.01-14.37.10:487][659]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.12.01-14.37.10:487][659]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.12.01-14.37.10:487][659]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.12.01-14.37.10:487][659]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.12.01-14.37.10:487][659]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.12.01-14.37.10:487][659]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.12.01-14.37.10:487][659]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.12.01-14.37.10:487][659]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.12.01-14.37.10:489][659]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.12.01-14.37.10:517][659]LogAudioMixer: Display: Using Audio Hardware Device Headphones (Realtek(R) Audio)
+[2024.12.01-14.37.10:517][659]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.12.01-14.37.10:517][659]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.12.01-14.37.10:517][659]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.12.01-14.37.10:518][659]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=14
+[2024.12.01-14.37.10:518][659]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=14
+[2024.12.01-14.37.10:520][659]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=14
+[2024.12.01-14.37.10:520][659]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=14
+[2024.12.01-14.37.10:520][659]LogInit: FAudioDevice initialized with ID 14.
+[2024.12.01-14.37.10:520][659]LogAudio: Display: Audio Device (ID: 14) registered with world 'TestMap1'.
+[2024.12.01-14.37.10:520][659]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 14
+[2024.12.01-14.37.10:523][659]LogLoad: Game class is 'BirdGameMode_C'
+[2024.12.01-14.37.10:526][659]LogWorld: Bringing World /Game/Maps/UEDPIE_0_TestMap1.TestMap1 up for play (max tick rate 60) at 2024.12.01-06.37.10
+[2024.12.01-14.37.10:526][659]LogWorld: Bringing up level for play took: 0.003040
+[2024.12.01-14.37.10:527][659]LogWorldPartition: UWorldPartitionStreamingPolicy: CellsToActivate(45), CellsToLoad(0), CellsToUnload(0)
+[2024.12.01-14.37.10:527][659]LogWorldPartition: UWorldPartitionStreamingPolicy: Sources[0] = X=0.000 Y=0.000 Z=1342.000,P=0.000000 Y=180.000000 R=-0.000000
+[2024.12.01-14.37.10:530][659]LogStreaming: Display: FlushAsyncLoading(): 45 QueuedPackages, 0 AsyncPackages
+[2024.12.01-14.37.10:556][659]PIE: Server logged in
+[2024.12.01-14.37.10:557][659]PIE: Play in editor total start time 0.264 seconds.
+[2024.12.01-14.37.10:559][659]LogScript: Warning: Script Msg: Divide by zero: Divide_VectorVector
+[2024.12.01-14.37.10:559][659]LogScript: Warning: Script Msg called by: BirdPawn_C /Game/Maps/UEDPIE_0_TestMap1.TestMap1:PersistentLevel.BirdPawn_C_0
+[2024.12.01-14.37.10:584][660]LogScript: Warning: Script Msg: Divide by zero: Divide_VectorVector
+[2024.12.01-14.37.10:584][660]LogScript: Warning: Script Msg called by: BirdPawn_C /Game/Maps/UEDPIE_0_TestMap1.TestMap1:PersistentLevel.BirdPawn_C_0
+[2024.12.01-14.37.10:668][661]LogScript: Warning: Script Msg: Divide by zero: Divide_VectorVector
+[2024.12.01-14.37.10:668][661]LogScript: Warning: Script Msg called by: BirdPawn_C /Game/Maps/UEDPIE_0_TestMap1.TestMap1:PersistentLevel.BirdPawn_C_0
+[2024.12.01-14.37.10:742][662]LogScript: Warning: Script Msg: Divide by zero: Divide_VectorVector
+[2024.12.01-14.37.10:742][662]LogScript: Warning: Script Msg called by: BirdPawn_C /Game/Maps/UEDPIE_0_TestMap1.TestMap1:PersistentLevel.BirdPawn_C_0
+[2024.12.01-14.37.10:757][663]LogScript: Warning: Script Msg: Divide by zero: Divide_VectorVector
+[2024.12.01-14.37.10:757][663]LogScript: Warning: Script Msg called by: BirdPawn_C /Game/Maps/UEDPIE_0_TestMap1.TestMap1:PersistentLevel.BirdPawn_C_0
+[2024.12.01-14.37.10:773][664]LogScript: Warning: Script Msg: Divide by zero: Divide_VectorVector
+[2024.12.01-14.37.10:773][664]LogScript: Warning: Script Msg called by: BirdPawn_C /Game/Maps/UEDPIE_0_TestMap1.TestMap1:PersistentLevel.BirdPawn_C_0
+[2024.12.01-14.37.11:758][723]LogActor: Warning: Cloud1_C /Game/Maps/UEDPIE_0_TestMap1.TestMap1:PersistentLevel.Cloud1_C_112_GEN_VARIABLE_Cloud1_C_CAT_0 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2024.12.01-14.37.11:759][723]LogActor: Warning: Cloud1_C /Game/Maps/UEDPIE_0_TestMap1.TestMap1:PersistentLevel.Cloud1_C_113_GEN_VARIABLE_Cloud1_C_CAT_1 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2024.12.01-14.37.11:760][723]LogActor: Warning: Cloud1_C /Game/Maps/UEDPIE_0_TestMap1.TestMap1:PersistentLevel.Cloud1_C_114_GEN_VARIABLE_Cloud1_C_CAT_2 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2024.12.01-14.37.11:761][723]LogActor: Warning: Cloud1_C /Game/Maps/UEDPIE_0_TestMap1.TestMap1:PersistentLevel.Cloud1_C_118_GEN_VARIABLE_Cloud1_C_CAT_3 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2024.12.01-14.37.11:762][723]LogActor: Warning: Cloud1_C /Game/Maps/UEDPIE_0_TestMap1.TestMap1:PersistentLevel.Cloud1_C_127_GEN_VARIABLE_Cloud1_C_CAT_4 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2024.12.01-14.37.11:763][723]LogActor: Warning: Cloud2_C /Game/Maps/UEDPIE_0_TestMap1.TestMap1:PersistentLevel.Cloud2_C_42_GEN_VARIABLE_Cloud2_C_CAT_0 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2024.12.01-14.37.11:763][723]LogActor: Warning: Cloud2_C /Game/Maps/UEDPIE_0_TestMap1.TestMap1:PersistentLevel.Cloud2_C_43_GEN_VARIABLE_Cloud2_C_CAT_1 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2024.12.01-14.37.11:764][723]LogActor: Warning: Gasoline_C /Game/Maps/UEDPIE_0_TestMap1.TestMap1:PersistentLevel.Gasoline_C_54_GEN_VARIABLE_Gasoline_C_CAT_2078780000 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2024.12.01-14.37.11:765][723]LogActor: Warning: Gasoline_C /Game/Maps/UEDPIE_0_TestMap1.TestMap1:PersistentLevel.Gasoline_C_55_GEN_VARIABLE_Gasoline_C_CAT_2078780001 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2024.12.01-14.37.11:766][723]LogActor: Warning: Gasoline_C /Game/Maps/UEDPIE_0_TestMap1.TestMap1:PersistentLevel.Gasoline_C_56_GEN_VARIABLE_Gasoline_C_CAT_2078780002 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2024.12.01-14.37.11:767][723]LogBlueprintUserMessages: [Tile_01_C_UAID_E4A8DFC8C64E9A3402_2078763991] Hello
+[2024.12.01-14.37.18:235][111]LogActor: Warning: Cloud1_C /Game/Maps/UEDPIE_0_TestMap1.TestMap1:PersistentLevel.Cloud1_C_248_GEN_VARIABLE_Cloud1_C_CAT_2078771995 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2024.12.01-14.37.18:236][111]LogActor: Warning: Cloud1_C /Game/Maps/UEDPIE_0_TestMap1.TestMap1:PersistentLevel.Cloud1_C_249_GEN_VARIABLE_Cloud1_C_CAT_2078771996 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2024.12.01-14.37.18:237][111]LogActor: Warning: Cloud1_C /Game/Maps/UEDPIE_0_TestMap1.TestMap1:PersistentLevel.Cloud1_C_250_GEN_VARIABLE_Cloud1_C_CAT_2078771997 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2024.12.01-14.37.18:237][111]LogActor: Warning: Cloud2_C /Game/Maps/UEDPIE_0_TestMap1.TestMap1:PersistentLevel.Cloud2_C_95_GEN_VARIABLE_Cloud2_C_CAT_2095817154 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2024.12.01-14.37.18:238][111]LogActor: Warning: Cloud2_C /Game/Maps/UEDPIE_0_TestMap1.TestMap1:PersistentLevel.Cloud2_C_96_GEN_VARIABLE_Cloud2_C_CAT_2095817155 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2024.12.01-14.37.18:239][111]LogActor: Warning: Cloud2_C /Game/Maps/UEDPIE_0_TestMap1.TestMap1:PersistentLevel.Cloud2_C_97_GEN_VARIABLE_Cloud2_C_CAT_2095817156 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2024.12.01-14.37.18:240][111]LogActor: Warning: Cloud3_C /Game/Maps/UEDPIE_0_TestMap1.TestMap1:PersistentLevel.Cloud3_C_220_GEN_VARIABLE_Cloud3_C_CAT_2078776999 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2024.12.01-14.37.18:240][111]LogActor: Warning: Gasoline_C /Game/Maps/UEDPIE_0_TestMap1.TestMap1:PersistentLevel.Gasoline_C_52_GEN_VARIABLE_Gasoline_C_CAT_2078781002 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2024.12.01-14.37.18:241][111]LogActor: Warning: Gasoline_C /Game/Maps/UEDPIE_0_TestMap1.TestMap1:PersistentLevel.Gasoline_C_53_GEN_VARIABLE_Gasoline_C_CAT_2078781003 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2024.12.01-14.37.18:242][111]LogActor: Warning: Gasoline_C /Game/Maps/UEDPIE_0_TestMap1.TestMap1:PersistentLevel.Gasoline_C_54_GEN_VARIABLE_Gasoline_C_CAT_2078781004 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2024.12.01-14.37.18:243][111]LogBlueprintUserMessages: [Magnet_C_1] Detected
+[2024.12.01-14.37.18:244][111]LogBlueprintUserMessages: [Tile_02_C_UAID_E4A8DFC8C64E9A3402_2095811148] Hello
+[2024.12.01-14.37.23:843][447]LogActor: Warning: Cloud1_C /Game/Maps/UEDPIE_0_TestMap1.TestMap1:PersistentLevel.Cloud1_C_116_GEN_VARIABLE_Cloud1_C_CAT_2095815155 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2024.12.01-14.37.23:844][447]LogActor: Warning: Cloud1_C /Game/Maps/UEDPIE_0_TestMap1.TestMap1:PersistentLevel.Cloud1_C_117_GEN_VARIABLE_Cloud1_C_CAT_2095815156 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2024.12.01-14.37.23:845][447]LogActor: Warning: Cloud3_C /Game/Maps/UEDPIE_0_TestMap1.TestMap1:PersistentLevel.Cloud3_C_130_GEN_VARIABLE_Cloud3_C_CAT_2095823161 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2024.12.01-14.37.23:847][447]LogActor: Warning: Cloud3_C /Game/Maps/UEDPIE_0_TestMap1.TestMap1:PersistentLevel.Cloud3_C_131_GEN_VARIABLE_Cloud3_C_CAT_2095823162 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2024.12.01-14.37.23:847][447]LogActor: Warning: Gasoline_C /Game/Maps/UEDPIE_0_TestMap1.TestMap1:PersistentLevel.Gasoline_C_38_GEN_VARIABLE_Gasoline_C_CAT_2095826163 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2024.12.01-14.37.23:848][447]LogActor: Warning: Gasoline_C /Game/Maps/UEDPIE_0_TestMap1.TestMap1:PersistentLevel.Gasoline_C_39_GEN_VARIABLE_Gasoline_C_CAT_2095826164 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2024.12.01-14.37.23:849][447]LogActor: Warning: Gasoline_C /Game/Maps/UEDPIE_0_TestMap1.TestMap1:PersistentLevel.Gasoline_C_40_GEN_VARIABLE_Gasoline_C_CAT_2095826165 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2024.12.01-14.37.23:849][447]LogActor: Warning: Cloud1_C /Game/Maps/UEDPIE_0_TestMap1.TestMap1:PersistentLevel.Cloud1_C_118_GEN_VARIABLE_Cloud1_C_CAT_2095815157 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2024.12.01-14.37.23:850][447]LogActor: Warning: Cloud1_C /Game/Maps/UEDPIE_0_TestMap1.TestMap1:PersistentLevel.Cloud1_C_119_GEN_VARIABLE_Cloud1_C_CAT_2095815158 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2024.12.01-14.37.23:852][447]LogBlueprintUserMessages: [Tile_04_C_0] Hello
+[2024.12.01-14.37.25:719][559]LogActor: Warning: Cloud1_C /Game/Maps/UEDPIE_0_TestMap1.TestMap1:PersistentLevel.Cloud1_C_130_GEN_VARIABLE_Cloud1_C_CAT_2095815163 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2024.12.01-14.37.25:720][559]LogActor: Warning: Cloud1_C /Game/Maps/UEDPIE_0_TestMap1.TestMap1:PersistentLevel.Cloud1_C_131_GEN_VARIABLE_Cloud1_C_CAT_2095815164 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2024.12.01-14.37.25:721][559]LogActor: Warning: Cloud2_C /Game/Maps/UEDPIE_0_TestMap1.TestMap1:PersistentLevel.Cloud2_C_39_GEN_VARIABLE_Cloud2_C_CAT_2095817159 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2024.12.01-14.37.25:722][559]LogActor: Warning: Cloud3_C /Game/Maps/UEDPIE_0_TestMap1.TestMap1:PersistentLevel.Cloud3_C_125_GEN_VARIABLE_Cloud3_C_CAT_2095823163 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2024.12.01-14.37.25:722][559]LogActor: Warning: Cloud3_C /Game/Maps/UEDPIE_0_TestMap1.TestMap1:PersistentLevel.Cloud3_C_127_GEN_VARIABLE_Cloud3_C_CAT_2095823164 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2024.12.01-14.37.25:723][559]LogActor: Warning: Cloud3_C /Game/Maps/UEDPIE_0_TestMap1.TestMap1:PersistentLevel.Cloud3_C_129_GEN_VARIABLE_Cloud3_C_CAT_2095823165 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2024.12.01-14.37.25:724][559]LogActor: Warning: Cloud3_C /Game/Maps/UEDPIE_0_TestMap1.TestMap1:PersistentLevel.Cloud3_C_142_GEN_VARIABLE_Cloud3_C_CAT_2095823166 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2024.12.01-14.37.25:725][559]LogActor: Warning: Gasoline_C /Game/Maps/UEDPIE_0_TestMap1.TestMap1:PersistentLevel.Gasoline_C_51_GEN_VARIABLE_Gasoline_C_CAT_2095826169 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2024.12.01-14.37.25:726][559]LogActor: Warning: Gasoline_C /Game/Maps/UEDPIE_0_TestMap1.TestMap1:PersistentLevel.Gasoline_C_52_GEN_VARIABLE_Gasoline_C_CAT_2095826170 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2024.12.01-14.37.25:726][559]LogActor: Warning: Gasoline_C /Game/Maps/UEDPIE_0_TestMap1.TestMap1:PersistentLevel.Gasoline_C_53_GEN_VARIABLE_Gasoline_C_CAT_2095826171 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2024.12.01-14.37.25:729][559]LogBlueprintUserMessages: [Tile_03_C_0] Hello
+[2024.12.01-14.37.31:629][913]LogActor: Warning: Cloud1_C /Game/Maps/UEDPIE_0_TestMap1.TestMap1:PersistentLevel.Cloud1_C_248_GEN_VARIABLE_Cloud1_C_CAT_2095815168 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2024.12.01-14.37.31:630][913]LogActor: Warning: Cloud1_C /Game/Maps/UEDPIE_0_TestMap1.TestMap1:PersistentLevel.Cloud1_C_249_GEN_VARIABLE_Cloud1_C_CAT_2095815169 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2024.12.01-14.37.31:630][913]LogActor: Warning: Cloud1_C /Game/Maps/UEDPIE_0_TestMap1.TestMap1:PersistentLevel.Cloud1_C_250_GEN_VARIABLE_Cloud1_C_CAT_2095815170 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2024.12.01-14.37.31:631][913]LogActor: Warning: Cloud2_C /Game/Maps/UEDPIE_0_TestMap1.TestMap1:PersistentLevel.Cloud2_C_95_GEN_VARIABLE_Cloud2_C_CAT_2095817163 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2024.12.01-14.37.31:632][913]LogActor: Warning: Cloud2_C /Game/Maps/UEDPIE_0_TestMap1.TestMap1:PersistentLevel.Cloud2_C_96_GEN_VARIABLE_Cloud2_C_CAT_2095817164 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2024.12.01-14.37.31:633][913]LogActor: Warning: Cloud2_C /Game/Maps/UEDPIE_0_TestMap1.TestMap1:PersistentLevel.Cloud2_C_97_GEN_VARIABLE_Cloud2_C_CAT_2095817165 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2024.12.01-14.37.31:633][913]LogActor: Warning: Cloud3_C /Game/Maps/UEDPIE_0_TestMap1.TestMap1:PersistentLevel.Cloud3_C_220_GEN_VARIABLE_Cloud3_C_CAT_2095823168 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2024.12.01-14.37.31:634][913]LogActor: Warning: Gasoline_C /Game/Maps/UEDPIE_0_TestMap1.TestMap1:PersistentLevel.Gasoline_C_52_GEN_VARIABLE_Gasoline_C_CAT_2095826175 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2024.12.01-14.37.31:635][913]LogActor: Warning: Gasoline_C /Game/Maps/UEDPIE_0_TestMap1.TestMap1:PersistentLevel.Gasoline_C_53_GEN_VARIABLE_Gasoline_C_CAT_2095826176 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2024.12.01-14.37.31:636][913]LogActor: Warning: Gasoline_C /Game/Maps/UEDPIE_0_TestMap1.TestMap1:PersistentLevel.Gasoline_C_54_GEN_VARIABLE_Gasoline_C_CAT_2095826177 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2024.12.01-14.37.31:638][913]LogBlueprintUserMessages: [Tile_05_C_0] Hello
+[2024.12.01-14.37.34:637][ 93]LogActor: Warning: Cloud1_C /Game/Maps/UEDPIE_0_TestMap1.TestMap1:PersistentLevel.Cloud1_C_134_GEN_VARIABLE_Cloud1_C_CAT_2095815175 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2024.12.01-14.37.34:638][ 93]LogActor: Warning: Cloud1_C /Game/Maps/UEDPIE_0_TestMap1.TestMap1:PersistentLevel.Cloud1_C_135_GEN_VARIABLE_Cloud1_C_CAT_2095815176 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2024.12.01-14.37.34:639][ 93]LogActor: Warning: Cloud1_C /Game/Maps/UEDPIE_0_TestMap1.TestMap1:PersistentLevel.Cloud1_C_136_GEN_VARIABLE_Cloud1_C_CAT_2095815177 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2024.12.01-14.37.34:639][ 93]LogActor: Warning: Cloud1_C /Game/Maps/UEDPIE_0_TestMap1.TestMap1:PersistentLevel.Cloud1_C_140_GEN_VARIABLE_Cloud1_C_CAT_2095815178 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2024.12.01-14.37.34:640][ 93]LogActor: Warning: Cloud1_C /Game/Maps/UEDPIE_0_TestMap1.TestMap1:PersistentLevel.Cloud1_C_147_GEN_VARIABLE_Cloud1_C_CAT_2095815179 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2024.12.01-14.37.34:641][ 93]LogActor: Warning: Cloud1_C /Game/Maps/UEDPIE_0_TestMap1.TestMap1:PersistentLevel.Cloud1_C_172_GEN_VARIABLE_Cloud1_C_CAT_2095815180 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2024.12.01-14.37.34:642][ 93]LogActor: Warning: Cloud2_C /Game/Maps/UEDPIE_0_TestMap1.TestMap1:PersistentLevel.Cloud2_C_32_GEN_VARIABLE_Cloud2_C_CAT_2095817166 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2024.12.01-14.37.34:643][ 93]LogActor: Warning: Cloud2_C /Game/Maps/UEDPIE_0_TestMap1.TestMap1:PersistentLevel.Cloud2_C_35_GEN_VARIABLE_Cloud2_C_CAT_2095817167 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2024.12.01-14.37.34:643][ 93]LogActor: Warning: Cloud3_C /Game/Maps/UEDPIE_0_TestMap1.TestMap1:PersistentLevel.Cloud3_C_140_GEN_VARIABLE_Cloud3_C_CAT_2095823171 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2024.12.01-14.37.34:644][ 93]LogActor: Warning: Cloud3_C /Game/Maps/UEDPIE_0_TestMap1.TestMap1:PersistentLevel.Cloud3_C_141_GEN_VARIABLE_Cloud3_C_CAT_2095823172 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2024.12.01-14.37.34:645][ 93]LogActor: Warning: Cloud3_C /Game/Maps/UEDPIE_0_TestMap1.TestMap1:PersistentLevel.Cloud3_C_148_GEN_VARIABLE_Cloud3_C_CAT_2095823173 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2024.12.01-14.37.34:646][ 93]LogActor: Warning: Gasoline_C /Game/Maps/UEDPIE_0_TestMap1.TestMap1:PersistentLevel.Gasoline_C_42_GEN_VARIABLE_Gasoline_C_CAT_2095826180 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2024.12.01-14.37.34:647][ 93]LogActor: Warning: Gasoline_C /Game/Maps/UEDPIE_0_TestMap1.TestMap1:PersistentLevel.Gasoline_C_43_GEN_VARIABLE_Gasoline_C_CAT_2095826181 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2024.12.01-14.37.34:647][ 93]LogActor: Warning: Gasoline_C /Game/Maps/UEDPIE_0_TestMap1.TestMap1:PersistentLevel.Gasoline_C_44_GEN_VARIABLE_Gasoline_C_CAT_2095826182 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2024.12.01-14.37.34:652][ 93]LogBlueprintUserMessages: [Tile_02_C_0] Hello
+[2024.12.01-14.37.37:637][272]LogActor: Warning: Cloud1_C /Game/Maps/UEDPIE_0_TestMap1.TestMap1:PersistentLevel.Cloud1_C_144_GEN_VARIABLE_Cloud1_C_CAT_2095815183 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2024.12.01-14.37.37:638][272]LogActor: Warning: Cloud1_C /Game/Maps/UEDPIE_0_TestMap1.TestMap1:PersistentLevel.Cloud1_C_145_GEN_VARIABLE_Cloud1_C_CAT_2095815184 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2024.12.01-14.37.37:639][272]LogActor: Warning: Cloud1_C /Game/Maps/UEDPIE_0_TestMap1.TestMap1:PersistentLevel.Cloud1_C_148_GEN_VARIABLE_Cloud1_C_CAT_2095815185 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2024.12.01-14.37.37:639][272]LogActor: Warning: Cloud1_C /Game/Maps/UEDPIE_0_TestMap1.TestMap1:PersistentLevel.Cloud1_C_149_GEN_VARIABLE_Cloud1_C_CAT_2095815186 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2024.12.01-14.37.37:640][272]LogActor: Warning: Cloud1_C /Game/Maps/UEDPIE_0_TestMap1.TestMap1:PersistentLevel.Cloud1_C_152_GEN_VARIABLE_Cloud1_C_CAT_2095815187 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2024.12.01-14.37.37:641][272]LogActor: Warning: Cloud1_C /Game/Maps/UEDPIE_0_TestMap1.TestMap1:PersistentLevel.Cloud1_C_153_GEN_VARIABLE_Cloud1_C_CAT_2095815188 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2024.12.01-14.37.37:642][272]LogActor: Warning: Cloud2_C /Game/Maps/UEDPIE_0_TestMap1.TestMap1:PersistentLevel.Cloud2_C_34_GEN_VARIABLE_Cloud2_C_CAT_2095817169 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2024.12.01-14.37.37:643][272]LogActor: Warning: Cloud2_C /Game/Maps/UEDPIE_0_TestMap1.TestMap1:PersistentLevel.Cloud2_C_37_GEN_VARIABLE_Cloud2_C_CAT_2095817170 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2024.12.01-14.37.37:643][272]LogActor: Warning: Cloud3_C /Game/Maps/UEDPIE_0_TestMap1.TestMap1:PersistentLevel.Cloud3_C_145_GEN_VARIABLE_Cloud3_C_CAT_2095823178 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2024.12.01-14.37.37:644][272]LogActor: Warning: Cloud3_C /Game/Maps/UEDPIE_0_TestMap1.TestMap1:PersistentLevel.Cloud3_C_146_GEN_VARIABLE_Cloud3_C_CAT_2095823179 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2024.12.01-14.37.37:645][272]LogActor: Warning: Cloud3_C /Game/Maps/UEDPIE_0_TestMap1.TestMap1:PersistentLevel.Cloud3_C_147_GEN_VARIABLE_Cloud3_C_CAT_2095823180 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2024.12.01-14.37.37:646][272]LogActor: Warning: Cloud3_C /Game/Maps/UEDPIE_0_TestMap1.TestMap1:PersistentLevel.Cloud3_C_149_GEN_VARIABLE_Cloud3_C_CAT_2095823181 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2024.12.01-14.37.37:647][272]LogActor: Warning: Gasoline_C /Game/Maps/UEDPIE_0_TestMap1.TestMap1:PersistentLevel.Gasoline_C_46_GEN_VARIABLE_Gasoline_C_CAT_2095826186 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2024.12.01-14.37.37:648][272]LogActor: Warning: Gasoline_C /Game/Maps/UEDPIE_0_TestMap1.TestMap1:PersistentLevel.Gasoline_C_47_GEN_VARIABLE_Gasoline_C_CAT_2095826187 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2024.12.01-14.37.37:648][272]LogActor: Warning: Gasoline_C /Game/Maps/UEDPIE_0_TestMap1.TestMap1:PersistentLevel.Gasoline_C_48_GEN_VARIABLE_Gasoline_C_CAT_2095826188 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2024.12.01-14.37.37:656][272]LogBlueprintUserMessages: [Tile_03_C_1] Hello
+[2024.12.01-14.37.40:642][451]LogActor: Warning: Cloud2_C /Game/Maps/UEDPIE_0_TestMap1.TestMap1:PersistentLevel.Cloud2_C_40_GEN_VARIABLE_Cloud2_C_CAT_2095817174 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2024.12.01-14.37.40:643][451]LogActor: Warning: Cloud2_C /Game/Maps/UEDPIE_0_TestMap1.TestMap1:PersistentLevel.Cloud2_C_41_GEN_VARIABLE_Cloud2_C_CAT_2095817175 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2024.12.01-14.37.40:644][451]LogActor: Warning: Cloud3_C /Game/Maps/UEDPIE_0_TestMap1.TestMap1:PersistentLevel.Cloud3_C_128_GEN_VARIABLE_Cloud3_C_CAT_2095823183 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2024.12.01-14.37.40:645][451]LogActor: Warning: Cloud3_C /Game/Maps/UEDPIE_0_TestMap1.TestMap1:PersistentLevel.Cloud3_C_138_GEN_VARIABLE_Cloud3_C_CAT_2095823184 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2024.12.01-14.37.40:646][451]LogActor: Warning: Gasoline_C /Game/Maps/UEDPIE_0_TestMap1.TestMap1:PersistentLevel.Gasoline_C_44_GEN_VARIABLE_Gasoline_C_CAT_2095826193 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2024.12.01-14.37.40:646][451]LogActor: Warning: Gasoline_C /Game/Maps/UEDPIE_0_TestMap1.TestMap1:PersistentLevel.Gasoline_C_45_GEN_VARIABLE_Gasoline_C_CAT_2095826194 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2024.12.01-14.37.40:647][451]LogActor: Warning: Gasoline_C /Game/Maps/UEDPIE_0_TestMap1.TestMap1:PersistentLevel.Gasoline_C_46_GEN_VARIABLE_Gasoline_C_CAT_2095826195 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2024.12.01-14.37.40:648][451]LogActor: Warning: Cloud3_C /Game/Maps/UEDPIE_0_TestMap1.TestMap1:PersistentLevel.Cloud3_C_129_GEN_VARIABLE_Cloud3_C_CAT_2095823185 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2024.12.01-14.37.40:648][451]LogActor: Warning: Cloud3_C /Game/Maps/UEDPIE_0_TestMap1.TestMap1:PersistentLevel.Cloud3_C_130_GEN_VARIABLE_Cloud3_C_CAT_2095823186 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2024.12.01-14.37.40:651][451]LogBlueprintUserMessages: [Tile_08_C_0] Hello
+[2024.12.01-14.37.41:419][497]LogBlueprintUserMessages: [BirdPawn_C_0] SPEED BOOST ACTIVE
+[2024.12.01-14.37.43:519][623]LogActor: Warning: Cloud2_C /Game/Maps/UEDPIE_0_TestMap1.TestMap1:PersistentLevel.Cloud2_C_40_GEN_VARIABLE_Cloud2_C_CAT_2095817178 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2024.12.01-14.37.43:521][623]LogActor: Warning: Cloud2_C /Game/Maps/UEDPIE_0_TestMap1.TestMap1:PersistentLevel.Cloud2_C_41_GEN_VARIABLE_Cloud2_C_CAT_2095817179 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2024.12.01-14.37.43:521][623]LogActor: Warning: Cloud3_C /Game/Maps/UEDPIE_0_TestMap1.TestMap1:PersistentLevel.Cloud3_C_128_GEN_VARIABLE_Cloud3_C_CAT_2095823190 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2024.12.01-14.37.43:522][623]LogActor: Warning: Cloud3_C /Game/Maps/UEDPIE_0_TestMap1.TestMap1:PersistentLevel.Cloud3_C_138_GEN_VARIABLE_Cloud3_C_CAT_2095823191 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2024.12.01-14.37.43:523][623]LogActor: Warning: Gasoline_C /Game/Maps/UEDPIE_0_TestMap1.TestMap1:PersistentLevel.Gasoline_C_44_GEN_VARIABLE_Gasoline_C_CAT_2095826199 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2024.12.01-14.37.43:524][623]LogActor: Warning: Gasoline_C /Game/Maps/UEDPIE_0_TestMap1.TestMap1:PersistentLevel.Gasoline_C_45_GEN_VARIABLE_Gasoline_C_CAT_2095826200 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2024.12.01-14.37.43:524][623]LogActor: Warning: Gasoline_C /Game/Maps/UEDPIE_0_TestMap1.TestMap1:PersistentLevel.Gasoline_C_46_GEN_VARIABLE_Gasoline_C_CAT_2095826201 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2024.12.01-14.37.43:525][623]LogActor: Warning: Cloud3_C /Game/Maps/UEDPIE_0_TestMap1.TestMap1:PersistentLevel.Cloud3_C_129_GEN_VARIABLE_Cloud3_C_CAT_2095823192 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2024.12.01-14.37.43:526][623]LogActor: Warning: Cloud3_C /Game/Maps/UEDPIE_0_TestMap1.TestMap1:PersistentLevel.Cloud3_C_130_GEN_VARIABLE_Cloud3_C_CAT_2095823193 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2024.12.01-14.37.43:529][623]LogBlueprintUserMessages: [Tile_10_C_0] Hello
+[2024.12.01-14.37.46:096][777]LogActor: Warning: Cloud1_C /Game/Maps/UEDPIE_0_TestMap1.TestMap1:PersistentLevel.Cloud1_C_144_GEN_VARIABLE_Cloud1_C_CAT_2095815204 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2024.12.01-14.37.46:097][777]LogActor: Warning: Cloud1_C /Game/Maps/UEDPIE_0_TestMap1.TestMap1:PersistentLevel.Cloud1_C_145_GEN_VARIABLE_Cloud1_C_CAT_2095815205 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2024.12.01-14.37.46:098][777]LogActor: Warning: Cloud1_C /Game/Maps/UEDPIE_0_TestMap1.TestMap1:PersistentLevel.Cloud1_C_148_GEN_VARIABLE_Cloud1_C_CAT_2095815206 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2024.12.01-14.37.46:099][777]LogActor: Warning: Cloud1_C /Game/Maps/UEDPIE_0_TestMap1.TestMap1:PersistentLevel.Cloud1_C_149_GEN_VARIABLE_Cloud1_C_CAT_2095815207 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2024.12.01-14.37.46:100][777]LogActor: Warning: Cloud1_C /Game/Maps/UEDPIE_0_TestMap1.TestMap1:PersistentLevel.Cloud1_C_152_GEN_VARIABLE_Cloud1_C_CAT_2095815208 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2024.12.01-14.37.46:100][777]LogActor: Warning: Cloud1_C /Game/Maps/UEDPIE_0_TestMap1.TestMap1:PersistentLevel.Cloud1_C_153_GEN_VARIABLE_Cloud1_C_CAT_2095815209 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2024.12.01-14.37.46:101][777]LogActor: Warning: Cloud2_C /Game/Maps/UEDPIE_0_TestMap1.TestMap1:PersistentLevel.Cloud2_C_34_GEN_VARIABLE_Cloud2_C_CAT_2095817182 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2024.12.01-14.37.46:102][777]LogActor: Warning: Cloud2_C /Game/Maps/UEDPIE_0_TestMap1.TestMap1:PersistentLevel.Cloud2_C_37_GEN_VARIABLE_Cloud2_C_CAT_2095817183 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2024.12.01-14.37.46:103][777]LogActor: Warning: Cloud3_C /Game/Maps/UEDPIE_0_TestMap1.TestMap1:PersistentLevel.Cloud3_C_145_GEN_VARIABLE_Cloud3_C_CAT_2095823198 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2024.12.01-14.37.46:104][777]LogActor: Warning: Cloud3_C /Game/Maps/UEDPIE_0_TestMap1.TestMap1:PersistentLevel.Cloud3_C_146_GEN_VARIABLE_Cloud3_C_CAT_2095823199 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2024.12.01-14.37.46:104][777]LogActor: Warning: Cloud3_C /Game/Maps/UEDPIE_0_TestMap1.TestMap1:PersistentLevel.Cloud3_C_147_GEN_VARIABLE_Cloud3_C_CAT_2095823200 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2024.12.01-14.37.46:105][777]LogActor: Warning: Cloud3_C /Game/Maps/UEDPIE_0_TestMap1.TestMap1:PersistentLevel.Cloud3_C_149_GEN_VARIABLE_Cloud3_C_CAT_2095823201 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2024.12.01-14.37.46:106][777]LogActor: Warning: Gasoline_C /Game/Maps/UEDPIE_0_TestMap1.TestMap1:PersistentLevel.Gasoline_C_46_GEN_VARIABLE_Gasoline_C_CAT_2095826206 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2024.12.01-14.37.46:107][777]LogActor: Warning: Gasoline_C /Game/Maps/UEDPIE_0_TestMap1.TestMap1:PersistentLevel.Gasoline_C_47_GEN_VARIABLE_Gasoline_C_CAT_2095826207 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2024.12.01-14.37.46:108][777]LogActor: Warning: Gasoline_C /Game/Maps/UEDPIE_0_TestMap1.TestMap1:PersistentLevel.Gasoline_C_48_GEN_VARIABLE_Gasoline_C_CAT_2095826208 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2024.12.01-14.37.46:115][777]LogBlueprintUserMessages: [Tile_06_C_0] Hello
+[2024.12.01-14.37.48:423][915]LogActor: Warning: Cloud1_C /Game/Maps/UEDPIE_0_TestMap1.TestMap1:PersistentLevel.Cloud1_C_112_GEN_VARIABLE_Cloud1_C_CAT_2095815210 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2024.12.01-14.37.48:424][915]LogActor: Warning: Cloud1_C /Game/Maps/UEDPIE_0_TestMap1.TestMap1:PersistentLevel.Cloud1_C_113_GEN_VARIABLE_Cloud1_C_CAT_2095815211 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2024.12.01-14.37.48:425][915]LogActor: Warning: Cloud1_C /Game/Maps/UEDPIE_0_TestMap1.TestMap1:PersistentLevel.Cloud1_C_114_GEN_VARIABLE_Cloud1_C_CAT_2095815212 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2024.12.01-14.37.48:426][915]LogActor: Warning: Cloud1_C /Game/Maps/UEDPIE_0_TestMap1.TestMap1:PersistentLevel.Cloud1_C_118_GEN_VARIABLE_Cloud1_C_CAT_2095815213 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2024.12.01-14.37.48:427][915]LogActor: Warning: Cloud1_C /Game/Maps/UEDPIE_0_TestMap1.TestMap1:PersistentLevel.Cloud1_C_127_GEN_VARIABLE_Cloud1_C_CAT_2095815214 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2024.12.01-14.37.48:428][915]LogActor: Warning: Cloud2_C /Game/Maps/UEDPIE_0_TestMap1.TestMap1:PersistentLevel.Cloud2_C_42_GEN_VARIABLE_Cloud2_C_CAT_2095817186 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2024.12.01-14.37.48:429][915]LogActor: Warning: Cloud2_C /Game/Maps/UEDPIE_0_TestMap1.TestMap1:PersistentLevel.Cloud2_C_43_GEN_VARIABLE_Cloud2_C_CAT_2095817187 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2024.12.01-14.37.48:430][915]LogActor: Warning: Gasoline_C /Game/Maps/UEDPIE_0_TestMap1.TestMap1:PersistentLevel.Gasoline_C_54_GEN_VARIABLE_Gasoline_C_CAT_2095826211 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2024.12.01-14.37.48:430][915]LogActor: Warning: Gasoline_C /Game/Maps/UEDPIE_0_TestMap1.TestMap1:PersistentLevel.Gasoline_C_55_GEN_VARIABLE_Gasoline_C_CAT_2095826212 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2024.12.01-14.37.48:431][915]LogActor: Warning: Gasoline_C /Game/Maps/UEDPIE_0_TestMap1.TestMap1:PersistentLevel.Gasoline_C_56_GEN_VARIABLE_Gasoline_C_CAT_2095826213 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2024.12.01-14.37.48:432][915]LogBlueprintUserMessages: [Magnet_C_2] Detected
+[2024.12.01-14.37.48:432][915]LogBlueprintUserMessages: [Magnet_C_2] Detected
+[2024.12.01-14.37.48:433][915]LogBlueprintUserMessages: [Tile_06_C_1] Hello
+[2024.12.01-14.37.50:550][ 42]LogActor: Warning: Cloud1_C /Game/Maps/UEDPIE_0_TestMap1.TestMap1:PersistentLevel.Cloud1_C_134_GEN_VARIABLE_Cloud1_C_CAT_2095815215 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2024.12.01-14.37.50:551][ 42]LogActor: Warning: Cloud1_C /Game/Maps/UEDPIE_0_TestMap1.TestMap1:PersistentLevel.Cloud1_C_135_GEN_VARIABLE_Cloud1_C_CAT_2095815216 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2024.12.01-14.37.50:552][ 42]LogActor: Warning: Cloud1_C /Game/Maps/UEDPIE_0_TestMap1.TestMap1:PersistentLevel.Cloud1_C_136_GEN_VARIABLE_Cloud1_C_CAT_2095815217 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2024.12.01-14.37.50:552][ 42]LogActor: Warning: Cloud1_C /Game/Maps/UEDPIE_0_TestMap1.TestMap1:PersistentLevel.Cloud1_C_140_GEN_VARIABLE_Cloud1_C_CAT_2095815218 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2024.12.01-14.37.50:553][ 42]LogActor: Warning: Cloud1_C /Game/Maps/UEDPIE_0_TestMap1.TestMap1:PersistentLevel.Cloud1_C_147_GEN_VARIABLE_Cloud1_C_CAT_2095815219 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2024.12.01-14.37.50:554][ 42]LogActor: Warning: Cloud1_C /Game/Maps/UEDPIE_0_TestMap1.TestMap1:PersistentLevel.Cloud1_C_172_GEN_VARIABLE_Cloud1_C_CAT_2095815220 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2024.12.01-14.37.50:555][ 42]LogActor: Warning: Cloud2_C /Game/Maps/UEDPIE_0_TestMap1.TestMap1:PersistentLevel.Cloud2_C_32_GEN_VARIABLE_Cloud2_C_CAT_2095817190 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2024.12.01-14.37.50:556][ 42]LogActor: Warning: Cloud2_C /Game/Maps/UEDPIE_0_TestMap1.TestMap1:PersistentLevel.Cloud2_C_35_GEN_VARIABLE_Cloud2_C_CAT_2095817191 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2024.12.01-14.37.50:557][ 42]LogActor: Warning: Cloud3_C /Game/Maps/UEDPIE_0_TestMap1.TestMap1:PersistentLevel.Cloud3_C_140_GEN_VARIABLE_Cloud3_C_CAT_2095823210 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2024.12.01-14.37.50:558][ 42]LogActor: Warning: Cloud3_C /Game/Maps/UEDPIE_0_TestMap1.TestMap1:PersistentLevel.Cloud3_C_141_GEN_VARIABLE_Cloud3_C_CAT_2095823211 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2024.12.01-14.37.50:559][ 42]LogActor: Warning: Cloud3_C /Game/Maps/UEDPIE_0_TestMap1.TestMap1:PersistentLevel.Cloud3_C_148_GEN_VARIABLE_Cloud3_C_CAT_2095823212 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2024.12.01-14.37.50:560][ 42]LogActor: Warning: Gasoline_C /Game/Maps/UEDPIE_0_TestMap1.TestMap1:PersistentLevel.Gasoline_C_42_GEN_VARIABLE_Gasoline_C_CAT_2095826219 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2024.12.01-14.37.50:560][ 42]LogActor: Warning: Gasoline_C /Game/Maps/UEDPIE_0_TestMap1.TestMap1:PersistentLevel.Gasoline_C_43_GEN_VARIABLE_Gasoline_C_CAT_2095826220 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2024.12.01-14.37.50:561][ 42]LogActor: Warning: Gasoline_C /Game/Maps/UEDPIE_0_TestMap1.TestMap1:PersistentLevel.Gasoline_C_44_GEN_VARIABLE_Gasoline_C_CAT_2095826221 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2024.12.01-14.37.50:567][ 42]LogBlueprintUserMessages: [Tile_10_C_1] Hello
+[2024.12.01-14.37.52:569][162]LogActor: Warning: Gasoline_C /Game/Maps/UEDPIE_0_TestMap1.TestMap1:PersistentLevel.Gasoline_C_177_GEN_VARIABLE_Gasoline_C_CAT_2095826224 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2024.12.01-14.37.52:569][162]LogActor: Warning: Cloud1_C /Game/Maps/UEDPIE_0_TestMap1.TestMap1:PersistentLevel.Cloud1_C_325_GEN_VARIABLE_Cloud1_C_CAT_2095815227 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2024.12.01-14.37.52:570][162]LogActor: Warning: Cloud2_C /Game/Maps/UEDPIE_0_TestMap1.TestMap1:PersistentLevel.Cloud2_C_165_GEN_VARIABLE_Cloud2_C_CAT_2095817194 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2024.12.01-14.37.52:571][162]LogActor: Warning: Cloud2_C /Game/Maps/UEDPIE_0_TestMap1.TestMap1:PersistentLevel.Cloud2_C_166_GEN_VARIABLE_Cloud2_C_CAT_2095817195 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2024.12.01-14.37.52:572][162]LogActor: Warning: Cloud2_C /Game/Maps/UEDPIE_0_TestMap1.TestMap1:PersistentLevel.Cloud2_C_167_GEN_VARIABLE_Cloud2_C_CAT_2095817196 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2024.12.01-14.37.52:573][162]LogActor: Warning: Cloud3_C /Game/Maps/UEDPIE_0_TestMap1.TestMap1:PersistentLevel.Cloud3_C_269_GEN_VARIABLE_Cloud3_C_CAT_2095823217 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2024.12.01-14.37.52:574][162]LogActor: Warning: Cloud3_C /Game/Maps/UEDPIE_0_TestMap1.TestMap1:PersistentLevel.Cloud3_C_270_GEN_VARIABLE_Cloud3_C_CAT_2095823218 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2024.12.01-14.37.52:575][162]LogActor: Warning: Cloud3_C /Game/Maps/UEDPIE_0_TestMap1.TestMap1:PersistentLevel.Cloud3_C_271_GEN_VARIABLE_Cloud3_C_CAT_2095823219 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2024.12.01-14.37.52:576][162]LogActor: Warning: Cloud3_C /Game/Maps/UEDPIE_0_TestMap1.TestMap1:PersistentLevel.Cloud3_C_273_GEN_VARIABLE_Cloud3_C_CAT_2095823220 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2024.12.01-14.37.52:577][162]LogActor: Warning: Gasoline_C /Game/Maps/UEDPIE_0_TestMap1.TestMap1:PersistentLevel.Gasoline_C_176_GEN_VARIABLE_Gasoline_C_CAT_2095826225 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2024.12.01-14.37.52:577][162]LogActor: Warning: Gasoline_C /Game/Maps/UEDPIE_0_TestMap1.TestMap1:PersistentLevel.Gasoline_C_178_GEN_VARIABLE_Gasoline_C_CAT_2095826226 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2024.12.01-14.37.52:582][162]LogBlueprintUserMessages: [Magnet_C_3] Detected
+[2024.12.01-14.37.52:583][162]LogBlueprintUserMessages: [Tile_04_C_1] Hello
+[2024.12.01-14.37.54:569][281]LogActor: Warning: Cloud1_C /Game/Maps/UEDPIE_0_TestMap1.TestMap1:PersistentLevel.Cloud1_C_248_GEN_VARIABLE_Cloud1_C_CAT_2095815233 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2024.12.01-14.37.54:570][281]LogActor: Warning: Cloud1_C /Game/Maps/UEDPIE_0_TestMap1.TestMap1:PersistentLevel.Cloud1_C_249_GEN_VARIABLE_Cloud1_C_CAT_2095815234 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2024.12.01-14.37.54:571][281]LogActor: Warning: Cloud1_C /Game/Maps/UEDPIE_0_TestMap1.TestMap1:PersistentLevel.Cloud1_C_250_GEN_VARIABLE_Cloud1_C_CAT_2095815235 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2024.12.01-14.37.54:572][281]LogActor: Warning: Cloud2_C /Game/Maps/UEDPIE_0_TestMap1.TestMap1:PersistentLevel.Cloud2_C_95_GEN_VARIABLE_Cloud2_C_CAT_2095817199 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2024.12.01-14.37.54:572][281]LogActor: Warning: Cloud2_C /Game/Maps/UEDPIE_0_TestMap1.TestMap1:PersistentLevel.Cloud2_C_96_GEN_VARIABLE_Cloud2_C_CAT_2095817200 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2024.12.01-14.37.54:573][281]LogActor: Warning: Cloud2_C /Game/Maps/UEDPIE_0_TestMap1.TestMap1:PersistentLevel.Cloud2_C_97_GEN_VARIABLE_Cloud2_C_CAT_2095817201 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2024.12.01-14.37.54:574][281]LogActor: Warning: Cloud3_C /Game/Maps/UEDPIE_0_TestMap1.TestMap1:PersistentLevel.Cloud3_C_220_GEN_VARIABLE_Cloud3_C_CAT_2095823221 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2024.12.01-14.37.54:575][281]LogActor: Warning: Gasoline_C /Game/Maps/UEDPIE_0_TestMap1.TestMap1:PersistentLevel.Gasoline_C_52_GEN_VARIABLE_Gasoline_C_CAT_2095826231 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2024.12.01-14.37.54:576][281]LogActor: Warning: Gasoline_C /Game/Maps/UEDPIE_0_TestMap1.TestMap1:PersistentLevel.Gasoline_C_53_GEN_VARIABLE_Gasoline_C_CAT_2095826232 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2024.12.01-14.37.54:577][281]LogActor: Warning: Gasoline_C /Game/Maps/UEDPIE_0_TestMap1.TestMap1:PersistentLevel.Gasoline_C_54_GEN_VARIABLE_Gasoline_C_CAT_2095826233 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2024.12.01-14.37.54:579][281]LogBlueprintUserMessages: [Tile_08_C_1] Hello
+[2024.12.01-14.37.55:580][341]LogBlueprintUserMessages: [Magnet_C_3] Detected
+[2024.12.01-14.37.56:148][372]LogBlueprintUserMessages: [Magnet_C_3] Detected
+[2024.12.01-14.37.56:566][397]LogActor: Warning: Cloud1_C /Game/Maps/UEDPIE_0_TestMap1.TestMap1:PersistentLevel.Cloud1_C_120_GEN_VARIABLE_Cloud1_C_CAT_2095815242 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2024.12.01-14.37.56:567][397]LogActor: Warning: Cloud1_C /Game/Maps/UEDPIE_0_TestMap1.TestMap1:PersistentLevel.Cloud1_C_121_GEN_VARIABLE_Cloud1_C_CAT_2095815243 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2024.12.01-14.37.56:568][397]LogActor: Warning: Cloud1_C /Game/Maps/UEDPIE_0_TestMap1.TestMap1:PersistentLevel.Cloud1_C_122_GEN_VARIABLE_Cloud1_C_CAT_2095815244 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2024.12.01-14.37.56:569][397]LogActor: Warning: Cloud1_C /Game/Maps/UEDPIE_0_TestMap1.TestMap1:PersistentLevel.Cloud1_C_123_GEN_VARIABLE_Cloud1_C_CAT_2095815245 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2024.12.01-14.37.56:570][397]LogActor: Warning: Cloud1_C /Game/Maps/UEDPIE_0_TestMap1.TestMap1:PersistentLevel.Cloud1_C_124_GEN_VARIABLE_Cloud1_C_CAT_2095815246 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2024.12.01-14.37.56:570][397]LogActor: Warning: Cloud1_C /Game/Maps/UEDPIE_0_TestMap1.TestMap1:PersistentLevel.Cloud1_C_125_GEN_VARIABLE_Cloud1_C_CAT_2095815247 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2024.12.01-14.37.56:571][397]LogActor: Warning: Cloud1_C /Game/Maps/UEDPIE_0_TestMap1.TestMap1:PersistentLevel.Cloud1_C_126_GEN_VARIABLE_Cloud1_C_CAT_2095815248 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2024.12.01-14.37.56:572][397]LogActor: Warning: Cloud2_C /Game/Maps/UEDPIE_0_TestMap1.TestMap1:PersistentLevel.Cloud2_C_22_GEN_VARIABLE_Cloud2_C_CAT_2095817204 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2024.12.01-14.37.56:573][397]LogActor: Warning: Cloud2_C /Game/Maps/UEDPIE_0_TestMap1.TestMap1:PersistentLevel.Cloud2_C_23_GEN_VARIABLE_Cloud2_C_CAT_2095817205 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2024.12.01-14.37.56:574][397]LogActor: Warning: Cloud2_C /Game/Maps/UEDPIE_0_TestMap1.TestMap1:PersistentLevel.Cloud2_C_24_GEN_VARIABLE_Cloud2_C_CAT_2095817206 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2024.12.01-14.37.56:575][397]LogActor: Warning: Cloud3_C /Game/Maps/UEDPIE_0_TestMap1.TestMap1:PersistentLevel.Cloud3_C_80_GEN_VARIABLE_Cloud3_C_CAT_2095823225 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2024.12.01-14.37.56:576][397]LogActor: Warning: Gasoline_C /Game/Maps/UEDPIE_0_TestMap1.TestMap1:PersistentLevel.Gasoline_C_36_GEN_VARIABLE_Gasoline_C_CAT_2095826237 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2024.12.01-14.37.56:576][397]LogActor: Warning: Gasoline_C /Game/Maps/UEDPIE_0_TestMap1.TestMap1:PersistentLevel.Gasoline_C_37_GEN_VARIABLE_Gasoline_C_CAT_2095826238 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2024.12.01-14.37.56:577][397]LogActor: Warning: Gasoline_C /Game/Maps/UEDPIE_0_TestMap1.TestMap1:PersistentLevel.Gasoline_C_38_GEN_VARIABLE_Gasoline_C_CAT_2095826239 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2024.12.01-14.37.56:581][397]LogBlueprintUserMessages: [Tile_07_C_0] Hello
+[2024.12.01-14.37.56:581][397]LogBlueprintUserMessages: [Magnet_C_3] Detected
+[2024.12.01-14.37.57:264][438]LogBlueprintUserMessages: [Magnet_C_3] Detected
+[2024.12.01-14.37.57:963][480]LogBlueprintUserMessages: [Magnet_C_3] Detected
+[2024.12.01-14.37.58:948][539]LogActor: Warning: Cloud1_C /Game/Maps/UEDPIE_0_TestMap1.TestMap1:PersistentLevel.Cloud1_C_130_GEN_VARIABLE_Cloud1_C_CAT_2095815250 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2024.12.01-14.37.58:949][539]LogActor: Warning: Cloud1_C /Game/Maps/UEDPIE_0_TestMap1.TestMap1:PersistentLevel.Cloud1_C_131_GEN_VARIABLE_Cloud1_C_CAT_2095815251 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2024.12.01-14.37.58:950][539]LogActor: Warning: Cloud2_C /Game/Maps/UEDPIE_0_TestMap1.TestMap1:PersistentLevel.Cloud2_C_39_GEN_VARIABLE_Cloud2_C_CAT_2095817210 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2024.12.01-14.37.58:951][539]LogActor: Warning: Cloud3_C /Game/Maps/UEDPIE_0_TestMap1.TestMap1:PersistentLevel.Cloud3_C_125_GEN_VARIABLE_Cloud3_C_CAT_2095823231 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2024.12.01-14.37.58:952][539]LogActor: Warning: Cloud3_C /Game/Maps/UEDPIE_0_TestMap1.TestMap1:PersistentLevel.Cloud3_C_127_GEN_VARIABLE_Cloud3_C_CAT_2095823232 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2024.12.01-14.37.58:953][539]LogActor: Warning: Cloud3_C /Game/Maps/UEDPIE_0_TestMap1.TestMap1:PersistentLevel.Cloud3_C_129_GEN_VARIABLE_Cloud3_C_CAT_2095823233 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2024.12.01-14.37.58:954][539]LogActor: Warning: Cloud3_C /Game/Maps/UEDPIE_0_TestMap1.TestMap1:PersistentLevel.Cloud3_C_142_GEN_VARIABLE_Cloud3_C_CAT_2095823234 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2024.12.01-14.37.58:955][539]LogActor: Warning: Gasoline_C /Game/Maps/UEDPIE_0_TestMap1.TestMap1:PersistentLevel.Gasoline_C_51_GEN_VARIABLE_Gasoline_C_CAT_2095826242 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2024.12.01-14.37.58:956][539]LogActor: Warning: Gasoline_C /Game/Maps/UEDPIE_0_TestMap1.TestMap1:PersistentLevel.Gasoline_C_52_GEN_VARIABLE_Gasoline_C_CAT_2095826243 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2024.12.01-14.37.58:956][539]LogActor: Warning: Gasoline_C /Game/Maps/UEDPIE_0_TestMap1.TestMap1:PersistentLevel.Gasoline_C_53_GEN_VARIABLE_Gasoline_C_CAT_2095826244 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2024.12.01-14.37.58:958][539]LogBlueprintUserMessages: [Magnet_C_4] Detected
+[2024.12.01-14.37.58:959][539]LogBlueprintUserMessages: [Tile_03_C_2] Hello
+[2024.12.01-14.37.59:425][567]LogBlueprintUserMessages: [Magnet_C_3] Detected
+[2024.12.01-14.37.59:442][568]LogBlueprintUserMessages: [Magnet_C_3] Detected
+[2024.12.01-14.38.01:206][672]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.12.01-14.38.01:206][672]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_TestMap1
+[2024.12.01-14.38.01:208][672]LogWorld: UWorld::CleanupWorld for TestMap1, bSessionEnded=true, bCleanupResources=true
+[2024.12.01-14.38.01:211][672]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.12.01-14.38.01:212][672]LogContentBundle: [TestMap1(Standalone)] Deleting container.
+[2024.12.01-14.38.01:216][672]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.12.01-14.38.01:221][672]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.12.01-14.38.01:237][672]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.12.01-14.38.01:239][672]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 14
+[2024.12.01-14.38.01:239][672]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=14
+[2024.12.01-14.38.01:240][672]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=14
+[2024.12.01-14.38.01:245][672]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.12.01-14.38.01:254][672]LogUObjectHash: Compacting FUObjectHashTables data took   1.46ms
+[2024.12.01-14.38.01:303][673]LogPlayLevel: Display: Destroying online subsystem :Context_32
+[2024.12.01-14.38.05:766][934]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.12.01-14.38.05:852][934]LogUObjectHash: Compacting FUObjectHashTables data took   1.36ms
+[2024.12.01-14.38.05:869][934]LogUObjectHash: Compacting FUObjectHashTables data took   0.54ms
+[2024.12.01-14.38.05:883][934]LogUObjectHash: Compacting FUObjectHashTables data took   0.64ms
+[2024.12.01-14.38.05:894][934]LogFileHelpers: InternalPromptForCheckoutAndSave took 128 ms (total: 2.16 sec)
+[2024.12.01-14.38.18:863][640]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Obstacles/Birds/Bird.Bird
+[2024.12.01-14.38.18:863][640]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.12.01-14.38.18:863][640]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.12.01-14.38.25:817][ 21]LogActor: Warning: Cloud1_C /Engine/Transient.World_6:PersistentLevel.Cloud1_C_137_GEN_VARIABLE_Cloud1_C_CAT_28 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2024.12.01-14.38.25:817][ 21]LogActor: Warning: Cloud2_C /Engine/Transient.World_6:PersistentLevel.Cloud2_C_47_GEN_VARIABLE_Cloud2_C_CAT_28 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2024.12.01-14.38.25:818][ 21]LogActor: Warning: Cloud3_C /Engine/Transient.World_6:PersistentLevel.Cloud3_C_139_GEN_VARIABLE_Cloud3_C_CAT_56 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2024.12.01-14.38.25:819][ 21]LogActor: Warning: Cloud3_C /Engine/Transient.World_6:PersistentLevel.Cloud3_C_143_GEN_VARIABLE_Cloud3_C_CAT_57 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2024.12.01-14.38.25:820][ 21]LogActor: Warning: Gasoline_C /Engine/Transient.World_6:PersistentLevel.Gasoline_C_64_GEN_VARIABLE_Gasoline_C_CAT_84 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2024.12.01-14.38.25:820][ 21]LogActor: Warning: Gasoline_C /Engine/Transient.World_6:PersistentLevel.Gasoline_C_65_GEN_VARIABLE_Gasoline_C_CAT_85 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2024.12.01-14.38.25:821][ 21]LogActor: Warning: Gasoline_C /Engine/Transient.World_6:PersistentLevel.Gasoline_C_66_GEN_VARIABLE_Gasoline_C_CAT_86 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2024.12.01-14.38.25:823][ 21]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_6:PersistentLevel.DESTROYED_Cloud1_C_CHILDACTOR_27.DefaultSceneRoot) Trying to register component with IsValid() == false. Aborting.
+[2024.12.01-14.38.25:826][ 21]LogActor: Warning: Cloud1_C /Engine/Transient.World_5:PersistentLevel.Cloud1_C_137_GEN_VARIABLE_Cloud1_C_CAT_28 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2024.12.01-14.38.25:827][ 21]LogActor: Warning: Cloud2_C /Engine/Transient.World_5:PersistentLevel.Cloud2_C_47_GEN_VARIABLE_Cloud2_C_CAT_28 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2024.12.01-14.38.25:827][ 21]LogActor: Warning: Cloud3_C /Engine/Transient.World_5:PersistentLevel.Cloud3_C_139_GEN_VARIABLE_Cloud3_C_CAT_56 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2024.12.01-14.38.25:828][ 21]LogActor: Warning: Cloud3_C /Engine/Transient.World_5:PersistentLevel.Cloud3_C_143_GEN_VARIABLE_Cloud3_C_CAT_57 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2024.12.01-14.38.25:829][ 21]LogActor: Warning: Gasoline_C /Engine/Transient.World_5:PersistentLevel.Gasoline_C_64_GEN_VARIABLE_Gasoline_C_CAT_84 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2024.12.01-14.38.25:830][ 21]LogActor: Warning: Gasoline_C /Engine/Transient.World_5:PersistentLevel.Gasoline_C_65_GEN_VARIABLE_Gasoline_C_CAT_85 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2024.12.01-14.38.25:830][ 21]LogActor: Warning: Gasoline_C /Engine/Transient.World_5:PersistentLevel.Gasoline_C_66_GEN_VARIABLE_Gasoline_C_CAT_86 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2024.12.01-14.38.25:835][ 21]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_5:PersistentLevel.DESTROYED_Cloud1_C_CHILDACTOR_27.DefaultSceneRoot) Trying to register component with IsValid() == false. Aborting.
+[2024.12.01-14.38.25:837][ 21]LogActor: Warning: Cloud1_C /Engine/Transient.World_10:PersistentLevel.Cloud1_C_130_GEN_VARIABLE_Cloud1_C_CAT_4 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2024.12.01-14.38.25:838][ 21]LogActor: Warning: Cloud1_C /Engine/Transient.World_10:PersistentLevel.Cloud1_C_131_GEN_VARIABLE_Cloud1_C_CAT_5 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2024.12.01-14.38.25:839][ 21]LogActor: Warning: Cloud2_C /Engine/Transient.World_10:PersistentLevel.Cloud2_C_39_GEN_VARIABLE_Cloud2_C_CAT_2 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2024.12.01-14.38.25:840][ 21]LogActor: Warning: Cloud3_C /Engine/Transient.World_10:PersistentLevel.Cloud3_C_125_GEN_VARIABLE_Cloud3_C_CAT_8 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2024.12.01-14.38.25:841][ 21]LogActor: Warning: Cloud3_C /Engine/Transient.World_10:PersistentLevel.Cloud3_C_127_GEN_VARIABLE_Cloud3_C_CAT_9 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2024.12.01-14.38.25:842][ 21]LogActor: Warning: Cloud3_C /Engine/Transient.World_10:PersistentLevel.Cloud3_C_129_GEN_VARIABLE_Cloud3_C_CAT_10 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2024.12.01-14.38.25:843][ 21]LogActor: Warning: Cloud3_C /Engine/Transient.World_10:PersistentLevel.Cloud3_C_142_GEN_VARIABLE_Cloud3_C_CAT_11 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2024.12.01-14.38.25:843][ 21]LogActor: Warning: Gasoline_C /Engine/Transient.World_10:PersistentLevel.Gasoline_C_51_GEN_VARIABLE_Gasoline_C_CAT_6 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2024.12.01-14.38.25:844][ 21]LogActor: Warning: Gasoline_C /Engine/Transient.World_10:PersistentLevel.Gasoline_C_52_GEN_VARIABLE_Gasoline_C_CAT_7 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2024.12.01-14.38.25:844][ 21]LogActor: Warning: Gasoline_C /Engine/Transient.World_10:PersistentLevel.Gasoline_C_53_GEN_VARIABLE_Gasoline_C_CAT_8 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2024.12.01-14.38.25:846][ 21]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_10:PersistentLevel.DESTROYED_Cloud1_C_CHILDACTOR_3.DefaultSceneRoot) Trying to register component with IsValid() == false. Aborting.
+[2024.12.01-14.38.25:846][ 21]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_10:PersistentLevel.DESTROYED_Cloud1_C_CHILDACTOR_2.DefaultSceneRoot) Trying to register component with IsValid() == false. Aborting.
+[2024.12.01-14.38.25:849][ 21]LogActor: Warning: Cloud1_C /Game/Maps/TestMap1.TestMap1:PersistentLevel.Cloud1_C_130_GEN_VARIABLE_Cloud1_C_CAT_UAID_E4A8DFC8C64E9B3402_1810092530 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2024.12.01-14.38.25:850][ 21]LogActor: Warning: Cloud1_C /Game/Maps/TestMap1.TestMap1:PersistentLevel.Cloud1_C_131_GEN_VARIABLE_Cloud1_C_CAT_UAID_E4A8DFC8C64E9B3402_1810093531 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2024.12.01-14.38.25:851][ 21]LogActor: Warning: Cloud2_C /Game/Maps/TestMap1.TestMap1:PersistentLevel.Cloud2_C_39_GEN_VARIABLE_Cloud2_C_CAT_UAID_E4A8DFC8C64E9B3402_1810094532 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2024.12.01-14.38.25:852][ 21]LogActor: Warning: Cloud3_C /Game/Maps/TestMap1.TestMap1:PersistentLevel.Cloud3_C_125_GEN_VARIABLE_Cloud3_C_CAT_UAID_E4A8DFC8C64E9B3402_1810095533 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2024.12.01-14.38.25:853][ 21]LogActor: Warning: Cloud3_C /Game/Maps/TestMap1.TestMap1:PersistentLevel.Cloud3_C_127_GEN_VARIABLE_Cloud3_C_CAT_UAID_E4A8DFC8C64E9B3402_1810096534 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2024.12.01-14.38.25:854][ 21]LogActor: Warning: Cloud3_C /Game/Maps/TestMap1.TestMap1:PersistentLevel.Cloud3_C_129_GEN_VARIABLE_Cloud3_C_CAT_UAID_E4A8DFC8C64E9B3402_1810097535 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2024.12.01-14.38.25:855][ 21]LogActor: Warning: Cloud3_C /Game/Maps/TestMap1.TestMap1:PersistentLevel.Cloud3_C_142_GEN_VARIABLE_Cloud3_C_CAT_UAID_E4A8DFC8C64E9B3402_1810098536 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2024.12.01-14.38.25:856][ 21]LogActor: Warning: Gasoline_C /Game/Maps/TestMap1.TestMap1:PersistentLevel.Gasoline_C_51_GEN_VARIABLE_Gasoline_C_CAT_UAID_E4A8DFC8C64E9B3402_1810099537 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2024.12.01-14.38.25:857][ 21]LogActor: Warning: Gasoline_C /Game/Maps/TestMap1.TestMap1:PersistentLevel.Gasoline_C_52_GEN_VARIABLE_Gasoline_C_CAT_UAID_E4A8DFC8C64E9B3402_1810100538 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2024.12.01-14.38.25:857][ 21]LogActor: Warning: Gasoline_C /Game/Maps/TestMap1.TestMap1:PersistentLevel.Gasoline_C_53_GEN_VARIABLE_Gasoline_C_CAT_UAID_E4A8DFC8C64E9B3402_1810100539 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2024.12.01-14.38.25:862][ 21]LogActorComponent: RegisterComponentWithWorld: (/Game/Maps/TestMap1.TestMap1:PersistentLevel.DESTROYED_Cloud1_C_CHILDACTOR_2095815183.DefaultSceneRoot) Trying to register component with IsValid() == false. Aborting.
+[2024.12.01-14.38.25:865][ 21]LogActor: Warning: Cloud1_C /Game/Maps/TestMap1.TestMap1:PersistentLevel.Cloud1_C_137_GEN_VARIABLE_Cloud1_C_CAT_UAID_E4A8DFC8C64E9B3402_1810107542 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2024.12.01-14.38.25:866][ 21]LogActor: Warning: Cloud2_C /Game/Maps/TestMap1.TestMap1:PersistentLevel.Cloud2_C_47_GEN_VARIABLE_Cloud2_C_CAT_UAID_E4A8DFC8C64E9B3402_1810108543 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2024.12.01-14.38.25:867][ 21]LogActor: Warning: Cloud3_C /Game/Maps/TestMap1.TestMap1:PersistentLevel.Cloud3_C_139_GEN_VARIABLE_Cloud3_C_CAT_UAID_E4A8DFC8C64E9B3402_1810109544 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2024.12.01-14.38.25:868][ 21]LogActor: Warning: Cloud3_C /Game/Maps/TestMap1.TestMap1:PersistentLevel.Cloud3_C_143_GEN_VARIABLE_Cloud3_C_CAT_UAID_E4A8DFC8C64E9B3402_1810110545 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2024.12.01-14.38.25:869][ 21]LogActor: Warning: Gasoline_C /Game/Maps/TestMap1.TestMap1:PersistentLevel.Gasoline_C_64_GEN_VARIABLE_Gasoline_C_CAT_UAID_E4A8DFC8C64E9B3402_1810111546 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2024.12.01-14.38.25:869][ 21]LogActor: Warning: Gasoline_C /Game/Maps/TestMap1.TestMap1:PersistentLevel.Gasoline_C_65_GEN_VARIABLE_Gasoline_C_CAT_UAID_E4A8DFC8C64E9B3402_1810112547 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2024.12.01-14.38.25:870][ 21]LogActor: Warning: Gasoline_C /Game/Maps/TestMap1.TestMap1:PersistentLevel.Gasoline_C_66_GEN_VARIABLE_Gasoline_C_CAT_UAID_E4A8DFC8C64E9B3402_1810113548 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2024.12.01-14.38.25:875][ 21]LogActorComponent: RegisterComponentWithWorld: (/Game/Maps/TestMap1.TestMap1:PersistentLevel.DESTROYED_Cloud1_C_CHILDACTOR_2095815184.DefaultSceneRoot) Trying to register component with IsValid() == false. Aborting.
+[2024.12.01-14.38.25:875][ 21]LogActorComponent: RegisterComponentWithWorld: (/Game/Maps/TestMap1.TestMap1:PersistentLevel.DESTROYED_Cloud1_C_CHILDACTOR_2095815182.DefaultSceneRoot) Trying to register component with IsValid() == false. Aborting.
+[2024.12.01-14.38.25:876][ 21]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_6:PersistentLevel.DESTROYED_Cloud1_C_CHILDACTOR_27.DefaultSceneRoot) Trying to register component with IsValid() == false. Aborting.
+[2024.12.01-14.38.25:876][ 21]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_5:PersistentLevel.DESTROYED_Cloud1_C_CHILDACTOR_27.DefaultSceneRoot) Trying to register component with IsValid() == false. Aborting.
+[2024.12.01-14.38.25:876][ 21]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_10:PersistentLevel.DESTROYED_Cloud1_C_CHILDACTOR_3.DefaultSceneRoot) Trying to register component with IsValid() == false. Aborting.
+[2024.12.01-14.38.25:876][ 21]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_10:PersistentLevel.DESTROYED_Cloud1_C_CHILDACTOR_2.DefaultSceneRoot) Trying to register component with IsValid() == false. Aborting.
+[2024.12.01-14.38.25:876][ 21]LogActorComponent: RegisterComponentWithWorld: (/Game/Maps/TestMap1.TestMap1:PersistentLevel.DESTROYED_Cloud1_C_CHILDACTOR_2095815183.DefaultSceneRoot) Trying to register component with IsValid() == false. Aborting.
+[2024.12.01-14.38.25:876][ 21]LogActorComponent: RegisterComponentWithWorld: (/Game/Maps/TestMap1.TestMap1:PersistentLevel.DESTROYED_Cloud1_C_CHILDACTOR_2095815184.DefaultSceneRoot) Trying to register component with IsValid() == false. Aborting.
+[2024.12.01-14.38.25:876][ 21]LogActorComponent: RegisterComponentWithWorld: (/Game/Maps/TestMap1.TestMap1:PersistentLevel.DESTROYED_Cloud1_C_CHILDACTOR_2095815182.DefaultSceneRoot) Trying to register component with IsValid() == false. Aborting.
+[2024.12.01-14.38.25:879][ 21]LogActor: Warning: Cloud1_C /Engine/Transient.World_6:PersistentLevel.Cloud1_C_137_GEN_VARIABLE_Cloud1_C_CAT_30 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2024.12.01-14.38.25:880][ 21]LogActor: Warning: Cloud2_C /Engine/Transient.World_6:PersistentLevel.Cloud2_C_47_GEN_VARIABLE_Cloud2_C_CAT_30 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2024.12.01-14.38.25:880][ 21]LogActor: Warning: Cloud3_C /Engine/Transient.World_6:PersistentLevel.Cloud3_C_139_GEN_VARIABLE_Cloud3_C_CAT_60 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2024.12.01-14.38.25:881][ 21]LogActor: Warning: Cloud3_C /Engine/Transient.World_6:PersistentLevel.Cloud3_C_143_GEN_VARIABLE_Cloud3_C_CAT_61 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2024.12.01-14.38.25:882][ 21]LogActor: Warning: Gasoline_C /Engine/Transient.World_6:PersistentLevel.Gasoline_C_64_GEN_VARIABLE_Gasoline_C_CAT_90 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2024.12.01-14.38.25:882][ 21]LogActor: Warning: Gasoline_C /Engine/Transient.World_6:PersistentLevel.Gasoline_C_65_GEN_VARIABLE_Gasoline_C_CAT_91 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2024.12.01-14.38.25:883][ 21]LogActor: Warning: Gasoline_C /Engine/Transient.World_6:PersistentLevel.Gasoline_C_66_GEN_VARIABLE_Gasoline_C_CAT_92 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2024.12.01-14.38.25:886][ 21]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_6:PersistentLevel.DESTROYED_Cloud2_C_CHILDACTOR_29.DefaultSceneRoot) Trying to register component with IsValid() == false. Aborting.
+[2024.12.01-14.38.25:888][ 21]LogActor: Warning: Cloud1_C /Engine/Transient.World_5:PersistentLevel.Cloud1_C_137_GEN_VARIABLE_Cloud1_C_CAT_30 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2024.12.01-14.38.25:889][ 21]LogActor: Warning: Cloud2_C /Engine/Transient.World_5:PersistentLevel.Cloud2_C_47_GEN_VARIABLE_Cloud2_C_CAT_30 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2024.12.01-14.38.25:890][ 21]LogActor: Warning: Cloud3_C /Engine/Transient.World_5:PersistentLevel.Cloud3_C_139_GEN_VARIABLE_Cloud3_C_CAT_60 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2024.12.01-14.38.25:891][ 21]LogActor: Warning: Cloud3_C /Engine/Transient.World_5:PersistentLevel.Cloud3_C_143_GEN_VARIABLE_Cloud3_C_CAT_61 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2024.12.01-14.38.25:891][ 21]LogActor: Warning: Gasoline_C /Engine/Transient.World_5:PersistentLevel.Gasoline_C_64_GEN_VARIABLE_Gasoline_C_CAT_90 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2024.12.01-14.38.25:892][ 21]LogActor: Warning: Gasoline_C /Engine/Transient.World_5:PersistentLevel.Gasoline_C_65_GEN_VARIABLE_Gasoline_C_CAT_91 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2024.12.01-14.38.25:892][ 21]LogActor: Warning: Gasoline_C /Engine/Transient.World_5:PersistentLevel.Gasoline_C_66_GEN_VARIABLE_Gasoline_C_CAT_92 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2024.12.01-14.38.25:897][ 21]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_5:PersistentLevel.DESTROYED_Cloud2_C_CHILDACTOR_29.DefaultSceneRoot) Trying to register component with IsValid() == false. Aborting.
+[2024.12.01-14.38.25:899][ 21]LogActor: Warning: Cloud1_C /Engine/Transient.World_10:PersistentLevel.Cloud1_C_130_GEN_VARIABLE_Cloud1_C_CAT_8 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2024.12.01-14.38.25:900][ 21]LogActor: Warning: Cloud1_C /Engine/Transient.World_10:PersistentLevel.Cloud1_C_131_GEN_VARIABLE_Cloud1_C_CAT_9 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2024.12.01-14.38.25:901][ 21]LogActor: Warning: Cloud2_C /Engine/Transient.World_10:PersistentLevel.Cloud2_C_39_GEN_VARIABLE_Cloud2_C_CAT_4 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2024.12.01-14.38.25:901][ 21]LogActor: Warning: Cloud3_C /Engine/Transient.World_10:PersistentLevel.Cloud3_C_125_GEN_VARIABLE_Cloud3_C_CAT_16 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2024.12.01-14.38.25:902][ 21]LogActor: Warning: Cloud3_C /Engine/Transient.World_10:PersistentLevel.Cloud3_C_127_GEN_VARIABLE_Cloud3_C_CAT_17 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2024.12.01-14.38.25:903][ 21]LogActor: Warning: Cloud3_C /Engine/Transient.World_10:PersistentLevel.Cloud3_C_129_GEN_VARIABLE_Cloud3_C_CAT_18 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2024.12.01-14.38.25:904][ 21]LogActor: Warning: Cloud3_C /Engine/Transient.World_10:PersistentLevel.Cloud3_C_142_GEN_VARIABLE_Cloud3_C_CAT_19 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2024.12.01-14.38.25:905][ 21]LogActor: Warning: Gasoline_C /Engine/Transient.World_10:PersistentLevel.Gasoline_C_51_GEN_VARIABLE_Gasoline_C_CAT_12 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2024.12.01-14.38.25:905][ 21]LogActor: Warning: Gasoline_C /Engine/Transient.World_10:PersistentLevel.Gasoline_C_52_GEN_VARIABLE_Gasoline_C_CAT_13 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2024.12.01-14.38.25:906][ 21]LogActor: Warning: Gasoline_C /Engine/Transient.World_10:PersistentLevel.Gasoline_C_53_GEN_VARIABLE_Gasoline_C_CAT_14 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2024.12.01-14.38.25:907][ 21]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_10:PersistentLevel.DESTROYED_Cloud2_C_CHILDACTOR_3.DefaultSceneRoot) Trying to register component with IsValid() == false. Aborting.
+[2024.12.01-14.38.25:910][ 21]LogActor: Warning: Cloud1_C /Game/Maps/TestMap1.TestMap1:PersistentLevel.Cloud1_C_130_GEN_VARIABLE_Cloud1_C_CAT_UAID_E4A8DFC8C64E9B3402_1810153554 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2024.12.01-14.38.25:911][ 21]LogActor: Warning: Cloud1_C /Game/Maps/TestMap1.TestMap1:PersistentLevel.Cloud1_C_131_GEN_VARIABLE_Cloud1_C_CAT_UAID_E4A8DFC8C64E9B3402_1810154555 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2024.12.01-14.38.25:912][ 21]LogActor: Warning: Cloud2_C /Game/Maps/TestMap1.TestMap1:PersistentLevel.Cloud2_C_39_GEN_VARIABLE_Cloud2_C_CAT_UAID_E4A8DFC8C64E9B3402_1810155556 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2024.12.01-14.38.25:914][ 21]LogActor: Warning: Cloud3_C /Game/Maps/TestMap1.TestMap1:PersistentLevel.Cloud3_C_125_GEN_VARIABLE_Cloud3_C_CAT_UAID_E4A8DFC8C64E9B3402_1810156557 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2024.12.01-14.38.25:915][ 21]LogActor: Warning: Cloud3_C /Game/Maps/TestMap1.TestMap1:PersistentLevel.Cloud3_C_127_GEN_VARIABLE_Cloud3_C_CAT_UAID_E4A8DFC8C64E9B3402_1810157558 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2024.12.01-14.38.25:916][ 21]LogActor: Warning: Cloud3_C /Game/Maps/TestMap1.TestMap1:PersistentLevel.Cloud3_C_129_GEN_VARIABLE_Cloud3_C_CAT_UAID_E4A8DFC8C64E9B3402_1810158559 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2024.12.01-14.38.25:917][ 21]LogActor: Warning: Cloud3_C /Game/Maps/TestMap1.TestMap1:PersistentLevel.Cloud3_C_142_GEN_VARIABLE_Cloud3_C_CAT_UAID_E4A8DFC8C64E9B3402_1810159560 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2024.12.01-14.38.25:918][ 21]LogActor: Warning: Gasoline_C /Game/Maps/TestMap1.TestMap1:PersistentLevel.Gasoline_C_51_GEN_VARIABLE_Gasoline_C_CAT_UAID_E4A8DFC8C64E9B3402_1810160561 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2024.12.01-14.38.25:918][ 21]LogActor: Warning: Gasoline_C /Game/Maps/TestMap1.TestMap1:PersistentLevel.Gasoline_C_52_GEN_VARIABLE_Gasoline_C_CAT_UAID_E4A8DFC8C64E9B3402_1810161562 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2024.12.01-14.38.25:919][ 21]LogActor: Warning: Gasoline_C /Game/Maps/TestMap1.TestMap1:PersistentLevel.Gasoline_C_53_GEN_VARIABLE_Gasoline_C_CAT_UAID_E4A8DFC8C64E9B3402_1810162563 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2024.12.01-14.38.25:923][ 21]LogActorComponent: RegisterComponentWithWorld: (/Game/Maps/TestMap1.TestMap1:PersistentLevel.DESTROYED_Cloud2_C_CHILDACTOR_2095817171.DefaultSceneRoot) Trying to register component with IsValid() == false. Aborting.
+[2024.12.01-14.38.25:926][ 21]LogActor: Warning: Cloud1_C /Game/Maps/TestMap1.TestMap1:PersistentLevel.Cloud1_C_137_GEN_VARIABLE_Cloud1_C_CAT_UAID_E4A8DFC8C64E9B3402_1810169566 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2024.12.01-14.38.25:927][ 21]LogActor: Warning: Cloud2_C /Game/Maps/TestMap1.TestMap1:PersistentLevel.Cloud2_C_47_GEN_VARIABLE_Cloud2_C_CAT_UAID_E4A8DFC8C64E9B3402_1810170567 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2024.12.01-14.38.25:928][ 21]LogActor: Warning: Cloud3_C /Game/Maps/TestMap1.TestMap1:PersistentLevel.Cloud3_C_139_GEN_VARIABLE_Cloud3_C_CAT_UAID_E4A8DFC8C64E9B3402_1810171568 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2024.12.01-14.38.25:929][ 21]LogActor: Warning: Cloud3_C /Game/Maps/TestMap1.TestMap1:PersistentLevel.Cloud3_C_143_GEN_VARIABLE_Cloud3_C_CAT_UAID_E4A8DFC8C64E9B3402_1810172569 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2024.12.01-14.38.25:930][ 21]LogActor: Warning: Gasoline_C /Game/Maps/TestMap1.TestMap1:PersistentLevel.Gasoline_C_64_GEN_VARIABLE_Gasoline_C_CAT_UAID_E4A8DFC8C64E9B3402_1810173570 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2024.12.01-14.38.25:931][ 21]LogActor: Warning: Gasoline_C /Game/Maps/TestMap1.TestMap1:PersistentLevel.Gasoline_C_65_GEN_VARIABLE_Gasoline_C_CAT_UAID_E4A8DFC8C64E9B3402_1810174571 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2024.12.01-14.38.25:931][ 21]LogActor: Warning: Gasoline_C /Game/Maps/TestMap1.TestMap1:PersistentLevel.Gasoline_C_66_GEN_VARIABLE_Gasoline_C_CAT_UAID_E4A8DFC8C64E9B3402_1810174572 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2024.12.01-14.38.25:937][ 21]LogActorComponent: RegisterComponentWithWorld: (/Game/Maps/TestMap1.TestMap1:PersistentLevel.DESTROYED_Cloud2_C_CHILDACTOR_2095817172.DefaultSceneRoot) Trying to register component with IsValid() == false. Aborting.
+[2024.12.01-14.38.25:937][ 21]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_6:PersistentLevel.DESTROYED_Cloud2_C_CHILDACTOR_27.DefaultSceneRoot) Trying to register component with IsValid() == false. Aborting.
+[2024.12.01-14.38.25:937][ 21]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_5:PersistentLevel.DESTROYED_Cloud2_C_CHILDACTOR_27.DefaultSceneRoot) Trying to register component with IsValid() == false. Aborting.
+[2024.12.01-14.38.25:937][ 21]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_10:PersistentLevel.DESTROYED_Cloud2_C_CHILDACTOR_1.DefaultSceneRoot) Trying to register component with IsValid() == false. Aborting.
+[2024.12.01-14.38.25:937][ 21]LogActorComponent: RegisterComponentWithWorld: (/Game/Maps/TestMap1.TestMap1:PersistentLevel.DESTROYED_Cloud2_C_CHILDACTOR_2095817169.DefaultSceneRoot) Trying to register component with IsValid() == false. Aborting.
+[2024.12.01-14.38.25:937][ 21]LogActorComponent: RegisterComponentWithWorld: (/Game/Maps/TestMap1.TestMap1:PersistentLevel.DESTROYED_Cloud2_C_CHILDACTOR_2095817170.DefaultSceneRoot) Trying to register component with IsValid() == false. Aborting.
+[2024.12.01-14.38.25:940][ 21]LogActor: Warning: Cloud1_C /Engine/Transient.World_6:PersistentLevel.Cloud1_C_137_GEN_VARIABLE_Cloud1_C_CAT_32 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2024.12.01-14.38.25:941][ 21]LogActor: Warning: Cloud2_C /Engine/Transient.World_6:PersistentLevel.Cloud2_C_47_GEN_VARIABLE_Cloud2_C_CAT_32 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2024.12.01-14.38.25:942][ 21]LogActor: Warning: Cloud3_C /Engine/Transient.World_6:PersistentLevel.Cloud3_C_139_GEN_VARIABLE_Cloud3_C_CAT_64 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2024.12.01-14.38.25:943][ 21]LogActor: Warning: Cloud3_C /Engine/Transient.World_6:PersistentLevel.Cloud3_C_143_GEN_VARIABLE_Cloud3_C_CAT_65 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2024.12.01-14.38.25:943][ 21]LogActor: Warning: Gasoline_C /Engine/Transient.World_6:PersistentLevel.Gasoline_C_64_GEN_VARIABLE_Gasoline_C_CAT_96 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2024.12.01-14.38.25:944][ 21]LogActor: Warning: Gasoline_C /Engine/Transient.World_6:PersistentLevel.Gasoline_C_65_GEN_VARIABLE_Gasoline_C_CAT_97 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2024.12.01-14.38.25:944][ 21]LogActor: Warning: Gasoline_C /Engine/Transient.World_6:PersistentLevel.Gasoline_C_66_GEN_VARIABLE_Gasoline_C_CAT_98 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2024.12.01-14.38.25:947][ 21]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_6:PersistentLevel.DESTROYED_Cloud3_C_CHILDACTOR_62.DefaultSceneRoot) Trying to register component with IsValid() == false. Aborting.
+[2024.12.01-14.38.25:947][ 21]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_6:PersistentLevel.DESTROYED_Cloud3_C_CHILDACTOR_63.DefaultSceneRoot) Trying to register component with IsValid() == false. Aborting.
+[2024.12.01-14.38.25:949][ 21]LogActor: Warning: Cloud1_C /Engine/Transient.World_5:PersistentLevel.Cloud1_C_137_GEN_VARIABLE_Cloud1_C_CAT_32 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2024.12.01-14.38.25:950][ 21]LogActor: Warning: Cloud2_C /Engine/Transient.World_5:PersistentLevel.Cloud2_C_47_GEN_VARIABLE_Cloud2_C_CAT_32 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2024.12.01-14.38.25:951][ 21]LogActor: Warning: Cloud3_C /Engine/Transient.World_5:PersistentLevel.Cloud3_C_139_GEN_VARIABLE_Cloud3_C_CAT_64 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2024.12.01-14.38.25:952][ 21]LogActor: Warning: Cloud3_C /Engine/Transient.World_5:PersistentLevel.Cloud3_C_143_GEN_VARIABLE_Cloud3_C_CAT_65 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2024.12.01-14.38.25:953][ 21]LogActor: Warning: Gasoline_C /Engine/Transient.World_5:PersistentLevel.Gasoline_C_64_GEN_VARIABLE_Gasoline_C_CAT_96 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2024.12.01-14.38.25:953][ 21]LogActor: Warning: Gasoline_C /Engine/Transient.World_5:PersistentLevel.Gasoline_C_65_GEN_VARIABLE_Gasoline_C_CAT_97 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2024.12.01-14.38.25:954][ 21]LogActor: Warning: Gasoline_C /Engine/Transient.World_5:PersistentLevel.Gasoline_C_66_GEN_VARIABLE_Gasoline_C_CAT_98 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2024.12.01-14.38.25:958][ 21]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_5:PersistentLevel.DESTROYED_Cloud3_C_CHILDACTOR_62.DefaultSceneRoot) Trying to register component with IsValid() == false. Aborting.
+[2024.12.01-14.38.25:958][ 21]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_5:PersistentLevel.DESTROYED_Cloud3_C_CHILDACTOR_63.DefaultSceneRoot) Trying to register component with IsValid() == false. Aborting.
+[2024.12.01-14.38.25:960][ 21]LogActor: Warning: Cloud1_C /Engine/Transient.World_10:PersistentLevel.Cloud1_C_130_GEN_VARIABLE_Cloud1_C_CAT_12 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2024.12.01-14.38.25:961][ 21]LogActor: Warning: Cloud1_C /Engine/Transient.World_10:PersistentLevel.Cloud1_C_131_GEN_VARIABLE_Cloud1_C_CAT_13 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2024.12.01-14.38.25:962][ 21]LogActor: Warning: Cloud2_C /Engine/Transient.World_10:PersistentLevel.Cloud2_C_39_GEN_VARIABLE_Cloud2_C_CAT_6 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2024.12.01-14.38.25:963][ 21]LogActor: Warning: Cloud3_C /Engine/Transient.World_10:PersistentLevel.Cloud3_C_125_GEN_VARIABLE_Cloud3_C_CAT_24 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2024.12.01-14.38.25:964][ 21]LogActor: Warning: Cloud3_C /Engine/Transient.World_10:PersistentLevel.Cloud3_C_127_GEN_VARIABLE_Cloud3_C_CAT_25 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2024.12.01-14.38.25:965][ 21]LogActor: Warning: Cloud3_C /Engine/Transient.World_10:PersistentLevel.Cloud3_C_129_GEN_VARIABLE_Cloud3_C_CAT_26 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2024.12.01-14.38.25:965][ 21]LogActor: Warning: Cloud3_C /Engine/Transient.World_10:PersistentLevel.Cloud3_C_142_GEN_VARIABLE_Cloud3_C_CAT_27 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2024.12.01-14.38.25:966][ 21]LogActor: Warning: Gasoline_C /Engine/Transient.World_10:PersistentLevel.Gasoline_C_51_GEN_VARIABLE_Gasoline_C_CAT_18 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2024.12.01-14.38.25:967][ 21]LogActor: Warning: Gasoline_C /Engine/Transient.World_10:PersistentLevel.Gasoline_C_52_GEN_VARIABLE_Gasoline_C_CAT_19 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2024.12.01-14.38.25:967][ 21]LogActor: Warning: Gasoline_C /Engine/Transient.World_10:PersistentLevel.Gasoline_C_53_GEN_VARIABLE_Gasoline_C_CAT_20 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2024.12.01-14.38.25:968][ 21]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_10:PersistentLevel.DESTROYED_Cloud3_C_CHILDACTOR_20.DefaultSceneRoot) Trying to register component with IsValid() == false. Aborting.
+[2024.12.01-14.38.25:968][ 21]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_10:PersistentLevel.DESTROYED_Cloud3_C_CHILDACTOR_21.DefaultSceneRoot) Trying to register component with IsValid() == false. Aborting.
+[2024.12.01-14.38.25:969][ 21]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_10:PersistentLevel.DESTROYED_Cloud3_C_CHILDACTOR_22.DefaultSceneRoot) Trying to register component with IsValid() == false. Aborting.
+[2024.12.01-14.38.25:969][ 21]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_10:PersistentLevel.DESTROYED_Cloud3_C_CHILDACTOR_23.DefaultSceneRoot) Trying to register component with IsValid() == false. Aborting.
+[2024.12.01-14.38.25:972][ 21]LogActor: Warning: Cloud1_C /Game/Maps/TestMap1.TestMap1:PersistentLevel.Cloud1_C_130_GEN_VARIABLE_Cloud1_C_CAT_UAID_E4A8DFC8C64E9B3402_1810215578 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2024.12.01-14.38.25:973][ 21]LogActor: Warning: Cloud1_C /Game/Maps/TestMap1.TestMap1:PersistentLevel.Cloud1_C_131_GEN_VARIABLE_Cloud1_C_CAT_UAID_E4A8DFC8C64E9B3402_1810216579 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2024.12.01-14.38.25:974][ 21]LogActor: Warning: Cloud2_C /Game/Maps/TestMap1.TestMap1:PersistentLevel.Cloud2_C_39_GEN_VARIABLE_Cloud2_C_CAT_UAID_E4A8DFC8C64E9B3402_1810217580 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2024.12.01-14.38.25:975][ 21]LogActor: Warning: Cloud3_C /Game/Maps/TestMap1.TestMap1:PersistentLevel.Cloud3_C_125_GEN_VARIABLE_Cloud3_C_CAT_UAID_E4A8DFC8C64E9B3402_1810218581 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2024.12.01-14.38.25:976][ 21]LogActor: Warning: Cloud3_C /Game/Maps/TestMap1.TestMap1:PersistentLevel.Cloud3_C_127_GEN_VARIABLE_Cloud3_C_CAT_UAID_E4A8DFC8C64E9B3402_1810219582 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2024.12.01-14.38.25:977][ 21]LogActor: Warning: Cloud3_C /Game/Maps/TestMap1.TestMap1:PersistentLevel.Cloud3_C_129_GEN_VARIABLE_Cloud3_C_CAT_UAID_E4A8DFC8C64E9B3402_1810220583 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2024.12.01-14.38.25:978][ 21]LogActor: Warning: Cloud3_C /Game/Maps/TestMap1.TestMap1:PersistentLevel.Cloud3_C_142_GEN_VARIABLE_Cloud3_C_CAT_UAID_E4A8DFC8C64E9B3402_1810221584 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2024.12.01-14.38.25:979][ 21]LogActor: Warning: Gasoline_C /Game/Maps/TestMap1.TestMap1:PersistentLevel.Gasoline_C_51_GEN_VARIABLE_Gasoline_C_CAT_UAID_E4A8DFC8C64E9B3402_1810222585 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2024.12.01-14.38.25:980][ 21]LogActor: Warning: Gasoline_C /Game/Maps/TestMap1.TestMap1:PersistentLevel.Gasoline_C_52_GEN_VARIABLE_Gasoline_C_CAT_UAID_E4A8DFC8C64E9B3402_1810223586 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2024.12.01-14.38.25:980][ 21]LogActor: Warning: Gasoline_C /Game/Maps/TestMap1.TestMap1:PersistentLevel.Gasoline_C_53_GEN_VARIABLE_Gasoline_C_CAT_UAID_E4A8DFC8C64E9B3402_1810223587 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2024.12.01-14.38.25:985][ 21]LogActorComponent: RegisterComponentWithWorld: (/Game/Maps/TestMap1.TestMap1:PersistentLevel.DESTROYED_Cloud3_C_CHILDACTOR_2095823228.DefaultSceneRoot) Trying to register component with IsValid() == false. Aborting.
+[2024.12.01-14.38.25:985][ 21]LogActorComponent: RegisterComponentWithWorld: (/Game/Maps/TestMap1.TestMap1:PersistentLevel.DESTROYED_Cloud3_C_CHILDACTOR_2095823229.DefaultSceneRoot) Trying to register component with IsValid() == false. Aborting.
+[2024.12.01-14.38.25:985][ 21]LogActorComponent: RegisterComponentWithWorld: (/Game/Maps/TestMap1.TestMap1:PersistentLevel.DESTROYED_Cloud3_C_CHILDACTOR_2095823230.DefaultSceneRoot) Trying to register component with IsValid() == false. Aborting.
+[2024.12.01-14.38.25:985][ 21]LogActorComponent: RegisterComponentWithWorld: (/Game/Maps/TestMap1.TestMap1:PersistentLevel.DESTROYED_Cloud3_C_CHILDACTOR_2095823231.DefaultSceneRoot) Trying to register component with IsValid() == false. Aborting.
+[2024.12.01-14.38.25:988][ 21]LogActor: Warning: Cloud1_C /Game/Maps/TestMap1.TestMap1:PersistentLevel.Cloud1_C_137_GEN_VARIABLE_Cloud1_C_CAT_UAID_E4A8DFC8C64E9B3402_1810231590 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2024.12.01-14.38.25:989][ 21]LogActor: Warning: Cloud2_C /Game/Maps/TestMap1.TestMap1:PersistentLevel.Cloud2_C_47_GEN_VARIABLE_Cloud2_C_CAT_UAID_E4A8DFC8C64E9B3402_1810232591 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2024.12.01-14.38.25:990][ 21]LogActor: Warning: Cloud3_C /Game/Maps/TestMap1.TestMap1:PersistentLevel.Cloud3_C_139_GEN_VARIABLE_Cloud3_C_CAT_UAID_E4A8DFC8C64E9B3402_1810233592 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2024.12.01-14.38.25:991][ 21]LogActor: Warning: Cloud3_C /Game/Maps/TestMap1.TestMap1:PersistentLevel.Cloud3_C_143_GEN_VARIABLE_Cloud3_C_CAT_UAID_E4A8DFC8C64E9B3402_1810234593 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2024.12.01-14.38.25:992][ 21]LogActor: Warning: Gasoline_C /Game/Maps/TestMap1.TestMap1:PersistentLevel.Gasoline_C_64_GEN_VARIABLE_Gasoline_C_CAT_UAID_E4A8DFC8C64E9B3402_1810235594 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2024.12.01-14.38.25:993][ 21]LogActor: Warning: Gasoline_C /Game/Maps/TestMap1.TestMap1:PersistentLevel.Gasoline_C_65_GEN_VARIABLE_Gasoline_C_CAT_UAID_E4A8DFC8C64E9B3402_1810236595 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2024.12.01-14.38.25:994][ 21]LogActor: Warning: Gasoline_C /Game/Maps/TestMap1.TestMap1:PersistentLevel.Gasoline_C_66_GEN_VARIABLE_Gasoline_C_CAT_UAID_E4A8DFC8C64E9B3402_1810236596 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2024.12.01-14.38.25:999][ 21]LogActorComponent: RegisterComponentWithWorld: (/Game/Maps/TestMap1.TestMap1:PersistentLevel.DESTROYED_Cloud3_C_CHILDACTOR_2095823232.DefaultSceneRoot) Trying to register component with IsValid() == false. Aborting.
+[2024.12.01-14.38.25:999][ 21]LogActorComponent: RegisterComponentWithWorld: (/Game/Maps/TestMap1.TestMap1:PersistentLevel.DESTROYED_Cloud3_C_CHILDACTOR_2095823233.DefaultSceneRoot) Trying to register component with IsValid() == false. Aborting.
+[2024.12.01-14.38.25:999][ 21]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_5:PersistentLevel.DESTROYED_Cloud3_C_CHILDACTOR_55.DefaultSceneRoot) Trying to register component with IsValid() == false. Aborting.
+[2024.12.01-14.38.25:999][ 21]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_6:PersistentLevel.DESTROYED_Cloud3_C_CHILDACTOR_54.DefaultSceneRoot) Trying to register component with IsValid() == false. Aborting.
+[2024.12.01-14.38.25:999][ 21]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_6:PersistentLevel.DESTROYED_Cloud3_C_CHILDACTOR_55.DefaultSceneRoot) Trying to register component with IsValid() == false. Aborting.
+[2024.12.01-14.38.25:999][ 21]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_5:PersistentLevel.DESTROYED_Cloud3_C_CHILDACTOR_54.DefaultSceneRoot) Trying to register component with IsValid() == false. Aborting.
+[2024.12.01-14.38.25:999][ 21]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_10:PersistentLevel.DESTROYED_Cloud3_C_CHILDACTOR_7.DefaultSceneRoot) Trying to register component with IsValid() == false. Aborting.
+[2024.12.01-14.38.25:999][ 21]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_10:PersistentLevel.DESTROYED_Cloud3_C_CHILDACTOR_6.DefaultSceneRoot) Trying to register component with IsValid() == false. Aborting.
+[2024.12.01-14.38.25:999][ 21]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_10:PersistentLevel.DESTROYED_Cloud3_C_CHILDACTOR_5.DefaultSceneRoot) Trying to register component with IsValid() == false. Aborting.
+[2024.12.01-14.38.25:999][ 21]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_10:PersistentLevel.DESTROYED_Cloud3_C_CHILDACTOR_4.DefaultSceneRoot) Trying to register component with IsValid() == false. Aborting.
+[2024.12.01-14.38.25:999][ 21]LogActorComponent: RegisterComponentWithWorld: (/Game/Maps/TestMap1.TestMap1:PersistentLevel.DESTROYED_Cloud3_C_CHILDACTOR_2095823219.DefaultSceneRoot) Trying to register component with IsValid() == false. Aborting.
+[2024.12.01-14.38.25:999][ 21]LogActorComponent: RegisterComponentWithWorld: (/Game/Maps/TestMap1.TestMap1:PersistentLevel.DESTROYED_Cloud3_C_CHILDACTOR_2095823220.DefaultSceneRoot) Trying to register component with IsValid() == false. Aborting.
+[2024.12.01-14.38.25:999][ 21]LogActorComponent: RegisterComponentWithWorld: (/Game/Maps/TestMap1.TestMap1:PersistentLevel.DESTROYED_Cloud3_C_CHILDACTOR_2095823218.DefaultSceneRoot) Trying to register component with IsValid() == false. Aborting.
+[2024.12.01-14.38.25:999][ 21]LogActorComponent: RegisterComponentWithWorld: (/Game/Maps/TestMap1.TestMap1:PersistentLevel.DESTROYED_Cloud3_C_CHILDACTOR_2095823221.DefaultSceneRoot) Trying to register component with IsValid() == false. Aborting.
+[2024.12.01-14.38.25:999][ 21]LogActorComponent: RegisterComponentWithWorld: (/Game/Maps/TestMap1.TestMap1:PersistentLevel.DESTROYED_Cloud3_C_CHILDACTOR_2095823217.DefaultSceneRoot) Trying to register component with IsValid() == false. Aborting.
+[2024.12.01-14.38.26:000][ 21]LogActorComponent: RegisterComponentWithWorld: (/Game/Maps/TestMap1.TestMap1:PersistentLevel.DESTROYED_Cloud3_C_CHILDACTOR_2095823216.DefaultSceneRoot) Trying to register component with IsValid() == false. Aborting.
+[2024.12.01-14.38.28:030][139]BlueprintLog: New page: Compile InstaCloud
+[2024.12.01-14.38.28:126][139]LogUObjectHash: Compacting FUObjectHashTables data took   1.28ms
+[2024.12.01-14.38.28:516][158]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.12.01-14.38.28:582][158]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Obstacles/Clouds/InstaCloud" FILE="../../../../../../Users/Lev/Documents/Unreal Projects/UnnamedFallingGame/Content/Obstacles/Clouds/InstaCloud.uasset" SILENT=true
+[2024.12.01-14.38.28:591][158]LogSavePackage: Moving output files for package: /Game/Obstacles/Clouds/InstaCloud
+[2024.12.01-14.38.28:591][158]LogSavePackage: Moving '../../../../../../Users/Lev/Documents/Unreal Projects/UnnamedFallingGame/Saved/InstaCloudF6BB2109414C41F222324B843BE6C1E3.tmp' to '../../../../../../Users/Lev/Documents/Unreal Projects/UnnamedFallingGame/Content/Obstacles/Clouds/InstaCloud.uasset'
+[2024.12.01-14.38.28:596][158]LogFileHelpers: InternalPromptForCheckoutAndSave took 79 ms (total: 2.24 sec)
+[2024.12.01-14.38.28:598][158]AssetCheck: New page: Asset Save: InstaCloud
+[2024.12.01-14.38.28:598][158]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Obstacles/Clouds/InstaCloud.InstaCloud
+[2024.12.01-14.38.35:746][582]BlueprintLog: New page: Compile BirdPawn
+[2024.12.01-14.38.35:809][582]LogUObjectHash: Compacting FUObjectHashTables data took   1.31ms
+[2024.12.01-14.38.36:360][607]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.12.01-14.38.36:431][607]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Player/BirdPawn" FILE="../../../../../../Users/Lev/Documents/Unreal Projects/UnnamedFallingGame/Content/Player/BirdPawn.uasset" SILENT=true
+[2024.12.01-14.38.36:477][607]LogSavePackage: Moving output files for package: /Game/Player/BirdPawn
+[2024.12.01-14.38.36:477][607]LogSavePackage: Moving '../../../../../../Users/Lev/Documents/Unreal Projects/UnnamedFallingGame/Saved/BirdPawn15AC3CA046024763996846A0F1516F26.tmp' to '../../../../../../Users/Lev/Documents/Unreal Projects/UnnamedFallingGame/Content/Player/BirdPawn.uasset'
+[2024.12.01-14.38.36:483][607]LogFileHelpers: InternalPromptForCheckoutAndSave took 122 ms (total: 2.36 sec)
+[2024.12.01-14.38.36:485][607]AssetCheck: New page: Asset Save: BirdPawn
+[2024.12.01-14.38.36:485][607]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Player/BirdPawn.BirdPawn
+[2024.12.01-14.40.01:053][458]BlueprintLog: New page: Compile BirdPawn
+[2024.12.01-14.40.01:114][458]LogUObjectHash: Compacting FUObjectHashTables data took   1.42ms
+[2024.12.01-14.40.03:000][554]LogUObjectHash: Compacting FUObjectHashTables data took   1.16ms
+[2024.12.01-14.40.03:005][554]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.12.01-14.40.03:101][554]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Player/BirdPawn" FILE="../../../../../../Users/Lev/Documents/Unreal Projects/UnnamedFallingGame/Content/Player/BirdPawn.uasset" SILENT=true
+[2024.12.01-14.40.03:148][554]LogSavePackage: Moving output files for package: /Game/Player/BirdPawn
+[2024.12.01-14.40.03:149][554]LogSavePackage: Moving '../../../../../../Users/Lev/Documents/Unreal Projects/UnnamedFallingGame/Saved/BirdPawn4DCF8A0045AD7A2961BF7C80D793D8EC.tmp' to '../../../../../../Users/Lev/Documents/Unreal Projects/UnnamedFallingGame/Content/Player/BirdPawn.uasset'
+[2024.12.01-14.40.03:154][554]LogFileHelpers: InternalPromptForCheckoutAndSave took 149 ms (total: 2.51 sec)
+[2024.12.01-14.40.03:158][554]AssetCheck: New page: Asset Save: BirdPawn
+[2024.12.01-14.40.03:158][554]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Player/BirdPawn.BirdPawn
+[2024.12.01-14.40.04:469][618]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2024.12.01-14.40.04:474][618]LogContentBundle: [TestMap1(Standalone)] Generating Streaming for 0 Content Bundles.
+[2024.12.01-14.40.04:474][618]LogWorldPartition: Display: GenerateStreaming for 'TestMap1' started...
+[2024.12.01-14.40.04:566][618]LogWorldPartition: Display: GenerateStreaming for 'TestMap1' took 91 ms (total: 1.28 sec)
+[2024.12.01-14.40.04:566][618]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.12.01-14.40.04:566][618]PIE: New page: PIE session: TestMap1 (Nov 30, 2024, 10:40:04 PM)
+[2024.12.01-14.40.04:566][618]LogPlayLevel: Display: Creating online subsystem for client :Context_34
+[2024.12.01-14.40.04:568][618]LogOnline: OSS: Created online subsystem instance for: :Context_34
+[2024.12.01-14.40.04:593][619]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_TestMap1
+[2024.12.01-14.40.04:609][619]LogPlayLevel: PIE: StaticDuplicateObject took: (0.015739s)
+[2024.12.01-14.40.04:609][619]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/TestMap1.TestMap1 to /Game/Maps/UEDPIE_0_TestMap1.TestMap1 (0.015776s)
+[2024.12.01-14.40.04:621][619]LogUObjectHash: Compacting FUObjectHashTables data took   1.26ms
+[2024.12.01-14.40.04:623][619]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.12.01-14.40.04:623][619]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.12.01-14.40.04:623][619]LogAIModule: Creating AISystem for world TestMap1
+[2024.12.01-14.40.04:623][619]LogWorldPartition: ULevel::OnLevelLoaded(TestMap1)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2024.12.01-14.40.04:623][619]LogWorldPartition: Display: WorldPartition initialize started...
+[2024.12.01-14.40.04:623][619]LogWorldPartition: UWorldPartition::Initialize : World = TestMap1, World Type = PIE, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 0, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2024.12.01-14.40.04:624][619]LogWorldPartition: UWorldPartition::Initialize Context : World NetMode = Standalone, IsServer = 0, IsDedicatedServer = 0, IsServerStreamingEnabled = 0, IsServerStreamingOutEnabled = 0, IsUsingMakingVisibleTransaction = 0, IsUsingMakingInvisibleTransaction = 0
+[2024.12.01-14.40.04:627][619]LogContentBundle: [TestMap1(Standalone)] Creating new contrainer.
+[2024.12.01-14.40.04:627][619]LogWorldPartition: Display: WorldPartition initialize took 3 ms (total: 406 ms)
+[2024.12.01-14.40.04:627][619]LogPlayLevel: PIE: World Init took: (0.004812s)
+[2024.12.01-14.40.04:627][619]LogAudio: Display: Creating Audio Device:                 Id: 15, Scope: Unique, Realtime: True
+[2024.12.01-14.40.04:627][619]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.12.01-14.40.04:627][619]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.12.01-14.40.04:627][619]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.12.01-14.40.04:627][619]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.12.01-14.40.04:627][619]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.12.01-14.40.04:627][619]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.12.01-14.40.04:627][619]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.12.01-14.40.04:627][619]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.12.01-14.40.04:628][619]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.12.01-14.40.04:628][619]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.12.01-14.40.04:628][619]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.12.01-14.40.04:630][619]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.12.01-14.40.04:658][619]LogAudioMixer: Display: Using Audio Hardware Device Headphones (Realtek(R) Audio)
+[2024.12.01-14.40.04:658][619]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.12.01-14.40.04:658][619]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.12.01-14.40.04:658][619]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.12.01-14.40.04:659][619]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=15
+[2024.12.01-14.40.04:659][619]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=15
+[2024.12.01-14.40.04:660][619]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=15
+[2024.12.01-14.40.04:660][619]LogInit: FAudioDevice initialized with ID 15.
+[2024.12.01-14.40.04:660][619]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=15
+[2024.12.01-14.40.04:660][619]LogAudio: Display: Audio Device (ID: 15) registered with world 'TestMap1'.
+[2024.12.01-14.40.04:660][619]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 15
+[2024.12.01-14.40.04:663][619]LogLoad: Game class is 'BirdGameMode_C'
+[2024.12.01-14.40.04:666][619]LogWorld: Bringing World /Game/Maps/UEDPIE_0_TestMap1.TestMap1 up for play (max tick rate 60) at 2024.12.01-06.40.04
+[2024.12.01-14.40.04:667][619]LogWorld: Bringing up level for play took: 0.003175
+[2024.12.01-14.40.04:668][619]LogWorldPartition: UWorldPartitionStreamingPolicy: CellsToActivate(45), CellsToLoad(0), CellsToUnload(0)
+[2024.12.01-14.40.04:668][619]LogWorldPartition: UWorldPartitionStreamingPolicy: Sources[0] = X=0.000 Y=0.000 Z=1342.000,P=0.000000 Y=180.000000 R=-0.000000
+[2024.12.01-14.40.04:671][619]LogStreaming: Display: FlushAsyncLoading(): 45 QueuedPackages, 0 AsyncPackages
+[2024.12.01-14.40.04:697][619]PIE: Server logged in
+[2024.12.01-14.40.04:699][619]PIE: Play in editor total start time 0.225 seconds.
+[2024.12.01-14.40.04:699][619]LogScript: Warning: Script Msg: Divide by zero: Divide_VectorVector
+[2024.12.01-14.40.04:699][619]LogScript: Warning: Script Msg called by: BirdPawn_C /Game/Maps/UEDPIE_0_TestMap1.TestMap1:PersistentLevel.BirdPawn_C_0
+[2024.12.01-14.40.04:699][619]LogScript: Warning: Script Msg: Divide by zero: Divide_VectorVector
+[2024.12.01-14.40.04:699][619]LogScript: Warning: Script Msg called by: BirdPawn_C /Game/Maps/UEDPIE_0_TestMap1.TestMap1:PersistentLevel.BirdPawn_C_0
+[2024.12.01-14.40.04:724][620]LogScript: Warning: Script Msg: Divide by zero: Divide_VectorVector
+[2024.12.01-14.40.04:724][620]LogScript: Warning: Script Msg called by: BirdPawn_C /Game/Maps/UEDPIE_0_TestMap1.TestMap1:PersistentLevel.BirdPawn_C_0
+[2024.12.01-14.40.04:724][620]LogScript: Warning: Script Msg: Divide by zero: Divide_VectorVector
+[2024.12.01-14.40.04:724][620]LogScript: Warning: Script Msg called by: BirdPawn_C /Game/Maps/UEDPIE_0_TestMap1.TestMap1:PersistentLevel.BirdPawn_C_0
+[2024.12.01-14.40.04:804][621]LogScript: Warning: Script Msg: Divide by zero: Divide_VectorVector
+[2024.12.01-14.40.04:804][621]LogScript: Warning: Script Msg called by: BirdPawn_C /Game/Maps/UEDPIE_0_TestMap1.TestMap1:PersistentLevel.BirdPawn_C_0
+[2024.12.01-14.40.04:804][621]LogScript: Warning: Script Msg: Divide by zero: Divide_VectorVector
+[2024.12.01-14.40.04:804][621]LogScript: Warning: Script Msg called by: BirdPawn_C /Game/Maps/UEDPIE_0_TestMap1.TestMap1:PersistentLevel.BirdPawn_C_0
+[2024.12.01-14.40.04:829][622]LogScript: Warning: Script Msg: Divide by zero: Divide_VectorVector
+[2024.12.01-14.40.04:829][622]LogScript: Warning: Script Msg called by: BirdPawn_C /Game/Maps/UEDPIE_0_TestMap1.TestMap1:PersistentLevel.BirdPawn_C_0
+[2024.12.01-14.40.04:829][622]LogScript: Warning: Script Msg: Divide by zero: Divide_VectorVector
+[2024.12.01-14.40.04:829][622]LogScript: Warning: Script Msg called by: BirdPawn_C /Game/Maps/UEDPIE_0_TestMap1.TestMap1:PersistentLevel.BirdPawn_C_0
+[2024.12.01-14.40.04:846][623]LogScript: Warning: Script Msg: Divide by zero: Divide_VectorVector
+[2024.12.01-14.40.04:846][623]LogScript: Warning: Script Msg called by: BirdPawn_C /Game/Maps/UEDPIE_0_TestMap1.TestMap1:PersistentLevel.BirdPawn_C_0
+[2024.12.01-14.40.04:846][623]LogScript: Warning: Script Msg: Divide by zero: Divide_VectorVector
+[2024.12.01-14.40.04:846][623]LogScript: Warning: Script Msg called by: BirdPawn_C /Game/Maps/UEDPIE_0_TestMap1.TestMap1:PersistentLevel.BirdPawn_C_0
+[2024.12.01-14.40.04:862][624]LogScript: Warning: Script Msg: Divide by zero: Divide_VectorVector
+[2024.12.01-14.40.04:862][624]LogScript: Warning: Script Msg called by: BirdPawn_C /Game/Maps/UEDPIE_0_TestMap1.TestMap1:PersistentLevel.BirdPawn_C_0
+[2024.12.01-14.40.04:862][624]LogScript: Warning: Script Msg: Divide by zero: Divide_VectorVector
+[2024.12.01-14.40.04:862][624]LogScript: Warning: Script Msg called by: BirdPawn_C /Game/Maps/UEDPIE_0_TestMap1.TestMap1:PersistentLevel.BirdPawn_C_0
+[2024.12.01-14.40.04:879][625]LogScript: Warning: Script Msg: Divide by zero: Divide_VectorVector
+[2024.12.01-14.40.04:879][625]LogScript: Warning: Script Msg called by: BirdPawn_C /Game/Maps/UEDPIE_0_TestMap1.TestMap1:PersistentLevel.BirdPawn_C_0
+[2024.12.01-14.40.04:879][625]LogScript: Warning: Script Msg: Divide by zero: Divide_VectorVector
+[2024.12.01-14.40.04:879][625]LogScript: Warning: Script Msg called by: BirdPawn_C /Game/Maps/UEDPIE_0_TestMap1.TestMap1:PersistentLevel.BirdPawn_C_0
+[2024.12.01-14.40.04:896][626]LogScript: Warning: Script Msg: Divide by zero: Divide_VectorVector
+[2024.12.01-14.40.04:896][626]LogScript: Warning: Script Msg called by: BirdPawn_C /Game/Maps/UEDPIE_0_TestMap1.TestMap1:PersistentLevel.BirdPawn_C_0
+[2024.12.01-14.40.04:896][626]LogScript: Warning: Script Msg: Divide by zero: Divide_VectorVector
+[2024.12.01-14.40.04:896][626]LogScript: Warning: Script Msg called by: BirdPawn_C /Game/Maps/UEDPIE_0_TestMap1.TestMap1:PersistentLevel.BirdPawn_C_0
+[2024.12.01-14.40.04:914][627]LogScript: Warning: Script Msg: Divide by zero: Divide_VectorVector
+[2024.12.01-14.40.04:914][627]LogScript: Warning: Script Msg called by: BirdPawn_C /Game/Maps/UEDPIE_0_TestMap1.TestMap1:PersistentLevel.BirdPawn_C_0
+[2024.12.01-14.40.04:914][627]LogScript: Warning: Script Msg: Divide by zero: Divide_VectorVector
+[2024.12.01-14.40.04:914][627]LogScript: Warning: Script Msg called by: BirdPawn_C /Game/Maps/UEDPIE_0_TestMap1.TestMap1:PersistentLevel.BirdPawn_C_0
+[2024.12.01-14.40.04:930][628]LogScript: Warning: Script Msg: Divide by zero: Divide_VectorVector
+[2024.12.01-14.40.04:930][628]LogScript: Warning: Script Msg called by: BirdPawn_C /Game/Maps/UEDPIE_0_TestMap1.TestMap1:PersistentLevel.BirdPawn_C_0
+[2024.12.01-14.40.04:930][628]LogScript: Warning: Script Msg: Divide by zero: Divide_VectorVector
+[2024.12.01-14.40.04:931][628]LogScript: Warning: Script Msg called by: BirdPawn_C /Game/Maps/UEDPIE_0_TestMap1.TestMap1:PersistentLevel.BirdPawn_C_0
+[2024.12.01-14.40.04:948][629]LogScript: Warning: Script Msg: Divide by zero: Divide_VectorVector
+[2024.12.01-14.40.04:949][629]LogScript: Warning: Script Msg called by: BirdPawn_C /Game/Maps/UEDPIE_0_TestMap1.TestMap1:PersistentLevel.BirdPawn_C_0
+[2024.12.01-14.40.04:949][629]LogScript: Warning: Script Msg: Divide by zero: Divide_VectorVector
+[2024.12.01-14.40.04:949][629]LogScript: Warning: Script Msg called by: BirdPawn_C /Game/Maps/UEDPIE_0_TestMap1.TestMap1:PersistentLevel.BirdPawn_C_0
+[2024.12.01-14.40.04:963][630]LogScript: Warning: Script Msg: Divide by zero: Divide_VectorVector
+[2024.12.01-14.40.04:963][630]LogScript: Warning: Script Msg called by: BirdPawn_C /Game/Maps/UEDPIE_0_TestMap1.TestMap1:PersistentLevel.BirdPawn_C_0
+[2024.12.01-14.40.04:963][630]LogScript: Warning: Script Msg: Divide by zero: Divide_VectorVector
+[2024.12.01-14.40.04:963][630]LogScript: Warning: Script Msg called by: BirdPawn_C /Game/Maps/UEDPIE_0_TestMap1.TestMap1:PersistentLevel.BirdPawn_C_0
+[2024.12.01-14.40.04:980][631]LogScript: Warning: Script Msg: Divide by zero: Divide_VectorVector
+[2024.12.01-14.40.04:980][631]LogScript: Warning: Script Msg called by: BirdPawn_C /Game/Maps/UEDPIE_0_TestMap1.TestMap1:PersistentLevel.BirdPawn_C_0
+[2024.12.01-14.40.04:980][631]LogScript: Warning: Script Msg: Divide by zero: Divide_VectorVector
+[2024.12.01-14.40.04:980][631]LogScript: Warning: Script Msg called by: BirdPawn_C /Game/Maps/UEDPIE_0_TestMap1.TestMap1:PersistentLevel.BirdPawn_C_0
+[2024.12.01-14.40.04:996][632]LogScript: Warning: Script Msg: Divide by zero: Divide_VectorVector
+[2024.12.01-14.40.04:996][632]LogScript: Warning: Script Msg called by: BirdPawn_C /Game/Maps/UEDPIE_0_TestMap1.TestMap1:PersistentLevel.BirdPawn_C_0
+[2024.12.01-14.40.04:997][632]LogScript: Warning: Script Msg: Divide by zero: Divide_VectorVector
+[2024.12.01-14.40.04:997][632]LogScript: Warning: Script Msg called by: BirdPawn_C /Game/Maps/UEDPIE_0_TestMap1.TestMap1:PersistentLevel.BirdPawn_C_0
+[2024.12.01-14.40.05:013][633]LogScript: Warning: Script Msg: Divide by zero: Divide_VectorVector
+[2024.12.01-14.40.05:013][633]LogScript: Warning: Script Msg called by: BirdPawn_C /Game/Maps/UEDPIE_0_TestMap1.TestMap1:PersistentLevel.BirdPawn_C_0
+[2024.12.01-14.40.05:014][633]LogScript: Warning: Script Msg: Divide by zero: Divide_VectorVector
+[2024.12.01-14.40.05:014][633]LogScript: Warning: Script Msg called by: BirdPawn_C /Game/Maps/UEDPIE_0_TestMap1.TestMap1:PersistentLevel.BirdPawn_C_0
+[2024.12.01-14.40.08:346][831]LogActor: Warning: Cloud2_C /Game/Maps/UEDPIE_0_TestMap1.TestMap1:PersistentLevel.Cloud2_C_34_GEN_VARIABLE_Cloud2_C_CAT_0 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2024.12.01-14.40.08:347][831]LogActor: Warning: Gasoline_C /Game/Maps/UEDPIE_0_TestMap1.TestMap1:PersistentLevel.Gasoline_C_46_GEN_VARIABLE_Gasoline_C_CAT_2078778999 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2024.12.01-14.40.08:348][831]LogActor: Warning: Gasoline_C /Game/Maps/UEDPIE_0_TestMap1.TestMap1:PersistentLevel.Gasoline_C_47_GEN_VARIABLE_Gasoline_C_CAT_2078779000 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2024.12.01-14.40.08:349][831]LogActor: Warning: Gasoline_C /Game/Maps/UEDPIE_0_TestMap1.TestMap1:PersistentLevel.Gasoline_C_48_GEN_VARIABLE_Gasoline_C_CAT_2078779001 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2024.12.01-14.40.08:349][831]LogActor: Warning: Cloud2_C /Game/Maps/UEDPIE_0_TestMap1.TestMap1:PersistentLevel.Cloud2_C_35_GEN_VARIABLE_Cloud2_C_CAT_1 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2024.12.01-14.40.08:350][831]LogActor: Warning: Cloud2_C /Game/Maps/UEDPIE_0_TestMap1.TestMap1:PersistentLevel.Cloud2_C_36_GEN_VARIABLE_Cloud2_C_CAT_2 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2024.12.01-14.40.08:353][831]LogBlueprintUserMessages: [Tile_01_C_UAID_E4A8DFC8C64E9A3402_2078763991] Hello
+[2024.12.01-14.40.12:142][ 58]LogActor: Warning: Cloud2_C /Game/Maps/UEDPIE_0_TestMap1.TestMap1:PersistentLevel.Cloud2_C_40_GEN_VARIABLE_Cloud2_C_CAT_2078773996 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2024.12.01-14.40.12:143][ 58]LogActor: Warning: Cloud2_C /Game/Maps/UEDPIE_0_TestMap1.TestMap1:PersistentLevel.Cloud2_C_41_GEN_VARIABLE_Cloud2_C_CAT_2078773997 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2024.12.01-14.40.12:144][ 58]LogActor: Warning: Cloud3_C /Game/Maps/UEDPIE_0_TestMap1.TestMap1:PersistentLevel.Cloud3_C_128_GEN_VARIABLE_Cloud3_C_CAT_2078776999 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2024.12.01-14.40.12:144][ 58]LogActor: Warning: Cloud3_C /Game/Maps/UEDPIE_0_TestMap1.TestMap1:PersistentLevel.Cloud3_C_138_GEN_VARIABLE_Cloud3_C_CAT_2078777000 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2024.12.01-14.40.12:145][ 58]LogActor: Warning: Gasoline_C /Game/Maps/UEDPIE_0_TestMap1.TestMap1:PersistentLevel.Gasoline_C_44_GEN_VARIABLE_Gasoline_C_CAT_2078781002 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2024.12.01-14.40.12:146][ 58]LogActor: Warning: Gasoline_C /Game/Maps/UEDPIE_0_TestMap1.TestMap1:PersistentLevel.Gasoline_C_45_GEN_VARIABLE_Gasoline_C_CAT_2078781003 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2024.12.01-14.40.12:147][ 58]LogActor: Warning: Gasoline_C /Game/Maps/UEDPIE_0_TestMap1.TestMap1:PersistentLevel.Gasoline_C_46_GEN_VARIABLE_Gasoline_C_CAT_2078781004 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2024.12.01-14.40.12:147][ 58]LogActor: Warning: Cloud3_C /Game/Maps/UEDPIE_0_TestMap1.TestMap1:PersistentLevel.Cloud3_C_129_GEN_VARIABLE_Cloud3_C_CAT_2078777001 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2024.12.01-14.40.12:148][ 58]LogActor: Warning: Cloud3_C /Game/Maps/UEDPIE_0_TestMap1.TestMap1:PersistentLevel.Cloud3_C_130_GEN_VARIABLE_Cloud3_C_CAT_2078777002 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2024.12.01-14.40.12:150][ 58]LogBlueprintUserMessages: [Tile_02_C_UAID_E4A8DFC8C64E9A3402_2095811148] Hello
+[2024.12.01-14.40.15:279][245]LogActor: Warning: Cloud1_C /Game/Maps/UEDPIE_0_TestMap1.TestMap1:PersistentLevel.Cloud1_C_112_GEN_VARIABLE_Cloud1_C_CAT_2095815154 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2024.12.01-14.40.15:280][245]LogActor: Warning: Cloud1_C /Game/Maps/UEDPIE_0_TestMap1.TestMap1:PersistentLevel.Cloud1_C_113_GEN_VARIABLE_Cloud1_C_CAT_2095815155 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2024.12.01-14.40.15:281][245]LogActor: Warning: Cloud1_C /Game/Maps/UEDPIE_0_TestMap1.TestMap1:PersistentLevel.Cloud1_C_114_GEN_VARIABLE_Cloud1_C_CAT_2095815156 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2024.12.01-14.40.15:282][245]LogActor: Warning: Cloud1_C /Game/Maps/UEDPIE_0_TestMap1.TestMap1:PersistentLevel.Cloud1_C_118_GEN_VARIABLE_Cloud1_C_CAT_2095815157 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2024.12.01-14.40.15:283][245]LogActor: Warning: Cloud1_C /Game/Maps/UEDPIE_0_TestMap1.TestMap1:PersistentLevel.Cloud1_C_127_GEN_VARIABLE_Cloud1_C_CAT_2095815158 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2024.12.01-14.40.15:284][245]LogActor: Warning: Cloud2_C /Game/Maps/UEDPIE_0_TestMap1.TestMap1:PersistentLevel.Cloud2_C_42_GEN_VARIABLE_Cloud2_C_CAT_2095817154 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2024.12.01-14.40.15:284][245]LogActor: Warning: Cloud2_C /Game/Maps/UEDPIE_0_TestMap1.TestMap1:PersistentLevel.Cloud2_C_43_GEN_VARIABLE_Cloud2_C_CAT_2095817155 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2024.12.01-14.40.15:285][245]LogActor: Warning: Gasoline_C /Game/Maps/UEDPIE_0_TestMap1.TestMap1:PersistentLevel.Gasoline_C_54_GEN_VARIABLE_Gasoline_C_CAT_2095826165 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2024.12.01-14.40.15:286][245]LogActor: Warning: Gasoline_C /Game/Maps/UEDPIE_0_TestMap1.TestMap1:PersistentLevel.Gasoline_C_55_GEN_VARIABLE_Gasoline_C_CAT_2095826166 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2024.12.01-14.40.15:286][245]LogActor: Warning: Gasoline_C /Game/Maps/UEDPIE_0_TestMap1.TestMap1:PersistentLevel.Gasoline_C_56_GEN_VARIABLE_Gasoline_C_CAT_2095826167 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2024.12.01-14.40.15:289][245]LogBlueprintUserMessages: [Tile_11_C_0] Hello
+[2024.12.01-14.40.18:495][437]LogActor: Warning: Cloud2_C /Game/Maps/UEDPIE_0_TestMap1.TestMap1:PersistentLevel.Cloud2_C_40_GEN_VARIABLE_Cloud2_C_CAT_2095817160 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2024.12.01-14.40.18:496][437]LogActor: Warning: Cloud2_C /Game/Maps/UEDPIE_0_TestMap1.TestMap1:PersistentLevel.Cloud2_C_41_GEN_VARIABLE_Cloud2_C_CAT_2095817161 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2024.12.01-14.40.18:497][437]LogActor: Warning: Cloud3_C /Game/Maps/UEDPIE_0_TestMap1.TestMap1:PersistentLevel.Cloud3_C_128_GEN_VARIABLE_Cloud3_C_CAT_2095823161 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2024.12.01-14.40.18:498][437]LogActor: Warning: Cloud3_C /Game/Maps/UEDPIE_0_TestMap1.TestMap1:PersistentLevel.Cloud3_C_138_GEN_VARIABLE_Cloud3_C_CAT_2095823162 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2024.12.01-14.40.18:499][437]LogActor: Warning: Gasoline_C /Game/Maps/UEDPIE_0_TestMap1.TestMap1:PersistentLevel.Gasoline_C_44_GEN_VARIABLE_Gasoline_C_CAT_2095826169 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2024.12.01-14.40.18:499][437]LogActor: Warning: Gasoline_C /Game/Maps/UEDPIE_0_TestMap1.TestMap1:PersistentLevel.Gasoline_C_45_GEN_VARIABLE_Gasoline_C_CAT_2095826170 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2024.12.01-14.40.18:500][437]LogActor: Warning: Gasoline_C /Game/Maps/UEDPIE_0_TestMap1.TestMap1:PersistentLevel.Gasoline_C_46_GEN_VARIABLE_Gasoline_C_CAT_2095826171 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2024.12.01-14.40.18:501][437]LogActor: Warning: Cloud3_C /Game/Maps/UEDPIE_0_TestMap1.TestMap1:PersistentLevel.Cloud3_C_129_GEN_VARIABLE_Cloud3_C_CAT_2095823163 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2024.12.01-14.40.18:501][437]LogActor: Warning: Cloud3_C /Game/Maps/UEDPIE_0_TestMap1.TestMap1:PersistentLevel.Cloud3_C_130_GEN_VARIABLE_Cloud3_C_CAT_2095823164 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2024.12.01-14.40.18:503][437]LogBlueprintUserMessages: [Tile_06_C_0] Hello
+[2024.12.01-14.40.23:091][712]LogActor: Warning: Cloud1_C /Game/Maps/UEDPIE_0_TestMap1.TestMap1:PersistentLevel.Cloud1_C_112_GEN_VARIABLE_Cloud1_C_CAT_2095815161 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2024.12.01-14.40.23:092][712]LogActor: Warning: Cloud1_C /Game/Maps/UEDPIE_0_TestMap1.TestMap1:PersistentLevel.Cloud1_C_113_GEN_VARIABLE_Cloud1_C_CAT_2095815162 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2024.12.01-14.40.23:093][712]LogActor: Warning: Cloud1_C /Game/Maps/UEDPIE_0_TestMap1.TestMap1:PersistentLevel.Cloud1_C_114_GEN_VARIABLE_Cloud1_C_CAT_2095815163 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2024.12.01-14.40.23:094][712]LogActor: Warning: Cloud1_C /Game/Maps/UEDPIE_0_TestMap1.TestMap1:PersistentLevel.Cloud1_C_118_GEN_VARIABLE_Cloud1_C_CAT_2095815164 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2024.12.01-14.40.23:094][712]LogActor: Warning: Cloud1_C /Game/Maps/UEDPIE_0_TestMap1.TestMap1:PersistentLevel.Cloud1_C_127_GEN_VARIABLE_Cloud1_C_CAT_2095815165 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2024.12.01-14.40.23:095][712]LogActor: Warning: Cloud2_C /Game/Maps/UEDPIE_0_TestMap1.TestMap1:PersistentLevel.Cloud2_C_42_GEN_VARIABLE_Cloud2_C_CAT_2095817164 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2024.12.01-14.40.23:096][712]LogActor: Warning: Cloud2_C /Game/Maps/UEDPIE_0_TestMap1.TestMap1:PersistentLevel.Cloud2_C_43_GEN_VARIABLE_Cloud2_C_CAT_2095817165 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2024.12.01-14.40.23:097][712]LogActor: Warning: Gasoline_C /Game/Maps/UEDPIE_0_TestMap1.TestMap1:PersistentLevel.Gasoline_C_54_GEN_VARIABLE_Gasoline_C_CAT_2095826175 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2024.12.01-14.40.23:098][712]LogActor: Warning: Gasoline_C /Game/Maps/UEDPIE_0_TestMap1.TestMap1:PersistentLevel.Gasoline_C_55_GEN_VARIABLE_Gasoline_C_CAT_2095826176 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2024.12.01-14.40.23:098][712]LogActor: Warning: Gasoline_C /Game/Maps/UEDPIE_0_TestMap1.TestMap1:PersistentLevel.Gasoline_C_56_GEN_VARIABLE_Gasoline_C_CAT_2095826177 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2024.12.01-14.40.23:100][712]LogBlueprintUserMessages: [Tile_04_C_0] Hello
+[2024.12.01-14.40.28:469][ 34]LogActor: Warning: Cloud1_C /Game/Maps/UEDPIE_0_TestMap1.TestMap1:PersistentLevel.Cloud1_C_134_GEN_VARIABLE_Cloud1_C_CAT_2095815169 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2024.12.01-14.40.28:470][ 34]LogActor: Warning: Cloud1_C /Game/Maps/UEDPIE_0_TestMap1.TestMap1:PersistentLevel.Cloud1_C_135_GEN_VARIABLE_Cloud1_C_CAT_2095815170 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2024.12.01-14.40.28:470][ 34]LogActor: Warning: Cloud1_C /Game/Maps/UEDPIE_0_TestMap1.TestMap1:PersistentLevel.Cloud1_C_136_GEN_VARIABLE_Cloud1_C_CAT_2095815171 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2024.12.01-14.40.28:471][ 34]LogActor: Warning: Cloud1_C /Game/Maps/UEDPIE_0_TestMap1.TestMap1:PersistentLevel.Cloud1_C_140_GEN_VARIABLE_Cloud1_C_CAT_2095815172 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2024.12.01-14.40.28:472][ 34]LogActor: Warning: Cloud1_C /Game/Maps/UEDPIE_0_TestMap1.TestMap1:PersistentLevel.Cloud1_C_147_GEN_VARIABLE_Cloud1_C_CAT_2095815173 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2024.12.01-14.40.28:473][ 34]LogActor: Warning: Cloud1_C /Game/Maps/UEDPIE_0_TestMap1.TestMap1:PersistentLevel.Cloud1_C_172_GEN_VARIABLE_Cloud1_C_CAT_2095815174 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2024.12.01-14.40.28:474][ 34]LogActor: Warning: Cloud2_C /Game/Maps/UEDPIE_0_TestMap1.TestMap1:PersistentLevel.Cloud2_C_32_GEN_VARIABLE_Cloud2_C_CAT_2095817168 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2024.12.01-14.40.28:474][ 34]LogActor: Warning: Cloud2_C /Game/Maps/UEDPIE_0_TestMap1.TestMap1:PersistentLevel.Cloud2_C_35_GEN_VARIABLE_Cloud2_C_CAT_2095817169 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2024.12.01-14.40.28:475][ 34]LogActor: Warning: Cloud3_C /Game/Maps/UEDPIE_0_TestMap1.TestMap1:PersistentLevel.Cloud3_C_140_GEN_VARIABLE_Cloud3_C_CAT_2095823169 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2024.12.01-14.40.28:476][ 34]LogActor: Warning: Cloud3_C /Game/Maps/UEDPIE_0_TestMap1.TestMap1:PersistentLevel.Cloud3_C_141_GEN_VARIABLE_Cloud3_C_CAT_2095823170 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2024.12.01-14.40.28:477][ 34]LogActor: Warning: Cloud3_C /Game/Maps/UEDPIE_0_TestMap1.TestMap1:PersistentLevel.Cloud3_C_148_GEN_VARIABLE_Cloud3_C_CAT_2095823171 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2024.12.01-14.40.28:478][ 34]LogActor: Warning: Gasoline_C /Game/Maps/UEDPIE_0_TestMap1.TestMap1:PersistentLevel.Gasoline_C_42_GEN_VARIABLE_Gasoline_C_CAT_2095826183 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2024.12.01-14.40.28:478][ 34]LogActor: Warning: Gasoline_C /Game/Maps/UEDPIE_0_TestMap1.TestMap1:PersistentLevel.Gasoline_C_43_GEN_VARIABLE_Gasoline_C_CAT_2095826184 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2024.12.01-14.40.28:479][ 34]LogActor: Warning: Gasoline_C /Game/Maps/UEDPIE_0_TestMap1.TestMap1:PersistentLevel.Gasoline_C_44_GEN_VARIABLE_Gasoline_C_CAT_2095826185 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2024.12.01-14.40.28:483][ 34]LogBlueprintUserMessages: [Tile_06_C_1] Hello
+[2024.12.01-14.40.31:025][184]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.12.01-14.40.31:025][184]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_TestMap1
+[2024.12.01-14.40.31:028][184]LogWorld: UWorld::CleanupWorld for TestMap1, bSessionEnded=true, bCleanupResources=true
+[2024.12.01-14.40.31:031][184]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.12.01-14.40.31:031][184]LogContentBundle: [TestMap1(Standalone)] Deleting container.
+[2024.12.01-14.40.31:038][184]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.12.01-14.40.31:044][184]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.12.01-14.40.31:060][184]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.12.01-14.40.31:061][184]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 15
+[2024.12.01-14.40.31:062][184]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=15
+[2024.12.01-14.40.31:063][184]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=15
+[2024.12.01-14.40.31:078][184]LogUObjectHash: Compacting FUObjectHashTables data took   1.40ms
+[2024.12.01-14.40.31:128][185]LogPlayLevel: Display: Destroying online subsystem :Context_34
+[2024.12.01-14.40.45:843][ 24]BlueprintLog: New page: Compile InstaCloud
+[2024.12.01-14.40.45:926][ 24]LogUObjectHash: Compacting FUObjectHashTables data took   1.25ms
+[2024.12.01-14.40.46:271][ 42]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.12.01-14.40.46:348][ 42]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Obstacles/Clouds/InstaCloud" FILE="../../../../../../Users/Lev/Documents/Unreal Projects/UnnamedFallingGame/Content/Obstacles/Clouds/InstaCloud.uasset" SILENT=true
+[2024.12.01-14.40.46:357][ 42]LogSavePackage: Moving output files for package: /Game/Obstacles/Clouds/InstaCloud
+[2024.12.01-14.40.46:357][ 42]LogSavePackage: Moving '../../../../../../Users/Lev/Documents/Unreal Projects/UnnamedFallingGame/Saved/InstaCloudBD5580C14E5152CE7B39DEAF8ABBC149.tmp' to '../../../../../../Users/Lev/Documents/Unreal Projects/UnnamedFallingGame/Content/Obstacles/Clouds/InstaCloud.uasset'
+[2024.12.01-14.40.46:363][ 42]LogFileHelpers: InternalPromptForCheckoutAndSave took 91 ms (total: 2.61 sec)
+[2024.12.01-14.40.46:365][ 42]AssetCheck: New page: Asset Save: InstaCloud
+[2024.12.01-14.40.46:365][ 42]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Obstacles/Clouds/InstaCloud.InstaCloud
+[2024.12.01-14.41.03:104][435]LogUObjectHash: Compacting FUObjectHashTables data took   1.15ms
